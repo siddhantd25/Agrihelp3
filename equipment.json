@@ -1,0 +1,991 @@
+{
+    "productId": "PROD-EQP001",
+    "name": "HarvestMaster Pro",
+    "description": "The pinnacle of agricultural technology designed to elevate your cultivation experience.",
+    "type": "Equipment",
+    "price": 1499.99,
+    "originalPrice": 2199.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-Dd5RZUHCBlxogWbFxaNwj6nrkbwpNpUxNa1SPba5w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0Z4283sJb40xlIPvwFIrJlSZrcbN_x-MDkxRbvivuw&s"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Enhances soil fertility",
+      "Tailored for Indian crops",
+      "Slow-release nutrients"
+    ]
+  }
+
+  {
+    "productId": "PROD-EQP002",
+    "name": "AgriTechMaster 2000",
+    "description": "Revolutionary agricultural equipment for enhanced crop yield and sustainable farming practices.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://w0.peakpx.com/wallpaper/781/567/HD-wallpaper-john-deere-s670-grain-harvesting-2019-combines%E2%80%8B-wheat-harvest-agricultural-machinery-r-combine-harvester-645fd-combine%E2%80%8B-in-the-field-agriculture-john-deere.jpg",
+      "https://w0.peakpx.com/wallpaper/310/859/HD-wallpaper-john-deere-s700-combine-harvester-2020-combines-wheat-harvest-harvesting-concepts-john-deere.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "sustainable",
+      "Indian POV"
+    ],
+    "brand": "EcoFarm Innovations",
+    "weight": 6,
+    "features": [
+      "Optimized for Indian soil",
+      "Water-efficient technology",
+      "Smart irrigation system",
+      "Remote monitoring capabilities"
+    ]
+  }
+  
+
+  {
+    "productId": "PROD-EQP003",
+    "name": "SeedMaster Pro India Edition",
+    "description": "State-of-the-art seed planting equipment for precision agriculture and higher germination rates.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://static.producer.com/wp-content/uploads/2022/06/29195318/37-4-col-Ultra-SR-3.jpg",
+      "https://static.agdealer.com/wp-content/uploads/2023/07/SeedMaster-Ultra-SR-Seeder-scaled.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "precision farming",
+      "Indian POV"
+    ],
+    "brand": "AgroTech Solutions",
+    "weight": 7,
+    "features": [
+      "Advanced seed placement technology",
+      "Adaptable to various crop types",
+      "Improved seed spacing",
+      "Real-time data analytics"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP004",
+    "name": "HarvestTech Pro India",
+    "description": "Cutting-edge harvesting equipment designed for Indian farmers, ensuring efficiency and crop preservation.",
+    "type": "Equipment",
+    "price": 1599.99,
+    "originalPrice": 2299.99,
+    "rating": 4.6,
+    "remainingQuantity": 175,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/image-photo/image-agricultural-equipment-under-white-260nw-121259854.jpg",
+      "https://khetigaadi.com/blog/wp-content/uploads/2021/08/Agriculture-Machinery_6_11zon.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "harvesting",
+      "Indian POV"
+    ],
+    "brand": "CropTech Dynamics",
+    "weight": 8,
+    "features": [
+      "Gentle crop handling",
+      "Adaptable for various crops",
+      "Energy-efficient harvesting",
+      "Integrated pest management"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP005",
+    "name": "SoilMaster India Elite",
+    "description": "Next-generation soil testing equipment tailored for Indian agricultural conditions, promoting optimal soil health.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.9,
+    "remainingQuantity": 185,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://hunterkaneandson.com/wp-content/uploads/2021/09/IMG_2743.jpg",
+      "https://5.imimg.com/data5/GLADMIN/Default/2023/1/HW/WF/EQ/71820/soil-master-disc-harrow.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "soil testing",
+      "Indian POV"
+    ],
+    "brand": "AgriLab Innovations",
+    "weight": 6.5,
+    "features": [
+      "Accurate nutrient analysis",
+      "Real-time pH monitoring",
+      "Customized fertilization recommendations",
+      "User-friendly interface"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP006",
+    "name": "SmartPlow India Plus",
+    "description": "Intelligent plowing equipment for Indian fields, optimizing soil aeration and enhancing overall crop productivity.",
+    "type": "Equipment",
+    "price": 1499.99,
+    "originalPrice": 2199.99,
+    "rating": 4.7,
+    "remainingQuantity": 195,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://agrisem.com/wp-content/uploads/2022/10/Smartplow-300m-RC_avg_small-2.png",
+      "https://agrisem.com/wp-content/uploads/2022/10/IMG_3785-1350x1080.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "plowing",
+      "Indian POV"
+    ],
+    "brand": "AgroSmart Tech",
+    "weight": 7.2,
+    "features": [
+      "Autonomous plowing capabilities",
+      "Adjustable plowing depth",
+      "Real-time field mapping",
+      "Fuel-efficient design"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP007",
+    "name": "GreenGuard Pest Control",
+    "description": "Effective pest control equipment designed specifically for Indian crops, ensuring a healthy harvest.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 125,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs8hMA4a0upPaBo4CokKIHjwckPgwHlmwmd4HhhgFry6lRBqjq6sJ5RfLA2C_LPayPkSk&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblVeXeN7qbRmnVy5aGQZx7mMI8HuitsR4PEscMFzUbZqbInZOMZ6jhfltA2aQjOFPOUA&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "pest control",
+      "Indian POV"
+    ],
+    "brand": "Guardian AgriTech",
+    "weight": 6.8,
+    "features": [
+      "Targeted pest eradication",
+      "Environmentally friendly",
+      "Smart sensing technology",
+      "Low maintenance"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP008",
+    "name": "SolarHarvest India Max",
+    "description": "Solar-powered irrigation system tailored for Indian farms, providing sustainable water management for crops.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.8,
+    "remainingQuantity": 170,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://c8.alamy.com/comp/2G8KR79/denpasarbali-aug-29-2020-a-hydroponic-farmer-is-harvesting-vegetables-in-his-garden-the-garden-uses-electricity-from-solar-energy-the-solar-panel-2G8KR79.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zwEpRDkTVV39pI2d6Vl_oWhJfV__BijC4luo8kgUpt0JFhgl-ofXItfuLpTDGUFeJQ&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "irrigation",
+      "Indian POV"
+    ],
+    "brand": "SolarAgro Solutions",
+    "weight": 9,
+    "features": [
+      "Off-grid solar operation",
+      "Water-saving technology",
+      "Customizable scheduling",
+      "Drought-resistant design"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP009",
+    "name": "CropScan India Pro",
+    "description": "Advanced crop monitoring equipment designed to analyze and optimize Indian crop health with precision.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.9,
+    "remainingQuantity": 185,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://www.findlight.net/uploads/products/images/CropScan-3000F---Grain-and-Flour-NIR-Analyser1.png",
+      "https://www.findlight.net/uploads/products/images/CropScan-1000B---Whole-Grain-Analyser1.png"
+    ],
+    "categories": [
+      "equipment",
+      "crop monitoring",
+      "Indian POV"
+    ],
+    "brand": "AgroVision Tech",
+    "weight": 7.5,
+    "features": [
+      "High-resolution imaging",
+      "Disease detection algorithms",
+      "Real-time data analytics",
+      "Wireless data transfer"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP010",
+    "name": "AgroDrone India Elite",
+    "description": "Cutting-edge agricultural drone for precision farming in Indian fields, providing real-time data for efficient crop management.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.7,
+    "remainingQuantity": 165,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://img.freepik.com/premium-photo/agrodrone-sprays-rows-winter-wheat-sprouts-background-beautiful-sky-concept-modern-agriculture_234715-530.jpg?w=2000",
+      "https://img.freepik.com/premium-photo/agrodrone-field-with-rows-winter-wheat-sprouts-concept-modern-agriculture_234715-534.jpg?w=2000"
+    ],
+    "categories": [
+      "equipment",
+      "drone",
+      "Indian POV"
+    ],
+    "brand": "SkyHarvest Technologies",
+    "weight": 2.5,
+    "features": [
+      "High-resolution imaging",
+      "Precision spraying",
+      "Automated flight paths",
+      "Crop health analysis"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP011",
+    "name": "OrganicFert India Boost",
+    "description": "Organic fertilizer spreader designed for Indian farms, promoting sustainable and chemical-free crop cultivation.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.8,
+    "remainingQuantity": 175,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/image-photo/image-agricultural-equipment-under-white-260nw-121259854.jpg",
+      "https://i.pinimg.com/236x/b1/cf/4c/b1cf4ca4161c1a77d76af93bd8896ec5.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "NatureGrow Solutions",
+    "weight": 6.3,
+    "features": [
+      "Precise fertilizer distribution",
+      "Customizable application rates",
+      "Slow-release nutrients",
+      "Improved soil fertility"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP012",
+    "name": "ClimateControl India Pro",
+    "description": "Advanced climate control system for Indian greenhouses, ensuring optimal conditions for crop growth throughout the year.",
+    "type": "Equipment",
+    "price": 2099.99,
+    "originalPrice": 2799.99,
+    "rating": 4.9,
+    "remainingQuantity": 160,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+      "https://www.tractorjunction.com/blog/wp-content/uploads/2020/07/3065.png",
+      "https://5.imimg.com/data5/SELLER/Default/2022/1/BO/NQ/LR/44975276/hydraulic-agricultural-plough-500x500.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "greenhouse",
+      "Indian POV"
+    ],
+    "brand": "AgriClimate Control",
+    "weight": 10,
+    "features": [
+      "Automated temperature regulation",
+      "Humidity control",
+      "Energy-efficient design",
+      "Remote monitoring and control"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP013",
+    "name": "AquaHarvest India Pro",
+    "description": "Efficient water harvesting system for Indian agricultural lands, conserving water and promoting sustainable farming.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.7,
+    "remainingQuantity": 170,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://www.kingspan.com/content/dam/kingspan/kwe/products/rainwater-harvesting/kingspan-aquaharvest-domestic-rainwater-harvesting-product-render-en-gb.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "https://d3pcsg2wjq9izr.cloudfront.net/files/107/products/930716/107_2_202302101007241684433_raw.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "water harvesting",
+      "Indian POV"
+    ],
+    "brand": "AquaSaver Innovations",
+    "weight": 8.5,
+    "features": [
+      "Rainwater collection system",
+      "Smart distribution network",
+      "Drought-resistant design",
+      "Easy installation"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP014",
+    "name": "FarmGuard India Sentry",
+    "description": "Integrated farm security system designed for Indian agricultural lands, safeguarding crops and equipment.",
+    "type": "Equipment",
+    "price": 1599.99,
+    "originalPrice": 2299.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://image.made-in-china.com/2f0j00hMYGeJDknocL/Farmguard-16-20L-12V-Battery-Operated-Spray-Pump-Rechargeable-Chemical-Electric-Knapsack-Trolley-Type-Agricultural-Sprayer.webp",
+      "https://image.made-in-china.com/202f0j00nBjUkLiCEVcY/Farmguard-16L-20-L-Agricultural-Agriculture-Manual-Type-Garden-Farm-Spray-Tool-Knapsack-Hand-Sprayer.webp"
+    ],
+    "categories": [
+      "equipment",
+      "security",
+      "Indian POV"
+    ],
+    "brand": "SecureFarm Tech",
+    "weight": 7.8,
+    "features": [
+      "24/7 surveillance",
+      "Intruder detection",
+      "Smart alert system",
+      "Remote monitoring"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP015",
+    "name": "AgriConnect India Hub",
+    "description": "Centralized farm management system for Indian farmers, providing real-time data analytics and decision support.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.9,
+    "remainingQuantity": 175,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+      "https://c8.alamy.com/comp/HK0RJA/farmer-agriculture-tools-isolated-on-white-background-HK0RJA.jpg",
+      "https://c8.alamy.com/comp/HK0RJ9/farmer-agriculture-tools-isolated-on-white-background-HK0RJ9.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "farm management",
+      "Indian POV"
+    ],
+    "brand": "AgroConnect Solutions",
+    "weight": 6.5,
+    "features": [
+      "Data-driven insights",
+      "Crop rotation planning",
+      "Weather forecasting",
+      "Mobile app integration"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP016",
+    "name": "HarvestMate India Pro",
+    "description": "Comprehensive harvest management system for Indian farmers, optimizing crop collection and processing.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://thumbs.dreamstime.com/b/cute-set-tools-harvesting-inventory-cute-set-tools-harvesting-inventory-watercolour-print-postcard-calendar-219190334.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiv62IXXttFU7zFMHepcgev1_GgT0q9s5hetVnXkhQT7YYP1tXE-xIVLie0-uQU4Dgy38&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "harvest management",
+      "Indian POV"
+    ],
+    "brand": "HarvestTech India",
+    "weight": 8.2,
+    "features": [
+      "Automated crop sorting",
+      "Efficient processing line",
+      "Real-time inventory tracking",
+      "Quality control measures"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP017",
+    "name": "AgroMonitor India Plus",
+    "description": "Advanced field monitoring equipment for Indian agriculture, providing insights into crop health and environmental conditions.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://eos.com/wp-content/uploads/2021/06/interface-tablet.jpg",
+      "https://tracextech.com/wp-content/uploads/2023/05/farm-sustainability-metrics.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "field monitoring",
+      "Indian POV"
+    ],
+    "brand": "AgriSense Tech",
+    "weight": 7.0,
+    "features": [
+      "Satellite imaging",
+      "Microclimate monitoring",
+      "Pest outbreak alerts",
+      "Historical data analysis"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP018",
+    "name": "PrecisionSeed India Master",
+    "description": "State-of-the-art precision seed drill designed for Indian farms, ensuring accurate and efficient sowing.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.9,
+    "remainingQuantity": 185,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://media.istockphoto.com/id/1353600375/photo/tractor-drilling-seeding-crops-at-farm-agricultural-activity.jpg?s=612x612&w=0&k=20&c=lQ_JNjbUGzvAJllYEEv5KqOFdAZYPgeiMD3N8ivIpss=",
+      "https://media.istockphoto.com/id/1148916177/photo/working-on-farmland.jpg?s=612x612&w=0&k=20&c=pOXF7mHI8zdjhGJ5oncWm4XfPjxgK-j2oMU8jvdyWFs="
+    ],
+    "categories": [
+      "equipment",
+      "precision farming",
+      "Indian POV"
+    ],
+    "brand": "SeedMaster India",
+    "weight": 6.5,
+    "features": [
+      "Variable seed rate",
+      "GPS-guided planting",
+      "Integrated fertilizer application",
+      "Adaptable to diverse soil conditions"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP019",
+    "name": "GreenPower India Harrow",
+    "description": "Powerful harrow system designed for Indian agriculture, ensuring thorough soil cultivation for improved crop yields.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.7,
+    "remainingQuantity": 170,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://media.istockphoto.com/id/173853080/photo/green-power-drill.jpg?s=612x612&w=0&k=20&c=O2VdpIGDO-DITMap7XatoNa2bZV11ZDj5GivQzX5G0c=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5qct2NRRggNSLRmgiRgZo1gi5CUXbeqkZPxfIkPj2JUHcE9dZd3pVlZp5L9BSYeoIPA&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "soil cultivation",
+      "Indian POV"
+    ],
+    "brand": "AgroPower Systems",
+    "weight": 8.0,
+    "features": [
+      "Adjustable tine angle",
+      "High-speed operation",
+      "Robust frame design",
+      "Efficient weed control"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP020",
+    "name": "AgroGuard India Sprayer",
+    "description": "High-performance crop sprayer designed for Indian fields, ensuring precise and efficient pesticide application.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/EV/XJ/MY-2599588/knapsack-sprayer-machine-500x500.jpg",
+      "https://c8.alamy.com/comp/2C43YFP/knapsack-sprayer-backpack-manual-sprayer-machine-isolated-2C43YFP.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "pest control",
+      "Indian POV"
+    ],
+    "brand": "SprayTech India",
+    "weight": 7.5,
+    "features": [
+      "Adjustable spray nozzles",
+      "Integrated tank monitoring",
+      "Smart pesticide mixing",
+      "Reduced chemical wastage"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP021",
+    "name": "SolarPump India Elite",
+    "description": "Solar-powered water pump designed for Indian agriculture, providing energy-efficient irrigation for remote areas.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.9,
+    "remainingQuantity": 175,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://t3.ftcdn.net/jpg/04/98/13/14/360_F_498131487_M2l6clHO89deFGyFE6kXcuUqut3ZjHbF.jpg",
+      "https://t3.ftcdn.net/jpg/04/09/45/28/360_F_409452891_DsPEjFX2mURo7mgPL4gKFZ7LDN0RiwXm.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "irrigation",
+      "Indian POV"
+    ],
+    "brand": "SolarFlow Innovations",
+    "weight": 9.2,
+    "features": [
+      "Off-grid solar operation",
+      "Variable flow rate",
+      "Low maintenance",
+      "Adaptable to different water sources"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP022",
+    "name": "AgriWeather India Pro",
+    "description": "Comprehensive weather station designed for Indian farms, providing real-time meteorological data for precise crop management.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.7,
+    "remainingQuantity": 170,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/YQ/JO/MY-16318921/7-5hp-solar-pump.png",
+      "https://5.imimg.com/data5/IU/NE/MY-66425072/solar-water-pump-500x500-500x500.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "weather monitoring",
+      "Indian POV"
+    ],
+    "brand": "WeatherAgro Systems",
+    "weight": 8.5,
+    "features": [
+      "Temperature and humidity sensors",
+      "Wind speed monitoring",
+      "Rainfall prediction",
+      "Mobile app integration"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP023",
+    "name": "CropHarbor India Storage",
+    "description": "Innovative crop storage system designed for Indian agriculture, ensuring optimal conditions for post-harvest preservation.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://preview.redd.it/credit-to-the-harbor-freight-tool-junkies-page-someone-v0-gx9urq1gc2wb1.jpg?width=640&crop=smart&auto=webp&s=7c463b9a4d76df039f1f9ee013406b7fb985785d",
+      "https://preview.redd.it/how-bout-some-harbor-freight-tool-mods-v0-hjah049r8il81.jpg?width=640&crop=smart&auto=webp&s=72ef632fe24b7664482e697534c9edd14b46fa7a"
+    ],
+    "categories": [
+      "equipment",
+      "storage",
+      "Indian POV"
+    ],
+    "brand": "CropCare Innovations",
+    "weight": 7.8,
+    "features": [
+      "Temperature-controlled chambers",
+      "Humidity regulation",
+      "Smart inventory tracking",
+      "Energy-efficient design"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP024",
+    "name": "SmartAgro India Drone Scout",
+    "description": "AI-powered agricultural drone designed for Indian farms, providing real-time crop monitoring and analytics.",
+    "type": "Equipment",
+    "price": 2099.99,
+    "originalPrice": 2799.99,
+    "rating": 4.9,
+    "remainingQuantity": 165,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://dji-official-fe.djicdn.com/dps/0042a681f6a88953425198b366794b57.jpg",
+      "https://enterprise-insights.dji.com/hs-fs/hubfs/Blog%20Images/Use%20of%20Drones%20in%20Agriculture%20Today/T10%20Spraying.png?width=840&name=T10%20Spraying.png"
+    ],
+    "categories": [
+      "equipment",
+      "drone",
+      "Indian POV"
+    ],
+    "brand": "AgroScout Dynamics",
+    "weight": 2.7,
+    "features": [
+      "AI-powered crop analysis",
+      "Real-time disease detection",
+      "Precision spraying",
+      "Automated flight planning"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP025",
+    "name": "GreenLife India Composter",
+    "description": "Organic waste composter tailored for Indian agriculture, converting farm waste into nutrient-rich compost for sustainable farming.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/image-photo/woman-dumping-small-bin-kitchen-600nw-2079445645.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMynAaxYpcucWITcvicITLinagTMJnYR9FMksaBMtokQSP8Fe1m9J04dEoGBCpB4p-qkI&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "composting",
+      "Indian POV"
+    ],
+    "brand": "EcoCompost Solutions",
+    "weight": 6.2,
+    "features": [
+      "Efficient organic waste processing",
+      "Odor control technology",
+      "Compact design",
+      "High-quality compost output"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP026",
+    "name": "AgroGuard India Netting",
+    "description": "Protective crop netting designed for Indian farms, safeguarding crops from birds and pests while allowing optimal sunlight.",
+    "type": "Equipment",
+    "price": 1599.99,
+    "originalPrice": 2299.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 165,
+    "inStock": true,
+    "images": [
+      "https://www.greenproventures.com/wp-content/uploads/2023/05/GreenPro-Shade-Net.jpg",
+      "https://www.pe-nets.com/wp-content/uploads/2021/11/agro-green-nets-19.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "crop protection",
+      "Indian POV"
+    ],
+    "brand": "NetGuard India",
+    "weight": 5.5,
+    "features": [
+      "UV-resistant material",
+      "Customizable sizing",
+      "Easy installation",
+      "Long-lasting durability"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP027",
+    "name": "AgroTech India Seeder",
+    "description": "Innovative seed planting machine designed for Indian agriculture, ensuring precise seed placement and efficient planting.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.9,
+    "remainingQuantity": 175,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://www.lanceragrico.com/wp-content/uploads/2022/11/angle-4.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpXlesZJSWVec84DNhMdO3GvRz7q7nnlwgxqNrQOiwlzxuCV7gG87YiXKFdwMwPxhgGo&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "seed planting",
+      "Indian POV"
+    ],
+    "brand": "SeederTech Innovations",
+    "weight": 7.0,
+    "features": [
+      "Precision seed placement",
+      "Adjustable planting depth",
+      "Variable seed spacing",
+      "Adaptable to different soil types"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP028",
+    "name": "HarvestPro India Thresher",
+    "description": "High-capacity crop thresher designed for Indian farms, streamlining the harvesting process for various crops.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://4.imimg.com/data4/DN/WC/MY-14136357/agricultural-thresher-machine-500x500.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGd3ViOSjFUddpWrwX3hGW_aoUSxV6lRjPbFBFTGGzjszPe-rLykAzweQ-bfzF27uds6Q&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "harvesting",
+      "Indian POV"
+    ],
+    "brand": "HarvestPro Solutions",
+    "weight": 8.5,
+    "features": [
+      "High threshing efficiency",
+      "Adaptable for various crops",
+      "Easy maintenance",
+      "Reduced grain loss"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP029",
+    "name": "AgroCare India Pruner",
+    "description": "Precision pruning equipment designed for Indian orchards, promoting healthy growth and fruit production.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://horticult.co/spree/products/1782/original/Bypass-Pruner-Garden-Tools-Online-Best-Bypass-Secateurs-Horticult-Tools-Horticult.jpg?1637214234",
+      "https://cdn.pixabay.com/photo/2016/10/16/11/29/background-1744951_1280.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "pruning",
+      "Indian POV"
+    ],
+    "brand": "PruneMaster India",
+    "weight": 6.0,
+    "features": [
+      "Precision cutting blades",
+      "Adjustable cutting height",
+      "Ergonomic design",
+      "Suitable for various fruit trees"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP030",
+    "name": "AquaSense India Monitor",
+    "description": "Smart water monitoring system designed for Indian farms, ensuring efficient water usage and conservation.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.9,
+    "remainingQuantity": 175,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://mms.businesswire.com/media/20190801005219/en/736088/5/ScoutPro.jpg",
+      "https://www.customagintel.com/wp-content/uploads/2020/12/CAI-Crop-Monitoring-Web-Carousel-1600x800px-Nov-26-2020.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "water monitoring",
+      "Indian POV"
+    ],
+    "brand": "AquaSense Tech",
+    "weight": 7.2,
+    "features": [
+      "Soil moisture sensors",
+      "Real-time water consumption data",
+      "Smart irrigation scheduling",
+      "Mobile app integration"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP031",
+    "name": "SolarDry India Dehydrator",
+    "description": "Solar-powered crop dehydrator designed for Indian farmers, preserving fruits and vegetables efficiently.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/image-photo/west-jaintia-hills-meghalaya-indiajan-260nw-2244636319.jpg",
+      "https://www.shutterstock.com/image-photo/herb-spice-drying-sun-solar-260nw-1848318232.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "crop processing",
+      "Indian POV"
+    ],
+    "brand": "SolarDry Innovations",
+    "weight": 6.8,
+    "features": [
+      "Solar-powered dehydration",
+      "Adjustable temperature settings",
+      "Efficient air circulation",
+      "Compact design"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP032",
+    "name": "AgroPlast India Mulcher",
+    "description": "Durable crop mulcher designed for Indian agriculture, optimizing weed control and soil moisture retention.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://www.lecinfo.com/cdn/shop/files/40EX_1200x.jpg?v=1684450286",
+      "https://valleytoolmfg.com/wp-content/uploads/2019/10/brushhound-fx36-scaled.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "mulching",
+      "Indian POV"
+    ],
+    "brand": "MulchMaster India",
+    "weight": 7.0,
+    "features": [
+      "Efficient weed suppression",
+      "Adjustable cutting height",
+      "Durable blades",
+      "Improved soil structure"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP033",
+    "name": "AgriScan India Analyzer",
+    "description": "Crop health analyzer designed for Indian fields, providing instant insights into nutrient levels and plant well-being.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://delta-t.co.uk/wp-content/uploads/2016/10/SS1-SunScan-5.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUbAM9wl59oER87eelO5ySj1Ic7-fmsR3lyE-C_74v9ylcV4Yl1FbAo9RfzaE11Q5rLvs&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "crop analysis",
+      "Indian POV"
+    ],
+    "brand": "AgriSense Analytica",
+    "weight": 6.5,
+    "features": [
+      "Handheld scanning device",
+      "Instant nutrient analysis",
+      "Mobile app integration",
+      "User-friendly interface"
+    ]
+  }
+  
