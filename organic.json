@@ -1,0 +1,300 @@
+{
+    "productId": "PROD-ORP001",
+    "name": "OrganiGrow Naturals",
+    "description": "Your partner in cultivating a healthier, more bountiful harvest..",
+    "type": "Organic Product",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://media.istockphoto.com/id/684977254/photo/farmer-hand-giving-plant-organic-humus-fertilizer-to-plant.jpg?s=612x612&w=0&k=20&c=SjD1diUDXEBmXRF1My6lDdwV9BGpPTD1yWUCwz8235U=",
+      "https://media.istockphoto.com/id/465321958/video/hand-pouring-organic-soil-with-sunrise-slow-motion.jpg?s=640x640&k=20&c=zdVIWe43cZnQ2Kr7baEKK0fSJ67RJ7CrBcF08hpEGKg="
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Enhances soil fertility",
+      "Tailored for Indian crops",
+      "Slow-release nutrients"
+    ]
+  }
+  
+  {
+    "productId": "PROD-ORP002",
+    "name": "EcoGrowth Bliss",
+    "description": "Revitalize your soil and boost crop yield with nature's touch.",
+    "type": "Organic Product",
+    "price": 899.99,
+    "originalPrice": 1099.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://agricarecorp.com/wp-content/uploads/2020/11/Sheer-Plant-Bliss-fs-800x800.jpg",
+      "https://rukminim1.flixcart.com/image/850/1000/l2dmky80/soil-manure/f/q/c/rose-bliss-organic-fertilizer-for-rose-plants-rose-plant-garden-original-imagdqqsmv3hynwm.jpeg?q=90"
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "Harvest Naturals",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Tailored for Indian crops",
+      "Promotes natural pest resistance",
+      "Enhances water retention"
+    ]
+  }
+  
+  {
+    "productId": "PROD-ORP003",
+    "name": "PureVeda Harvest",
+    "description": "Experience the richness of ancient farming wisdom for modern cultivation.",
+    "type": "Organic Product",
+    "price": 749.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 220,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/ANDROID/Default/2023/7/326355139/EM/FL/TB/79711246/product-jpeg-500x500.jpg",
+      "https://naturecarefertilizers.com/image/cache/catalog/NCP-Green-_harvest-1200x1100.jpg"
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "Veda Green",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Enriched with Ayurvedic herbs",
+      "Sustainable farming practices",
+      "Balances soil pH"
+    ]
+  }
+  
+  {
+    "productId": "PROD-ORP004",
+    "name": "BioHarvest Essence",
+    "description": "Nourish your crops naturally with the power of organic goodness.",
+    "type": "Organic Product",
+    "price": 849.99,
+    "originalPrice": 999.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2022/12/RK/QD/BE/119919777/mini-harvest-1-.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2022/12/RJ/WG/ZX/119919777/mini-harvest-2-.jpg"
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "Nature's Bounty",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Fortified with essential minerals",
+      "Promotes robust plant growth",
+      "Harvested with care"
+    ]
+  }
+  
+  {
+    "productId": "PROD-ORP005",
+    "name": "GreenEarth Elixir",
+    "description": "Elevate your farming experience with a touch of nature's magic.",
+    "type": "Organic Product",
+    "price": 919.99,
+    "originalPrice": 1099.99,
+    "rating": 4.9,
+    "remainingQuantity": 170,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://tiimg.tistatic.com/fp/1/007/501/no-artificial-color-less-harmful-100-natural-green-earth-organic-pesticides-893.jpg",
+      "https://greenplanetindia.com/Content/images/Product/6_634.jpg"
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "GreenMagic Farms",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Enriched with natural enzymes",
+      "Promotes flower and fruit development",
+      "Sustainably sourced"
+    ]
+  }
+  
+  {
+    "productId": "PROD-ORP006",
+    "name": "NaturaGro Blissful Harvest",
+    "description": "Unleash the potential of your soil with the goodness of organic nourishment.",
+    "type": "Organic Product",
+    "price": 769.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 210,
+    "totalSold": 110,
+    "inStock": true,
+    "images": [
+      "https://www.google.com/search?q=hd+images+of+naturagro+blissful+harvest+fertilizer&tbm=isch&ved=2ahUKEwiNzPGo7YqDAxUmbmwGHXebDasQ2-cCegQIABAA&oq=hd+images+of+naturagro+blissful+harvest+fertilizer&gs_lcp=CgNpbWcQA1C9BVjTIWDaJWgAcAB4AIABjQGIAcEMkgEEMC4xMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=LtJ4ZY39F6bcseMP97a22Ao&bih=752&biw=726&client=opera-gx&hs=WUt#imgrc=a4qt9-QTtPiXlM",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5gzqWHvVxvFOFDwpBnyjSA0P0XwUIkSI61_OWEk8MRQUBXudBtOgBd4tTsnI8hUfmSQM&usqp=CAU"
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "AgriVeda",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Enriched with traditional herbs",
+      "Supports microbial activity in the soil",
+      "Promotes nutrient absorption"
+    ]
+  }
+  
+  {
+    "productId": "PROD-ORP007",
+    "name": "HarvestHub GreenGold",
+    "description": "Eco-friendly farming for a greener tomorrow - nurture your crops the natural way.",
+    "type": "Organic Product",
+    "price": 899.99,
+    "originalPrice": 1099.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/FI/TA/UV/SELLER-14569341/green-growth-organic-manure-500x500.jpg",
+      "https://5.imimg.com/data5/AJ/KE/UZ/SELLER-16532532/di-grow-green.jpg"
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "GreenEco Farms",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Sourced from sustainable practices",
+      "Improves soil structure",
+      "Optimizes water usage"
+    ]
+  }
+  
+  {
+    "productId": "PROD-ORP008",
+    "name": "SacredSoil Organic Blend",
+    "description": "A harmonious blend of nature's best for crops that thrive with vitality.",
+    "type": "Organic Product",
+    "price": 829.99,
+    "originalPrice": 999.99,
+    "rating": 4.8,
+    "remainingQuantity": 195,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://sacredsoil.nl/wp-content/uploads/2023/01/sacred-soil-add-1.jpg",
+      "https://somaseeds.nl/wp-content/uploads/2023/01/1022b6cb-489c-4a71-b782-b4323f676404.jpeg"
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "DivineHarvest",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Infused with Ayurvedic elements",
+      "Promotes balanced plant growth",
+      "Nurtures beneficial soil microorganisms"
+    ]
+  }
+  
+  {
+    "productId": "PROD-ORP009",
+    "name": "GreenRevive Natural Boost",
+    "description": "Revitalize your farming experience with a boost of natural energy for your crops.",
+    "type": "Organic Product",
+    "price": 879.99,
+    "originalPrice": 1099.99,
+    "rating": 4.9,
+    "remainingQuantity": 185,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+      "https://plantic.in/image/green-booster1.jpg",
+      "https://plantic.in/image/gd-aio.jpg"
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "NatureRevive Farms",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Boosts natural plant immunity",
+      "Enhances nutrient absorption",
+      "Supports sustainable agriculture"
+    ]
+  }
+  
+  {
+    "productId": "PROD-ORP010",
+    "name": "PureHarvest GreenGuard",
+    "description": "Guard your crops with the purest organic shield for a bountiful harvest.",
+    "type": "Organic Product",
+    "price": 799.99,
+    "originalPrice": 949.99,
+    "rating": 4.7,
+    "remainingQuantity": 205,
+    "totalSold": 125,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/4/298479038/FH/GH/KJ/122353901/green-guard.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2023/4/298479041/ML/LN/WM/122353901/green-guard.jpg"
+    ],
+    "categories": [
+      "organic product",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "PureHarvest Organics",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Provides natural pest resistance",
+      "Balances soil pH levels",
+      "Promotes healthy root development"
+    ]
+  }
+  
