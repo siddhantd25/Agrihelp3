@@ -1,0 +1,600 @@
+{
+    "productId": "PROD-PST001",
+    "name": "King Mite",
+    "description": "The cutting-edge pesticide solution designed to elevate your farming experience.",
+    "type": "Pesticide",
+    "price": 399.99,
+    "originalPrice": 599.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2022/1/CB/YX/UX/145537515/agricultural-acetamiprid-20-sp-insecticide-100gm-500x500.jpg",
+      "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVzdGljaWRlfGVufDB8fDB8fHww"
+    ],
+    "categories": [
+      "Pesticide",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Enhances soil fertility",
+      "Tailored for Indian crops",
+      "Slow-release nutrients"
+    ]
+  }
+
+  {
+    "productId": "PROD-PST002",
+    "name": "EcoGuard Plus",
+    "description": "An eco-friendly pesticide for sustainable agriculture in India.",
+    "type": "Pesticide",
+    "price": 449.99,
+    "originalPrice": 549.99,
+    "rating": 4.2,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://www.example.com/images/pesticide002.jpg",
+      "https://www.example.com/images/pesticide002-alt.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "AgriSafeguard",
+    "weight": 5,
+    "features": [
+      "Environmentally friendly",
+      "Promotes natural pollination",
+      "Tailored for Indian climate",
+      "Effective against common pests"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST003",
+    "name": "NeemGuard Supreme",
+    "description": "Harness the power of neem for pest control and crop health in Indian agriculture.",
+    "type": "Pesticide",
+    "price": 379.99,
+    "originalPrice": 499.99,
+    "rating": 4.7,
+    "remainingQuantity": 220,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2021/11/LR/UY/NX/66650699/t-prime-500x500.jpg",
+      "https://images.pexels.com/photos/13882449/pexels-photo-13882449.jpeg?cs=srgb&dl=pexels-rosyid-arifin-13882449.jpg&fm=jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "NeemAgro",
+    "weight": 4,
+    "features": [
+      "Neem-infused formula",
+      "Residual pest control",
+      "Suitable for all crops",
+      "Enhances soil structure"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST004",
+    "name": "TurmericShield Plus",
+    "description": "A unique pesticide blend with turmeric extracts for protecting Indian crops.",
+    "type": "Pesticide",
+    "price": 429.99,
+    "originalPrice": 549.99,
+    "rating": 4.4,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyzpvLGE3ZLwGc2uQ2oqrTa7-w_QDWkdIbXvQvJ0CViRpWs208nQjwDrj9ex4-4ykynk&usqp=CAU",
+      "https://cdn.pixabay.com/photo/2022/10/28/16/26/man-7553438_640.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "herbal",
+      "Indian POV"
+    ],
+    "brand": "TurmericGuard",
+    "weight": 5,
+    "features": [
+      "Turmeric-enriched formula",
+      "Boosts plant immunity",
+      "Ideal for Indian spice crops",
+      "Safe for organic farming"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST005",
+    "name": "BioShield Max",
+    "description": "A biopesticide with advanced microbial technology for sustainable farming in India.",
+    "type": "Pesticide",
+    "price": 459.99,
+    "originalPrice": 579.99,
+    "rating": 4.6,
+    "remainingQuantity": 210,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/UI/TZ/LR/SELLER-23902400/systemic-bio-insecticide.jpg",
+      "https://t4.ftcdn.net/jpg/00/99/85/77/360_F_99857753_ib3X5SVgQ3ZXPhaYHKqHsfXXFT12qPuO.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "biopesticide",
+      "Indian POV"
+    ],
+    "brand": "BioAgri",
+    "weight": 6,
+    "features": [
+      "Microbial pest control",
+      "Balances soil microbiota",
+      "Adapted for Indian crops",
+      "Sustainable agriculture"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST006",
+    "name": "SpiceGuard Pro",
+    "description": "Tailored pesticide solution for protecting and enhancing Indian spice crops.",
+    "type": "Pesticide",
+    "price": 389.99,
+    "originalPrice": 499.99,
+    "rating": 4.3,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://i.pinimg.com/236x/ba/bd/83/babd83111874efac379400d2a2ecf5da.jpg",
+      "https://cdn.pixabay.com/photo/2015/01/03/16/49/herbicide-587589_640.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "spices",
+      "Indian POV"
+    ],
+    "brand": "SpiceShield",
+    "weight": 5,
+    "features": [
+      "Specially for spice crops",
+      "Enhances flavor profile",
+      "Effective against spice-specific pests",
+      "Boosts spice yield"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST007",
+    "name": "AgriBoost Gold",
+    "description": "A high-performance pesticide for maximizing crop yield in diverse Indian agro-climates.",
+    "type": "Pesticide",
+    "price": 499.99,
+    "originalPrice": 629.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/61jvVARfZXL._AC_UF1000,1000_QL80_.jpg",
+      "https://st2.depositphotos.com/1581702/5338/i/950/depositphotos_53389101-stock-photo-farmer-spraying-pesticide-in-the.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "all-purpose",
+      "Indian POV"
+    ],
+    "brand": "AgroMax",
+    "weight": 6,
+    "features": [
+      "Versatile for various crops",
+      "High nutrient absorption",
+      "Adaptable to Indian soil conditions",
+      "Proven yield enhancement"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST008",
+    "name": "GreenGuard Organic",
+    "description": "An organic pesticide with a focus on sustainability and environmental harmony in Indian agriculture.",
+    "type": "Pesticide",
+    "price": 419.99,
+    "originalPrice": 539.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/8/337836228/WY/ZQ/BF/37256227/whatsapp-image-2023-08-08-at-11-51-16-am-500x500.jpeg",
+      "https://5.imimg.com/data5/SELLER/Default/2023/8/338326129/MK/UB/NG/23127284/agricultural-herbicides-pesticides-500x500.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "EcoHarvest",
+    "weight": 5,
+    "features": [
+      "Certified organic ingredients",
+      "Biodegradable packaging",
+      "Promotes biodiversity",
+      "Safe for Indian ecosystems"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST009",
+    "name": "Sunrise Shield",
+    "description": "A sunrise-inspired pesticide for effective pest management during the crucial morning hours in Indian fields.",
+    "type": "Pesticide",
+    "price": 459.99,
+    "originalPrice": 579.99,
+    "rating": 4.6,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/7/330646284/QD/JF/JD/154367906/whatsapp-image-2023-07-31-at-5-45-52-pm-500x500.jpeg",
+      "https://watermark.lovepik.com/photo/50771/6721.jpg_wh1200.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "morning-use",
+      "Indian POV"
+    ],
+    "brand": "SunriseAgro",
+    "weight": 5,
+    "features": [
+      "Optimized for morning application",
+      "Controls daytime pests",
+      "Boosts plant vitality",
+      "Adaptable for various crops"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST010",
+    "name": "AquaShield Plus",
+    "description": "A water-resistant pesticide designed to withstand monsoon challenges in Indian agriculture.",
+    "type": "Pesticide",
+    "price": 489.99,
+    "originalPrice": 599.99,
+    "rating": 4.4,
+    "remainingQuantity": 180,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2022/1/CB/YX/UX/145537515/agricultural-acetamiprid-20-sp-insecticide-100gm.jpg",
+      "https://img.freepik.com/premium-photo/indian-farmer-spraying-pesticide-cotton-field_54391-5825.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "monsoon-resistant",
+      "Indian POV"
+    ],
+    "brand": "AquaGuard",
+    "weight": 6,
+    "features": [
+      "Water-resistant formula",
+      "Effective during monsoons",
+      "Prevents water runoff",
+      "Sustainable rain-fed agriculture"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST011",
+    "name": "TerraSafe Green",
+    "description": "An eco-conscious pesticide that safeguards Indian farmlands while promoting biodiversity.",
+    "type": "Pesticide",
+    "price": 479.99,
+    "originalPrice": 599.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/10/355702959/EZ/FD/PV/189673395/20-500x500.jpg",
+      "https://images.pexels.com/photos/9280745/pexels-photo-9280745.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    ],
+    "categories": [
+      "Pesticide",
+      "eco-conscious",
+      "Indian POV"
+    ],
+    "brand": "TerraGuard",
+    "weight": 5,
+    "features": [
+      "Sustainable farming practices",
+      "Preserves natural habitats",
+      "Minimizes ecological impact",
+      "Supports local biodiversity"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST012",
+    "name": "Evergreen Shield",
+    "description": "A long-lasting pesticide formulation that provides continuous protection for Indian crops.",
+    "type": "Pesticide",
+    "price": 509.99,
+    "originalPrice": 629.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/HT/WX/CD/SELLER-22127533/acetamiprid-insecticide-500x500.jpg",
+      "https://t3.ftcdn.net/jpg/00/99/85/74/360_F_99857468_IMzulf6gkHnt1ZJU3OwmeLEDNGtS2LRB.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "long-lasting",
+      "Indian POV"
+    ],
+    "brand": "EverGuard",
+    "weight": 6,
+    "features": [
+      "Extended protection period",
+      "Slow-release formula",
+      "Ideal for Indian weather variations",
+      "Reduces the need for frequent applications"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST013",
+    "name": "Harvest Harmony",
+    "description": "A pesticide crafted to maintain a harmonious balance between pest control and crop health in Indian agriculture.",
+    "type": "Pesticide",
+    "price": 469.99,
+    "originalPrice": 589.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://www.agritell.com/cdn/shop/products/Untitled_e03aa5c2-55aa-4999-9599-cecf642ef873.jpg?v=1642339268",
+      "https://static.vecteezy.com/system/resources/thumbnails/010/508/297/small/old-farmers-spray-fertilizer-or-chemical-pesticides-in-the-rice-fields-chemical-fertilizers-free-photo.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "balance",
+      "Indian POV"
+    ],
+    "brand": "HarmonyGuard",
+    "weight": 5,
+    "features": [
+      "Balanced pest control",
+      "Maintains crop vitality",
+      "Suitable for diverse Indian crops",
+      "Optimizes yield and quality"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST014",
+    "name": "RainbowShield Spectrum",
+    "description": "A multi-spectrum pesticide providing comprehensive protection for a spectrum of Indian crops.",
+    "type": "Pesticide",
+    "price": 489.99,
+    "originalPrice": 599.99,
+    "rating": 4.4,
+    "remainingQuantity": 190,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+      "https://agribegri.com/productimage/3c2bedb580956ae55061a207a6308bfe-08-16-21-11-24-48.JPG",
+      "https://thumbs.dreamstime.com/b/spray-ecological-pesticide-farmer-fumigate-protective-suit-mask-lemon-trees-man-spraying-toxic-pesticides-insecticides-184466768.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "multi-spectrum",
+      "Indian POV"
+    ],
+    "brand": "SpectrumGuard",
+    "weight": 6,
+    "features": [
+      "Broad-spectrum pest control",
+      "Adaptable to various Indian crops",
+      "Enhances crop resistance",
+      "Minimizes resistance buildup"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST015",
+    "name": "AyurShield",
+    "description": "An Ayurvedic-inspired pesticide promoting holistic plant health in the Indian farming ecosystem.",
+    "type": "Pesticide",
+    "price": 499.99,
+    "originalPrice": 629.99,
+    "rating": 4.7,
+    "remainingQuantity": 200,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/3/294195375/TK/JA/XV/4405231/acetamiprid-20-sp-500x500.jpg",
+      "https://images.pexels.com/photos/13034936/pexels-photo-13034936.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    ],
+    "categories": [
+      "Pesticide",
+      "Ayurvedic",
+      "Indian POV"
+    ],
+    "brand": "AyurGuard",
+    "weight": 5,
+    "features": [
+      "Ayurvedic herbal blend",
+      "Balances plant energies",
+      "Promotes overall plant wellness",
+      "Supports sustainable farming practices"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST016",
+    "name": "MonsoonMaster",
+    "description": "A monsoon-ready pesticide designed to combat pests during the challenging Indian rainy season.",
+    "type": "Pesticide",
+    "price": 459.99,
+    "originalPrice": 579.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/TL/IO/MY-40083158/acetamiprid-20-25-sp-500x500.png",
+      "https://i.pinimg.com/736x/b5/89/64/b589641c3c15d716058775cc391a31e0.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "monsoon-resistant",
+      "Indian POV"
+    ],
+    "brand": "RainGuard",
+    "weight": 6,
+    "features": [
+      "Monsoon-resistant formula",
+      "Controls waterborne pests",
+      "Prevents fungal diseases",
+      "Optimizes crop yield during monsoons"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST017",
+    "name": "VedicVitalizer",
+    "description": "A pesticide inspired by Vedic principles, enhancing vitality and resilience in Indian crops.",
+    "type": "Pesticide",
+    "price": 489.99,
+    "originalPrice": 599.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/TL/IO/MY-40083158/acetamiprid-20-25-sp-500x500.png",
+      "https://cdn.pixabay.com/photo/2022/10/28/16/26/man-7553438_640.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "Vedic-inspired",
+      "Indian POV"
+    ],
+    "brand": "VedicGuard",
+    "weight": 5,
+    "features": [
+      "Vedic-inspired formulation",
+      "Promotes crop vitality",
+      "Aligns with natural cycles",
+      "Cultivates spiritual harmony in farming"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST018",
+    "name": "JasmineShield",
+    "description": "A pesticide with the essence of jasmine, enhancing the fragrance of Indian flower crops.",
+    "type": "Pesticide",
+    "price": 479.99,
+    "originalPrice": 589.99,
+    "rating": 4.4,
+    "remainingQuantity": 190,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2022/7/DG/CT/DQ/63568390/doc1-copy-1-page-0016-500x500.jpg",
+      "https://img.freepik.com/premium-photo/people-spraying-pesticides-farm-with-copy-space_41722-1962.jpg"
+    ],
+    "categories": [
+      "Pesticide",
+      "floral",
+      "Indian POV"
+    ],
+    "brand": "FloralGuard",
+    "weight": 6,
+    "features": [
+      "Jasmine-infused formula",
+      "Enhances flower fragrance",
+      "Protects against flower-specific pests",
+      "Ideal for Indian flower gardens"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST019",
+    "name": "AgniShield",
+    "description": "A potent pesticide named after the fire deity Agni, offering intense protection against pests in Indian fields.",
+    "type": "Pesticide",
+    "price": 509.99,
+    "originalPrice": 629.99,
+    "rating": 4.7,
+    "remainingQuantity": 200,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0CTHBO3oTzWvtd-k22Vhty6K81vynO-TOw&usqp=CAU",
+      "https://www.bizzbuzz.news/h-upload/2022/10/27/1610034-kisan-drones.webp"
+    ],
+    "categories": [
+      "Pesticide",
+      "intense protection",
+      "Indian POV"
+    ],
+    "brand": "AgniGuard",
+    "weight": 5,
+    "features": [
+      "Intensive pest control",
+      "Rapid action formula",
+      "Inspired by Agni's energy",
+      "Suitable for Indian crops with high pest pressure"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PST020",
+    "name": "GoldenHarvest Elixir",
+    "description": "A pesticide enriched with golden nutrients, providing a nourishing elixir for Indian crop prosperity.",
+    "type": "Pesticide",
+    "price": 479.99,
+    "originalPrice": 599.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+      "https://tiimg.tistatic.com/fp/1/007/482/acetamiprid-20-sp-glide-agricultural-insecticide-548.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7KoBOBuUllnIPUeSulnz6p5MTFBsGGPDfw&usqp=CAU"
+    ],
+    "categories": [
+      "Pesticide",
+      "nutrient-rich",
+      "Indian POV"
+    ],
+    "brand": "GoldenHarvest",
+    "weight": 6,
+    "features": [
+      "Enriched with golden nutrients",
+      "Boosts crop vigor",
+      "Enhances yield quality",
+      "Adaptable to diverse Indian soil types"
+    ]
+  }
+  
