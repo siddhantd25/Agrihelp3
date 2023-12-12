@@ -1,0 +1,723 @@
+{
+    "productId": "PROD-PUMP001",
+    "name": "Organic Farm Pumps",
+    "description": "Pumps are used for irrigation of land by sprinkler, flood or micro-irrigation..",
+    "type": "fertilizer",
+    "price": 499.99,
+    "originalPrice": 799.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://t4.ftcdn.net/jpg/03/55/69/05/360_F_355690505_5rvgWu60uhNWUmpMRbDXTpvAEfHQZ6fV.jpg",
+      "https://d13bbii8ozdt01.cloudfront.net/uploads/2021/01/1500x385_pumps.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Enhances soil fertility",
+      "Tailored for Indian crops",
+      "Slow-release nutrients"
+    ]
+  }
+
+  {
+    "productId": "PROD-PUMP002",
+    "name": "Agriculture Master Pump",
+    "description": "Ideal for Indian farmers, ensures efficient irrigation and crop nourishment.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://c1.wallpaperflare.com/preview/202/904/23/water-pump-industrial-industry-pump.jpg",
+      "https://t4.ftcdn.net/jpg/04/81/21/49/360_F_481214912_E9lH9jOoragRuIQaIPWz9V94ER6gKNR7.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "AgriTech India",
+    "weight": 6,
+    "features": [
+      "Specially designed for Indian crops",
+      "Optimized water distribution",
+      "Highly durable",
+      "Eco-friendly"
+    ]
+  }
+
+  {
+    "productId": "PROD-PUMP003",
+    "name": "DripTech Irrigation Pump",
+    "description": "Precision pump for efficient drip irrigation, conserving water for Indian farmlands.",
+    "type": "fertilizer",
+    "price": 459.99,
+    "originalPrice": 749.99,
+    "rating": 4.3,
+    "remainingQuantity": 220,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+      "https://e0.pxfuel.com/wallpapers/533/189/desktop-wallpaper-awesome-water-pumps-and-their-use-at-domestic-level-industrial-pumps-water-pump-motor-water-pumps.jpg",
+      "https://www.shutterstock.com/image-photo/pumping-water-into-rice-fields-260nw-574551691.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "AquaFlow",
+    "weight": 4,
+    "features": [
+      "Efficient water use",
+      "Smart irrigation technology",
+      "Adaptable for Indian soil conditions",
+      "Easy maintenance"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP004",
+    "name": "Green Revolution Turbo Pump",
+    "description": "Revolutionize your farming with this turbo pump designed to boost crop yield in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 599.99,
+    "originalPrice": 999.99,
+    "rating": 4.8,
+    "remainingQuantity": 150,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://t3.ftcdn.net/jpg/01/07/62/80/360_F_107628034_EbQDMZtvyReP4i8dWJbFDmfxQUPONiwS.jpg",
+      "https://www.shutterstock.com/image-photo/water-pump-powerful-flowing-large-260nw-1452712763.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "Harvest King",
+    "weight": 7,
+    "features": [
+      "Turbocharged pumping",
+      "High flow rate",
+      "Adapted for Indian climate",
+      "Sturdy construction"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP005",
+    "name": "Smart Farming Companion Pump",
+    "description": "Your partner in smart farming practices, ensuring optimal crop growth in Indian fields.",
+    "type": "fertilizer",
+    "price": 479.99,
+    "originalPrice": 799.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/61zQDLNKIFL._AC_UF1000,1000_QL80_.jpg",
+      "https://static.toiimg.com/photo/msid-82209945/82209945.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "TechHarvest",
+    "weight": 5.5,
+    "features": [
+      "IoT-enabled",
+      "Data-driven irrigation",
+      "Customizable for Indian crops",
+      "Energy-efficient"
+    ]
+  }
+
+  {
+    "productId": "PROD-PUMP006",
+    "name": "Evergreen Agri-Sprout Pump",
+    "description": "Empowering Indian agriculture with efficient spraying for enhanced crop growth.",
+    "type": "fertilizer",
+    "price": 529.99,
+    "originalPrice": 879.99,
+    "rating": 4.4,
+    "remainingQuantity": 210,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://i.pinimg.com/originals/16/38/8a/16388a99bbfc5bed715f7a51a08e2476.png",
+      "https://5.imimg.com/data5/SELLER/Default/2022/3/HN/LY/BY/16626018/ag069-water-pump-2-500x500.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "GreenSprout",
+    "weight": 5.8,
+    "features": [
+      "Optimized spray patterns",
+      "Easy handling",
+      "Tailored for Indian soil types",
+      "Quick-connect nozzles"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP007",
+    "name": "HarvestGuard Solar Pump",
+    "description": "Harness the power of the sun for sustainable irrigation in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 699.99,
+    "originalPrice": 1099.99,
+    "rating": 4.9,
+    "remainingQuantity": 170,
+    "totalSold": 110,
+    "inStock": true,
+    "images": [
+      "https://t4.ftcdn.net/jpg/04/95/13/69/360_F_495136962_fxansiKO1v1KC15PS8WLAK85aD0Ag1Kq.jpg",
+      "https://www.shutterstock.com/image-photo/thailand-farmers-pumping-water-into-260nw-436641685.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "SolarHarvest",
+    "weight": 6.5,
+    "features": [
+      "Solar-powered",
+      "Environmentally friendly",
+      "Adaptable for Indian crops",
+      "Durable construction"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP008",
+    "name": "AgroFlow Turbojet Pump",
+    "description": "Turbocharge your irrigation with this high-performance pump tailored for Indian farms.",
+    "type": "fertilizer",
+    "price": 569.99,
+    "originalPrice": 939.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://c1.wallpaperflare.com/preview/743/153/88/water-pump-industrial-industry-pump-thumbnail.jpg",
+      "https://i1.wp.com/govinfo.me/wp-content/uploads/2017/11/Farmer-Pumps.jpg?fit=940%2C529&ssl=1&resize=1280%2C720"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "AgroJet",
+    "weight": 7.2,
+    "features": [
+      "High-pressure turbojet",
+      "Fast water delivery",
+      "Adapted for Indian climate",
+      "Robust design"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP009",
+    "name": "Golden Harvest DripMaster Pump",
+    "description": "Precision drip irrigation pump for maximizing water efficiency in Indian fields.",
+    "type": "fertilizer",
+    "price": 489.99,
+    "originalPrice": 819.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1YBASv35vTRQJQ6iO4v6cCCmk4SSqJCoWkoZFNgZmbo3-WBimPsGcn3hM1-U-9dGWh4&usqp=CAU",
+      "https://t4.ftcdn.net/jpg/00/44/29/55/360_F_44295548_b59zHMbayKp24ZSQAxouM4VDUI7IspEK.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "Golden Fields",
+    "weight": 6.2,
+    "features": [
+      "Precision drip technology",
+      "Water-saving design",
+      "Tailored for Indian crops",
+      "Low maintenance"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP010",
+    "name": "EcoHarvest Smart Sprinkle Pump",
+    "description": "Smart sprinkler pump designed for efficient water distribution in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 529.99,
+    "originalPrice": 879.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/71c2Wpr3PpL._AC_UF350,350_QL80_.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2020/8/BH/XZ/QR/83358677/borewell-submerisble-pump-500x500-png.png"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "EcoHarvest",
+    "weight": 5.5,
+    "features": [
+      "Smart sprinkle technology",
+      "Energy-efficient",
+      "Adaptable for Indian soil conditions",
+      "User-friendly interface"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP011",
+    "name": "FarmPro AgriBoost Pump",
+    "description": "Boost your agricultural productivity with this high-performance pump designed for Indian farmers.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.8,
+    "remainingQuantity": 160,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://w7.pngwing.com/pngs/396/131/png-transparent-submersible-pump-centrifugal-pump-electric-motor-solar-powered-pump-water-industry-compressor-solarpowered-pump.png",
+      "https://www.prakash.in/wp-content/uploads/2019/09/submersible-pump-copy.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "FarmTech India",
+    "weight": 6.5,
+    "features": [
+      "High-powered performance",
+      "Adapted for Indian soil",
+      "Durable construction",
+      "Optimized for large farms"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP012",
+    "name": "AquaHarvest RainMaster Pump",
+    "description": "Master the art of rain-fed agriculture with this efficient pump designed for Indian monsoons.",
+    "type": "fertilizer",
+    "price": 579.99,
+    "originalPrice": 959.99,
+    "rating": 4.5,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMixsY6pJQJhp9yrOIAQZpsdcJIj6GydxXIQ&usqp=CAU",
+      "https://www.p-e-w.in/uploaded_files/borewell-submersible-pump.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "RainHarvest",
+    "weight": 7.0,
+    "features": [
+      "Rainwater harvesting",
+      "Monsoon-ready design",
+      "Tailored for Indian crops",
+      "Robust and weather-resistant"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP013",
+    "name": "TechFarm Smart Drip Pump",
+    "description": "Smart drip pump for precise and efficient water distribution in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 499.99,
+    "originalPrice": 849.99,
+    "rating": 4.6,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://static.toiimg.com/photo/msid-81204893/81204893.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp8-JFqyt0f5g3A5HrnJil9KmNxh1GlQdkVg&usqp=CAU"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "TechFarm",
+    "weight": 5.2,
+    "features": [
+      "Smart irrigation technology",
+      "Precision drip system",
+      "Adapted for Indian soil conditions",
+      "Energy-efficient"
+    ]
+  }
+
+  {
+    "productId": "PROD-PUMP014",
+    "name": "Golden Harvest EcoSprout Pump",
+    "description": "Eco-friendly sprout pump for sustainable and efficient irrigation in Indian fields.",
+    "type": "fertilizer",
+    "price": 519.99,
+    "originalPrice": 869.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/71oYlLOsl6L._AC_UF1000,1000_QL80_.jpg",
+      "https://st.depositphotos.com/44388702/55094/i/450/depositphotos_550945580-stock-photo-water-pump-submersible-pump-set.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "EcoSprout",
+    "weight": 5.6,
+    "features": [
+      "Eco-friendly design",
+      "Optimized spray patterns",
+      "Adaptable for Indian crops",
+      "Low energy consumption"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP015",
+    "name": "SunHarvest Solar Drip Pump",
+    "description": "Harness solar power for precision drip irrigation in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 649.99,
+    "originalPrice": 1049.99,
+    "rating": 4.9,
+    "remainingQuantity": 170,
+    "totalSold": 110,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEzeSI5vyLl6sqp8ESWFd8auWBUNd3XD9Ow&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtaByd2Dn2o-CUtXkCHsw91tKNKayqSN5aw&usqp=CAU"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "SolarDrip",
+    "weight": 6.8,
+    "features": [
+      "Solar-powered",
+      "Precision drip technology",
+      "Adapted for Indian climate",
+      "Long-lasting performance"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP016",
+    "name": "AgriMax TurboFlow Pump",
+    "description": "Turbocharged pump for maximizing water flow and efficiency in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 589.99,
+    "originalPrice": 959.99,
+    "rating": 4.7,
+    "remainingQuantity": 160,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkP8k3iUrUxFUKPtqrKhK9BIKWFlXWnHG00g&usqp=CAU",
+      "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F004%2F708%2Ffidel-submersible-pump-sets-682.jpg&w=750&q=75"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "MaxAgri",
+    "weight": 7.5,
+    "features": [
+      "High-flow turbo technology",
+      "Adapted for Indian soil",
+      "Durable construction",
+      "Optimized for large farms"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP017",
+    "name": "AquaTech Precision Pump",
+    "description": "Precision pump for efficient and accurate water distribution in Indian agricultural fields.",
+    "type": "fertilizer",
+    "price": 509.99,
+    "originalPrice": 849.99,
+    "rating": 4.6,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE60teC0AExI2gIqEwFv77XbvvwpSnggB_Ag&usqp=CAU",
+      "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F006%2F293%2Fsilver-borewell-submersible-pump-853.jpg&w=750&q=75"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "AquaPrecision",
+    "weight": 5.0,
+    "features": [
+      "Precision irrigation technology",
+      "Adaptable for Indian crops",
+      "Energy-efficient",
+      "Low maintenance"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP018",
+    "name": "HarvestEco SolarSprout Pump",
+    "description": "Solar-powered sprout pump for eco-friendly irrigation in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 629.99,
+    "originalPrice": 999.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://w7.pngwing.com/pngs/396/131/png-transparent-submersible-pump-centrifugal-pump-electric-motor-solar-powered-pump-water-industry-compressor-solarpowered-pump.png",
+      "https://5.imimg.com/data5/SELLER/Default/2022/12/PF/CN/DP/63218272/solar-submersible-pump-500x500.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "EcoHarvest",
+    "weight": 6.2,
+    "features": [
+      "Solar-powered",
+      "Optimized spray patterns",
+      "Adaptable for Indian soil",
+      "Low environmental impact"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP019",
+    "name": "SmartFlow AgriMate Pump",
+    "description": "Smart irrigation pump for optimal water flow and resource utilization in Indian farms.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://st.depositphotos.com/44388702/55094/i/450/depositphotos_550945580-stock-photo-water-pump-submersible-pump-set.jpg",
+      "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F008%2F366%2Fhigh-pressure-single-stage-water-motor-pumps-for-agriculture-fields-use-594.jpg&w=750&q=75"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "AgriMate",
+    "weight": 5.8,
+    "features": [
+      "Smart irrigation technology",
+      "Adapted for Indian crops",
+      "Energy-efficient",
+      "User-friendly interface"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP020",
+    "name": "GoldenFields RainMaster Pump",
+    "description": "Efficient rainwater harvesting pump for sustainable irrigation in Indian agricultural practices.",
+    "type": "fertilizer",
+    "price": 589.99,
+    "originalPrice": 949.99,
+    "rating": 4.6,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhQhjtae5Dq4wINrBPZJZYmLQz88pEztUMg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyQ39H0eua_nH9zhHepP2jCsBep7PDLPM8gw&usqp=CAU"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "RainMaster",
+    "weight": 6.0,
+    "features": [
+      "Rainwater harvesting technology",
+      "Adaptable for Indian climate",
+      "Durable construction",
+      "Optimized for small farms"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP021",
+    "name": "TechAgro SmartJet Pump",
+    "description": "Smart jet pump for precise and efficient water distribution in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 519.99,
+    "originalPrice": 869.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://m.media-amazon.com/images/I/71c2Wpr3PpL._AC_UF350,350_QL80_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9LPIba3v6IlzUMZ0EvjCRz8NI-1278kSoSg&usqp=CAU"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "AgroTech",
+    "weight": 5.4,
+    "features": [
+      "Smart jet technology",
+      "Adaptable for Indian soil conditions",
+      "Energy-efficient",
+      "User-friendly interface"
+    ]
+  }
+
+  {
+    "productId": "PROD-PUMP022",
+    "name": "SunHarvest SolarJet Pump",
+    "description": "Solar-powered jet pump for eco-friendly and efficient irrigation in Indian fields.",
+    "type": "fertilizer",
+    "price": 649.99,
+    "originalPrice": 1049.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2021/8/QT/JR/EB/135097670/uma-shakti-water-pump.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcH4-IcPKm03J0ZIPltJqWbthA_U0vV70zQ&usqp=CAU"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "SolarJet",
+    "weight": 6.6,
+    "features": [
+      "Solar-powered jet technology",
+      "Adaptable for Indian climate",
+      "Low environmental impact",
+      "Long-lasting performance"
+    ]
+  }
+  
+
+  {
+    "productId": "PROD-PUMP023",
+    "name": "EcoSprout SmartFlow Pump",
+    "description": "Smart flow pump for efficient water distribution with minimal environmental impact in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 539.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://freepngimg.com/save/141599-water-pump-png-free-photo/862x719",
+      "https://d13bbii8ozdt01.cloudfront.net/uploads/2023/08/Oil-Filled-vs-Water-Filled-Submersible-Pump-Mobile.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "EcoFlow",
+    "weight": 5.2,
+    "features": [
+      "Smart flow technology",
+      "Adaptable for Indian crops",
+      "Energy-efficient",
+      "Low maintenance"
+    ]
+  }
+  
+  {
+    "productId": "PROD-PUMP024",
+    "name": "AquaTech TurboRain Pump",
+    "description": "Turbocharged rain pump for optimizing water usage and enhancing crop growth in Indian fields.",
+    "type": "fertilizer",
+    "price": 579.99,
+    "originalPrice": 949.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGCgGNF4rI9paBuCR4JZvTKHUG84MEEiFLA&usqp=CAU",
+      "https://www.unnatipump.com/wp-content/uploads/2017/06/img.png"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "TurboRain",
+    "weight": 6.2,
+    "features": [
+      "Turbocharged rain technology",
+      "Optimized for Indian climate",
+      "Durable construction",
+      "Efficient water distribution"
+    ]
+  }
+  
+  
+  
