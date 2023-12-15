@@ -1,0 +1,59 @@
+{
+    "productId": "PROD-ORP001",
+    "name": "OrganiGrow Naturals",
+    "description": "Your partner in cultivating a healthier, more bountiful harvest..",
+    "type": "Organic Product",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/684977254/photo/farmer-hand-giving-plant-organic-humus-fertilizer-to-plant.jpg?s=612x612&w=0&k=20&c=SjD1diUDXEBmXRF1My6lDdwV9BGpPTD1yWUCwz8235U=",
+        "https://media.istockphoto.com/id/465321958/video/hand-pouring-organic-soil-with-sunrise-slow-motion.jpg?s=640x640&k=20&c=zdVIWe43cZnQ2Kr7baEKK0fSJ67RJ7CrBcF08hpEGKg="
+    ],
+    "categories": [
+        "organic product",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+        "100% Organic",
+        "Enhances soil fertility",
+        "Tailored for Indian crops",
+        "Slow-release nutrients"
+    ]
+}
+
+  {
+    "productId": "PROD-ORP002",
+    "name": "PureVeda Organics",
+    "description": "Experience the essence of ancient farming wisdom for a sustainable tomorrow.",
+    "type": "Organic Product",
+    "price": 899.99,
+    "originalPrice": 1099.99,
+    "rating": 4.2,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://pureveda.com/cdn/shop/products/ActivDigest_1024x.jpg?v=1664434114",
+        "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51wSugPc2UL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "categories": [
+        "organic product",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "AyurHarvest",
+    "weight": 5,
+    "features": [
+        "Chemical-free farming",
+        "Ayurvedic blend",
+        "Sustainable agriculture",
+        "Promotes biodiversity"
+    ]
+}
