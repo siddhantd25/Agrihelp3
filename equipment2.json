@@ -1,0 +1,750 @@
+{
+    "productId": "PROD-EQP001",
+    "name": "HarvestMaster Pro",
+    "description": "The pinnacle of agricultural technology designed to elevate your cultivation experience.",
+    "type": "Equipment",
+    "price": 1499.99,
+    "originalPrice": 2199.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-Dd5RZUHCBlxogWbFxaNwj6nrkbwpNpUxNa1SPba5w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0Z4283sJb40xlIPvwFIrJlSZrcbN_x-MDkxRbvivuw&s"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Enhances soil fertility",
+      "Tailored for Indian crops",
+      "Slow-release nutrients"
+    ]
+  }
+
+  {
+    "productId": "PROD-EQP002",
+    "name": "AgriTech Guru",
+    "description": "Revolutionary farming equipment for optimal yield in Indian agriculture.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/image-photo/image-agricultural-equipment-under-white-260nw-121259854.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqYHEbK-OoDxPVbbcXKBPuhgZS_WDkWgQ_THufjj3AjVWHJTfARAny_AML6kGcMYrcBbU&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "AgriInnovate",
+    "weight": 6,
+    "features": [
+      "Optimized for Indian soil",
+      "Water-efficient design",
+      "Integrated pest control",
+      "Smart irrigation"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP003",
+    "name": "CropMaster Pro India",
+    "description": "Tailored equipment for precision farming and increased crop productivity.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://media.istockphoto.com/id/543212762/photo/tractor-cultivating-field-at-spring.jpg?s=612x612&w=0&k=20&c=uJDy7MECNZeHDKfUrLNeQuT7A1IqQe89lmLREhjIJYU=",
+      "https://c1.wallpaperflare.com/preview/536/609/297/threshing-machine-agriculture-machine-farming-harvesting-equipment.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "AgroTech India",
+    "weight": 5.5,
+    "features": [
+      "Advanced crop monitoring",
+      "Adaptable to regional crops",
+      "Fertilizer optimization",
+      "Weather-sensitive technology"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP004",
+    "name": "SoilSaver 2000",
+    "description": "A cutting-edge soil enrichment tool crafted for the diverse soils of India.",
+    "type": "Equipment",
+    "price": 1599.99,
+    "originalPrice": 2299.99,
+    "rating": 4.7,
+    "remainingQuantity": 170,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1594691592772-4427be1ea26c?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmFybSUyMG1hY2hpbmVyeXxlbnwwfHwwfHx8MA%3D%3D",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMUIifQO4ITe7bZ6vCzTMw_59ik_NG-n3LZhmQeNtTaGp1Xi9iR2GcSPbM7xVs2vMx5o&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "EcoHarvest",
+    "weight": 5.2,
+    "features": [
+      "Customized for Indian crops",
+      "Microbial soil activation",
+      "Nutrient-rich composting",
+      "Climate-adaptive technology"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP005",
+    "name": "SmartSeed Pro",
+    "description": "Intelligent seed dispensing system for optimal germination in Indian agriculture.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.9,
+    "remainingQuantity": 160,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/image-photo/tractor-working-on-farm-modern-260nw-1012517059.jpg",
+      "https://www.shutterstock.com/image-photo/farmer-tractor-preparing-land-cultivator-260nw-551284585.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "SeedGenius",
+    "weight": 4.8,
+    "features": [
+      "Precision seed placement",
+      "Adaptable to Indian climate",
+      "Smart irrigation integration",
+      "Real-time monitoring"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP006",
+    "name": "HarvestTech 5000",
+    "description": "State-of-the-art harvesting equipment optimized for Indian agricultural conditions.",
+    "type": "Equipment",
+    "price": 2099.99,
+    "originalPrice": 2799.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5l4Woc_YhMlQNEpbsbEzqRf1LiUBY03Yw_g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHek1abNuyuXNg61BLzKNJaroYxfpMN3gEmaDL8iF8TtO7JstDGUeoVZlIsbEnXKmNKgU&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "AgriHarvest Pro",
+    "weight": 6.5,
+    "features": [
+      "Efficient crop cutting",
+      "Adaptive to Indian crop varieties",
+      "Energy-saving technology",
+      "Real-time yield estimation"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP007",
+    "name": "AquaGrow Master",
+    "description": "Innovative water management system designed for Indian farms.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.8,
+    "remainingQuantity": 190,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHRyN8BlsyMU8XHg7gwbnRRkNIHApCA-tzA&usqp=CAU",
+      "https://w7.pngwing.com/pngs/719/268/png-transparent-cultivator-agriculture-agricultural-machinery-farm-tractor-agricultural-machine-orange-transport-farm-thumbnail.png"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "AquaTech India",
+    "weight": 5.8,
+    "features": [
+      "Smart irrigation control",
+      "Rainwater harvesting",
+      "Drought-resistant design",
+      "Water usage analytics"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP008",
+    "name": "FarmGuard Pro",
+    "description": "Advanced farm security system tailored for Indian agricultural landscapes.",
+    "type": "Equipment",
+    "price": 1499.99,
+    "originalPrice": 2199.99,
+    "rating": 4.7,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://c1.wallpaperflare.com/preview/536/609/297/threshing-machine-agriculture-machine-farming-harvesting-equipment.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBGX54LsdfsAeTTjnVXgmZeDp6L27oCAY_SG1-BdRzFiGbyPdvGjnjulTJtBi9j245nk&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "security",
+      "Indian POV"
+    ],
+    "brand": "SecureFarm Tech",
+    "weight": 5.2,
+    "features": [
+      "Surveillance and intrusion detection",
+      "Mobile app integration",
+      "Night vision capabilities",
+      "Real-time alerts"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP009",
+    "name": "AgroNet Connect",
+    "description": "Smart farming network system connecting Indian farmers for collaborative success.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.9,
+    "remainingQuantity": 170,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXQaeeFLJKT9cY2oIs190OQ9ZvGTPSgei6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtBG7e3Du1u67VL8RHyiKWCLiZt1dO5Js3w71vVxT2YcTy-orEPhw4roh8GT-RWFsy58&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "technology",
+      "Indian POV"
+    ],
+    "brand": "AgroConnect India",
+    "weight": 4.5,
+    "features": [
+      "Farmers' community platform",
+      "Marketplace integration",
+      "Weather updates",
+      "Crop exchange network"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP010",
+    "name": "SolarAgro PowerHub",
+    "description": "Solar-powered agricultural equipment charging station for Indian farms.",
+    "type": "Equipment",
+    "price": 2299.99,
+    "originalPrice": 2999.99,
+    "rating": 4.5,
+    "remainingQuantity": 160,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://i0.wp.com/www.ecoideaz.com/wp-content/uploads/2015/05/Solar-Water-Pumping-System.jpg?resize=696%2C451&ssl=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ice6V6I7wrl1y-YdYo8w2BZhk_NskUm6WyxfZKbZtkGYxeWZ9DlUhFEhC5CSsMjCWa0&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "solar",
+      "Indian POV"
+    ],
+    "brand": "EcoPower India",
+    "weight": 7.0,
+    "features": [
+      "Renewable energy source",
+      "Off-grid charging",
+      "Powerful battery storage",
+      "Supports multiple devices"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP011",
+    "name": "BioFert Injector",
+    "description": "Automatic fertilizer injection system for Indian organic farming.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://image.made-in-china.com/202f0j00KdShVbeRkcoz/Farm-Irrigation-Fertigation-Tools-Equipment-Agriculture-Drip-Irrigation-1-1-2-Inch-Venturi-Fertilizer-Injector.jpg",
+      "https://image.made-in-china.com/202f0j00KwjliSvhQqkr/Farm-Irrigation-Fertigation-Tools-Equipment-Agriculture-Drip-Irrigation-1-1-2-Inch-Venturi-Fertilizer-Injector.webp"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "GreenFert India",
+    "weight": 6.2,
+    "features": [
+      "Precise nutrient injection",
+      "Organic fertilizer compatibility",
+      "User-friendly interface",
+      "Reduced manual labor"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP012",
+    "name": "ClimateGuard Pro",
+    "description": "Integrated climate control system for Indian greenhouse agriculture.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1614977645968-6db1d7798ac7?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFybSUyMG1hY2hpbmVyeXxlbnwwfHwwfHx8MA%3D%3D",
+      "https://c1.wallpaperflare.com/preview/778/189/239/farmer-tractor-agriculture-farm.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "greenhouse",
+      "Indian POV"
+    ],
+    "brand": "AgroClimate Tech",
+    "weight": 5.5,
+    "features": [
+      "Temperature and humidity control",
+      "Adaptable to Indian crops",
+      "Energy-efficient design",
+      "Remote monitoring"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP013",
+    "name": "AgroDrone Explorer",
+    "description": "Precision agriculture drone for Indian farmers, aiding in crop monitoring.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.9,
+    "remainingQuantity": 170,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/image-photo/modern-technologies-agriculture-industrial-drone-600nw-2203584883.jpg",
+      "https://img.freepik.com/premium-photo/agrodrone-field-with-rows-winter-wheat-sprouts-concept-modern-agriculture_234715-526.jpg?w=2000"
+    ],
+    "categories": [
+      "equipment",
+      "technology",
+      "Indian POV"
+    ],
+    "brand": "SkyHarvest India",
+    "weight": 2.8,
+    "features": [
+      "Aerial crop surveillance",
+      "High-resolution imaging",
+      "GPS-guided navigation",
+      "Real-time data transmission"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP014",
+    "name": "SustainablePlow Master",
+    "description": "Environmentally friendly plowing system for Indian agricultural sustainability.",
+    "type": "Equipment",
+    "price": 1699.99,
+    "originalPrice": 2399.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/shutterstock/photos/318222350/display_1500/stock-photo-farm-plow-equipment-farming-old-mechanical-tractor-vintage-earth-plow-equipment-tools-318222350.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAlHRgpFSjLMtR7wENez49MipPy-yYQjMLGrPB5gYuDJNkICfeTZ0pdWHlVh5O4irBrN0&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "sustainable",
+      "Indian POV"
+    ],
+    "brand": "EcoPlow India",
+    "weight": 6.0,
+    "features": [
+      "Low carbon footprint",
+      "Efficient soil conservation",
+      "Adapted for Indian terrains",
+      "Reduced soil erosion"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP015",
+    "name": "SmartHarvest Thrive",
+    "description": "AI-driven harvesting equipment promoting efficiency in Indian agriculture.",
+    "type": "Equipment",
+    "price": 2099.99,
+    "originalPrice": 2799.99,
+    "rating": 4.8,
+    "remainingQuantity": 160,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://assets.syngentaebiz.com/images/media/article-automated-farm-equipment-01.jpg",
+      "https://dmcwearparts.com/wp-content/uploads/2022/01/ag-equipment-types-harvester-tractor.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "technology",
+      "Indian POV"
+    ],
+    "brand": "AgroAI Tech",
+    "weight": 5.3,
+    "features": [
+      "Artificial intelligence algorithms",
+      "Efficient crop sorting",
+      "Real-time yield prediction",
+      "Data-driven insights"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP016",
+    "name": "BioPest Shield",
+    "description": "Organic pest control system designed for Indian crop protection.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.9,
+    "remainingQuantity": 170,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://bettercotton.org/wp-content/uploads/2021/09/2U8A1421.jpg",
+      "https://sourcingjournal.com/wp-content/uploads/2017/10/Shutterstock-Section-3-Farmer-spraying-pesticides-on-cotton-in-Greece-e1507735369863.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "organic",
+      "Indian POV"
+    ],
+    "brand": "EcoPest India",
+    "weight": 4.7,
+    "features": [
+      "Biological pest control",
+      "Safe for beneficial insects",
+      "Tailored for Indian pests",
+      "No harmful chemicals"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP017",
+    "name": "AgroWeather Station",
+    "description": "Comprehensive weather monitoring station for Indian agricultural planning.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.8,
+    "remainingQuantity": 190,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrRo-jYLfEHZAUVIx79Huu6oA2POe6zOrLqTYBSzEJfzW8aK1D9dL4wYiA4JCE5o6TjPY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTto07BCsOkwBa9iSng6eqUIPY4G9eS2eQTAMKdOsJXPB5D-Ia91KEABYAfrCFLjjvQ7rQ&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "technology",
+      "Indian POV"
+    ],
+    "brand": "WeatherAgro Tech",
+    "weight": 5.0,
+    "features": [
+      "Real-time weather data",
+      "Localized forecasts",
+      "Adaptation for Indian climate",
+      "Drought prediction"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP018",
+    "name": "FarmEase Seeder",
+    "description": "Efficient seed planting system designed for diverse Indian crops.",
+    "type": "Equipment",
+    "price": 1799.99,
+    "originalPrice": 2499.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://www.farming-machine.com/wp-content/uploads/2020/04/seed-drill-planter.jpg",
+      "https://www.farming-machine.com/wp-content/uploads/2020/04/Seed-Drill-for-CornSoybeanPeanut.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "technology",
+      "Indian POV"
+    ],
+    "brand": "SeedEase India",
+    "weight": 5.4,
+    "features": [
+      "Precision seed placement",
+      "Adaptability to Indian soil",
+      "Smart irrigation integration",
+      "Real-time monitoring"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP019",
+    "name": "GreenTech Cultivator",
+    "description": "Electric cultivator for sustainable and efficient cultivation in Indian farms.",
+    "type": "Equipment",
+    "price": 2099.99,
+    "originalPrice": 2799.99,
+    "rating": 4.8,
+    "remainingQuantity": 160,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/JV/QH/AC/SELLER-10942023/agricultural-cultivator-500x500.jpg",
+      "https://5.imimg.com/data5/WB/NM/MY-2497808/cultivator-500x500.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "sustainable",
+      "Indian POV"
+    ],
+    "brand": "EcoCultivate India",
+    "weight": 6.0,
+    "features": [
+      "Electric-powered efficiency",
+      "Soil-friendly cultivation",
+      "Adapted for Indian crops",
+      "Reduced carbon emissions"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP020",
+    "name": "AgroMonitor Plus",
+    "description": "Comprehensive crop monitoring system for Indian farmers, ensuring optimal yields.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.9,
+    "remainingQuantity": 170,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://img.freepik.com/premium-vector/smart-farming-management-digital-control-agriculture-weather-monitoring-from-internet-tablet-computer-drone-iot-technology-farming-equipments-garish-vector-illustration_81894-10930.jpg?w=2000",
+      "https://www.shutterstock.com/image-vector/smart-farming-agriculture-technology-vartoon-260nw-2014496141.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "technology",
+      "Indian POV"
+    ],
+    "brand": "AgroTech Plus",
+    "weight": 4.9,
+    "features": [
+      "Real-time crop health analysis",
+      "Adaptable to Indian crop varieties",
+      "Smart irrigation integration",
+      "Weather-sensitive technology"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP021",
+    "name": "HarvestGuard India",
+    "description": "Integrated harvesting and sorting system for Indian agricultural efficiency.",
+    "type": "Equipment",
+    "price": 2199.99,
+    "originalPrice": 2899.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://www.farming-machine.com/wp-content/uploads/2020/04/Agricultural-Combine-Soybean-Harvester.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi7SUp9C4O5Xz0b77v84g3r5whgOgeyM5IdruX7imLUi2OGpUfETYwSLRNaRA4oy_tDXo&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "technology",
+      "Indian POV"
+    ],
+    "brand": "HarvestTech India",
+    "weight": 6.2,
+    "features": [
+      "Efficient crop cutting and sorting",
+      "Adapted for Indian crop varieties",
+      "Energy-saving technology",
+      "Real-time yield estimation"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP022",
+    "name": "SolarIrrigate Pro",
+    "description": "Solar-powered irrigation system for sustainable water management in Indian agriculture.",
+    "type": "Equipment",
+    "price": 1899.99,
+    "originalPrice": 2599.99,
+    "rating": 4.8,
+    "remainingQuantity": 190,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://solarpumps.com/assets/content/article-images/_headerImage/irrigation_pivot.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsc20DNEj3oC7l79UGDxklt3y11LK_8hqqrKIGtTWEMy8XgkjeTWCbROtWfYXtMzKEy0&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "solar",
+      "Indian POV"
+    ],
+    "brand": "EcoIrrigate India",
+    "weight": 5.5,
+    "features": [
+      "Solar-powered pump",
+      "Water-efficient irrigation",
+      "Adaptable to Indian crop cycles",
+      "Remote monitoring"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP023",
+    "name": "AgroDrone Scout",
+    "description": "Drone scouting system for precision monitoring of Indian farmlands.",
+    "type": "Equipment",
+    "price": 2099.99,
+    "originalPrice": 2799.99,
+    "rating": 4.9,
+    "remainingQuantity": 170,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://www.livemint.com/lm-img/img/2023/05/01/1600x900/agri_1682969270140_1682969285317.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVVoYT8hXLs71BYPTqk0oidOWH2VQFBBV0wlqp07utfVpOmvVrJsXRH-takcYLgRxv34&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "technology",
+      "Indian POV"
+    ],
+    "brand": "SkyScout India",
+    "weight": 3.0,
+    "features": [
+      "Aerial scouting for pests and diseases",
+      "High-resolution imaging",
+      "GPS-guided navigation",
+      "Real-time data transmission"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP024",
+    "name": "AgroTherm ClimateControl",
+    "description": "Smart climate control system for maintaining optimal conditions in Indian greenhouses.",
+    "type": "Equipment",
+    "price": 1999.99,
+    "originalPrice": 2699.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://agriculturepost.com/wp-content/uploads/2021/12/Agrochemical-Industry-Outlook-2022.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrByvY12UB-y4ZPRMuY600yTXUoQkVbb4Gd7aUqyRdWegiLCS_8o2SRG33lJb_95Xm_U&usqp=CAU"
+    ],
+    "categories": [
+      "equipment",
+      "greenhouse",
+      "Indian POV"
+    ],
+    "brand": "AgroTherm India",
+    "weight": 5.8,
+    "features": [
+      "Automated temperature and humidity control",
+      "Adaptable to Indian crop varieties",
+      "Energy-efficient design",
+      "Real-time monitoring"
+    ]
+  }
+  
+  {
+    "productId": "PROD-EQP025",
+    "name": "EcoSeed Planter",
+    "description": "Environmentally friendly seed planting system for sustainable Indian agriculture.",
+    "type": "Equipment",
+    "price": 2199.99,
+    "originalPrice": 2899.99,
+    "rating": 4.8,
+    "remainingQuantity": 160,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://i.pinimg.com/736x/2b/d2/36/2bd2362ce0e41531660768ced97f5c6f.jpg",
+      "https://e1.pxfuel.com/desktop-wallpaper/431/176/desktop-wallpaper-planting-equipment-farming-planters.jpg"
+    ],
+    "categories": [
+      "equipment",
+      "sustainable",
+      "Indian POV"
+    ],
+    "brand": "GreenPlant India",
+    "weight": 5.2,
+    "features": [
+      "Biodegradable seed capsules",
+      "Adaptable to Indian soil",
+      "Smart irrigation integration",
+      "Reduced environmental impact"
+    ]
+  }
+  
