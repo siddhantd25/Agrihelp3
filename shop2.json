@@ -1,0 +1,608 @@
+{
+    "productId": "PROD-MZ001",
+    "name": "Premium Maize Seeds - Variety A",
+    "description": "High-quality seeds for cultivating robust maize crops.",
+    "type": "seed",
+    "price": 1499.50,
+    "originalPrice": 2499.50,
+    "rating": 4.4,
+    "remainingQuantity": 105,
+    "totalSold": 92,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/MW/GF/MY-30433828/maize-seeds-500x500.jpg",
+        "https://t4.ftcdn.net/jpg/04/20/45/65/360_F_420456561_nnqiDUYF07WZqD5NvxMArEfQeDhuhD9K.jpg"
+    ],
+    "categories": [
+        "seeds",
+        "grains",
+        "maize"
+    ],
+    "brand": "Harvest Haven",
+    "weight": 10,
+    "features": [
+        "Non-GMO",
+        "High-yield",
+        "Suitable for diverse climates"
+    ]
+}
+
+{
+    "productId": "PROD-WR002",
+    "name": "Organic Wheat Seeds - Variety B",
+    "description": "Pure organic wheat seeds for healthy and sustainable farming.",
+    "type": "seed",
+    "price": 1699.00,
+    "originalPrice": 2799.00,
+    "rating": 4.6,
+    "remainingQuantity": 88,
+    "totalSold": 105,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/9/340914637/RB/HH/IB/100160381/hd-3226-wheat-seed-500x500.jpg",
+        "https://m.media-amazon.com/images/I/71xuH19n5YL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "categories": [
+        "seeds",
+        "grains",
+        "wheat"
+    ],
+    "brand": "Green Fields",
+    "weight": 12,
+    "features": [
+        "Organic",
+        "High-nutrition",
+        "Adapted to Indian soil"
+    ]
+}
+
+{
+    "productId": "PROD-RT003",
+    "name": "Rice Paddy Seeds - Fragrant Jasmine",
+    "description": "Premium rice paddy seeds for aromatic and delicious jasmine rice.",
+    "type": "seed",
+    "price": 1899.99,
+    "originalPrice": 2999.99,
+    "rating": 4.8,
+    "remainingQuantity": 75,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://m.media-amazon.com/images/I/71xuH19n5YL._AC_UF1000,1000_QL80_.jpg",
+        "https://img.freepik.com/free-photo/paddy-harvest-golden-yellow-paddy-hand-farmer-carrying-paddy-hand-rice_1150-45680.jpg?size=626&ext=jpg&ga=GA1.1.1222169770.1701820800&semt=ais"
+    ],
+    "categories": [
+        "seeds",
+        "grains",
+        "rice"
+    ],
+    "brand": "Aroma Bliss",
+    "weight": 15,
+    "features": [
+        "Fragrant",
+        "High-yield",
+        "Ideal for rice dishes"
+    ]
+}
+
+{
+    "productId": "PROD-LG004",
+    "name": "Lentil Seeds - Nutrient-Rich Mix",
+    "description": "A blend of high-nutrient lentil seeds for a healthy and protein-packed harvest.",
+    "type": "seed",
+    "price": 1299.75,
+    "originalPrice": 2199.75,
+    "rating": 4.5,
+    "remainingQuantity": 110,
+    "totalSold": 95,
+    "inStock": true,
+    "images": [
+        "https://cdn.pixabay.com/photo/2017/09/26/23/33/lentils-2790516_640.jpg",
+        "https://brightcrop.in/cdn/shop/products/1_225f1a3d-6bdf-4c08-b3d6-b2112f481922_1024x1024@2x.jpg?v=1638905170"
+    ],
+    "categories": [
+        "seeds",
+        "legumes",
+        "lentils"
+    ],
+    "brand": "NutriHarvest",
+    "weight": 8,
+    "features": [
+        "High-protein",
+        "Diverse lentil mix",
+        "Rich in essential nutrients"
+    ]
+}
+
+{
+    "productId": "PROD-TM005",
+    "name": "Turmeric Rhizomes - Curcuma Delight",
+    "description": "Premium turmeric rhizomes for cultivating vibrant and aromatic turmeric spice.",
+    "type": "rhizome",
+    "price": 899.25,
+    "originalPrice": 1499.25,
+    "rating": 4.7,
+    "remainingQuantity": 65,
+    "totalSold": 80,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/HO/DL/MY-53052802/turmeric-seeds-500x500.jpg",
+        "https://img1.exportersindia.com/product_images/bc-full/2020/4/6100081/turmeric-powder-1587792087-5391498.jpeg"
+    ],
+    "categories": [
+        "rhizomes",
+        "spices",
+        "turmeric"
+    ],
+    "brand": "Golden Harvest",
+    "weight": 5,
+    "features": [
+        "Vibrant color",
+        "Aromatic flavor",
+        "Ideal for spice production"
+    ]
+}
+
+{
+    "productId": "PROD-CR006",
+    "name": "Chickpea Seeds - Hardy Garbanzo",
+    "description": "Hardy chickpea seeds for robust and high-yield garbanzo cultivation.",
+    "type": "seed",
+    "price": 1599.50,
+    "originalPrice": 2699.50,
+    "rating": 4.6,
+    "remainingQuantity": 92,
+    "totalSold": 110,
+    "inStock": true,
+    "images": [
+        "https://www.saltspringseeds.com/cdn/shop/collections/chickpea-316593_960_720_1200x1200.jpg?v=1531381127",
+        "https://5.imimg.com/data5/SELLER/Default/2021/2/VE/NY/PG/123442875/img-0423-250x250.jpg"
+    ],
+    "categories": [
+        "seeds",
+        "legumes",
+        "chickpeas"
+    ],
+    "brand": "Chickpea Haven",
+    "weight": 7,
+    "features": [
+        "High-yield",
+        "Rich in protein",
+        "Adapted to Indian soil"
+    ]
+}
+
+{
+    "productId": "PROD-SP007",
+    "name": "Spinach Seeds - Nutrient Boost",
+    "description": "Nutrient-rich spinach seeds for cultivating fresh and healthy leafy greens.",
+    "type": "seed",
+    "price": 1399.99,
+    "originalPrice": 2299.99,
+    "rating": 4.4,
+    "remainingQuantity": 80,
+    "totalSold": 105,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/6/QG/NT/JS/87646422/palak-seeds-500x500.jpg",
+        "https://images.meesho.com/images/products/230856481/a1xrd_512.webp"
+    ],
+    "categories": [
+        "seeds",
+        "greens",
+        "spinach"
+    ],
+    "brand": "GreenLeaf Farms",
+    "weight": 6,
+    "features": [
+        "Nutrient-packed",
+        "Fast-growing",
+        "Ideal for salads"
+    ]
+}
+
+{
+    "productId": "PROD-PT008",
+    "name": "Potato Tubers - Versatile Spuds",
+    "description": "Versatile potato tubers for cultivating hearty and flavorful potatoes.",
+    "type": "tuber",
+    "price": 1099.75,
+    "originalPrice": 1899.75,
+    "rating": 4.5,
+    "remainingQuantity": 120,
+    "totalSold": 95,
+    "inStock": true,
+    "images": [
+        "https://admin.acceleratingscience.com/proteomics/wp-content/uploads/sites/2/2014/09/potatoe_plant.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLsBA48ov3WpacANdR6DDU5vQqjIAsQdPY1oZLoZEdvo6Sl-Yqk9sfsZAcTnPB3DeUIHM&usqp=CAU"
+    ],
+    "categories": [
+        "tubers",
+        "vegetables",
+        "potatoes"
+    ],
+    "brand": "SpudMaster",
+    "weight": 15,
+    "features": [
+        "Versatile usage",
+        "Rich in carbohydrates",
+        "Suitable for diverse cuisines"
+    ]
+}
+
+{
+    "productId": "PROD-BT009",
+    "name": "Brinjal Seeds - Purple Delight",
+    "description": "Premium brinjal seeds for cultivating vibrant and flavorful purple eggplants.",
+    "type": "seed",
+    "price": 1499.25,
+    "originalPrice": 2499.25,
+    "rating": 4.7,
+    "remainingQuantity": 85,
+    "totalSold": 100,
+    "inStock": true,
+    "images": [
+        "https://plantcraft.in/wp-content/uploads/2020/12/Rosa-Bianca-Eggplant-SeedsBC__01832.1551481194.jpg",
+        "https://www.agriplexindia.com/cdn/shop/files/FITO-PURPLE_2cc04ae1-1444-4da3-8584-811e1e81e8e8.png?v=1689577908"
+    ],
+    "categories": [
+        "seeds",
+        "vegetables",
+        "brinjal"
+    ],
+    "brand": "PurpleHarvest",
+    "weight": 8,
+    "features": [
+        "Vibrant color",
+        "Rich in antioxidants",
+        "Ideal for Indian cuisine"
+    ]
+}
+
+{
+    "productId": "PROD-CF010",
+    "name": "Cauliflower Seeds - Snowy Blossom",
+    "description": "Snowy cauliflower seeds for cultivating crisp and nutritious cauliflower heads.",
+    "type": "seed",
+    "price": 1299.50,
+    "originalPrice": 2199.50,
+    "rating": 4.6,
+    "remainingQuantity": 95,
+    "totalSold": 85,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS02yjCogwZsHR6fYGLWKFd-JmlcqnsBv6mUmx5h_8vxIcOrJ4F3O_cUYQ-XN0y_RY4Hs&usqp=CAU",
+        "https://www.bigbasket.com/media/uploads/p/xxl/40288263_1-optimal-seeds-cauliflower-vegetable-seeds.jpg"
+    ],
+    "categories": [
+        "seeds",
+        "vegetables",
+        "cauliflower"
+    ],
+    "brand": "SnowBloom",
+    "weight": 7,
+    "features": [
+        "Crisp texture",
+        "High in vitamins",
+        "Adaptable to Indian climates"
+    ]
+}
+
+{
+    "productId": "PROD-OO011",
+    "name": "Onion Bulbs - Sweet Harvest",
+    "description": "Sweet onion bulbs for cultivating flavorful and aromatic onions.",
+    "type": "bulb",
+    "price": 1199.99,
+    "originalPrice": 1999.99,
+    "rating": 4.5,
+    "remainingQuantity": 105,
+    "totalSold": 90,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedok8N8MdrzneYBkCKnEUG05nyfel_NexRAfyTxAV_F1t0Om56U7xw1yqCPqgz71Sgb0&usqp=CAU",
+        "https://www.shutterstock.com/image-photo/onion-cultivation-seed-260nw-1395930932.jpg"
+    ],
+    "categories": [
+        "bulbs",
+        "vegetables",
+        "onions"
+    ],
+    "brand": "SweetHarvest",
+    "weight": 10,
+    "features": [
+        "Sweet flavor",
+        "Versatile in cooking",
+        "Ideal for Indian curries"
+    ]
+}
+
+{
+    "productId": "PROD-BS012",
+    "name": "Bitter Gourd Seeds - Green Delight",
+    "description": "Green bitter gourd seeds for cultivating nutritious and bitter-free bitter gourds.",
+    "type": "seed",
+    "price": 1399.75,
+    "originalPrice": 2299.75,
+    "rating": 4.4,
+    "remainingQuantity": 88,
+    "totalSold": 105,
+    "inStock": true,
+    "images": [
+        "https://pardhuherbals.com/wp-content/uploads/2022/10/Bitter-Gourd-Seeds1.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2020/11/HT/BP/XH/78867465/bitter-gourd-seeds-500x500.jpeg"
+    ],
+    "categories": [
+        "seeds",
+        "vegetables",
+        "bittergourd"
+    ],
+    "brand": "GreenDelight",
+    "weight": 6,
+    "features": [
+        "Nutritious",
+        "Bitter-free",
+        "Well-suited for Indian dishes"
+    ]
+}
+
+{
+    "productId": "PROD-GP013",
+    "name": "Green Pea Seeds - Tender Pods",
+    "description": "Tender green pea seeds for cultivating sweet and succulent green peas.",
+    "type": "seed",
+    "price": 1599.25,
+    "originalPrice": 2599.25,
+    "rating": 4.7,
+    "remainingQuantity": 80,
+    "totalSold": 95,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2020/9/DF/FG/OV/111829323/1kg-frozen-green-peas-500x500.jpg",
+        "https://grocimart.com/files/images/frozen-peas1packet_15971344720.jpg"
+    ],
+    "categories": [
+        "seeds",
+        "legumes",
+        "greenpeas"
+    ],
+    "brand": "PeaParadise",
+    "weight": 8,
+    "features": [
+        "Sweet and succulent",
+        "High in protein",
+        "Ideal for curries and salads"
+    ]
+}
+
+{
+    "productId": "PROD-SC014",
+    "name": "Saffron Bulbs - Royal Spice",
+    "description": "Royal saffron bulbs for cultivating the precious and aromatic spice saffron.",
+    "type": "bulb",
+    "price": 1999.99,
+    "originalPrice": 2999.99,
+    "rating": 4.8,
+    "remainingQuantity": 65,
+    "totalSold": 85,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/ANDROID/Default/2021/6/WX/XE/YT/38442309/product-jpeg-500x500.jpg",
+        "https://www.shutterstock.com/image-photo/saffron-bulb-isolated-on-white-260nw-1508231288.jpg"
+    ],
+    "categories": [
+        "bulbs",
+        "spices",
+        "saffron"
+    ],
+    "brand": "RoyalSpices",
+    "weight": 2,
+    "features": [
+        "Precious spice",
+        "Aromatic flavor",
+        "Cultivated with care"
+    ]
+}
+
+{
+    "productId": "PROD-GT015",
+    "name": "Ginger Rhizomes - Zesty Roots",
+    "description": "Zesty ginger rhizomes for cultivating aromatic and flavorful ginger roots.",
+    "type": "rhizome",
+    "price": 1499.50,
+    "originalPrice": 2499.50,
+    "rating": 4.6,
+    "remainingQuantity": 75,
+    "totalSold": 100,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/LY/KM/MY-8155364/ginger-500x500.jpg",
+        "https://cdn.pixabay.com/photo/2017/10/11/22/51/ginger-2842826_1280.png"
+    ],
+    "categories": [
+        "rhizomes",
+        "spices",
+        "ginger"
+    ],
+    "brand": "ZestyRoots",
+    "weight": 4,
+    "features": [
+        "Aromatic and flavorful",
+        "Versatile in cooking",
+        "Ideal for Indian cuisine"
+    ]
+}
+
+{
+    "productId": "PROD-CP016",
+    "name": "Cumin Seeds - Aromatic Spice",
+    "description": "Aromatic cumin seeds for cultivating flavorful and fragrant cumin spice.",
+    "type": "seed",
+    "price": 1299.75,
+    "originalPrice": 2199.75,
+    "rating": 4.5,
+    "remainingQuantity": 90,
+    "totalSold": 110,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/OT/UG/LE/SELLER-61721667/cumin-seeds.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2021/3/HH/CM/ZA/22757431/cumin-seed-500x500.jpg"
+    ],
+    "categories": [
+        "seeds",
+        "spices",
+        "cumin"
+    ],
+    "brand": "AromaSpice",
+    "weight": 3,
+    "features": [
+        "Flavorful and fragrant",
+        "Essential Indian spice",
+        "High-quality cultivation"
+    ]
+}
+
+{
+    "productId": "PROD-CP017",
+    "name": "Coconut Saplings - Tropical Bliss",
+    "description": "Tropical coconut saplings for cultivating coconut trees with rich and juicy coconuts.",
+    "type": "sapling",
+    "price": 1699.99,
+    "originalPrice": 2699.99,
+    "rating": 4.7,
+    "remainingQuantity": 80,
+    "totalSold": 95,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/KC/WD/GO/IOS-7179859/product-jpeg-500x500.png",
+        "https://thumbs.dreamstime.com/b/coconut-seedlings-12346631.jpg"
+    ],
+    "categories": [
+        "saplings",
+        "fruits",
+        "coconuts"
+    ],
+    "brand": "TropicHarvest",
+    "weight": 1,
+    "features": [
+        "Rich and juicy coconuts",
+        "Tropical bliss",
+        "Sustainable cultivation"
+    ]
+}
+
+{
+    "productId": "PROD-TP018",
+    "name": "Tea Plant Saplings - Assam Bliss",
+    "description": "Assam tea plant saplings for cultivating rich and aromatic tea leaves.",
+    "type": "sapling",
+    "price": 1899.50,
+    "originalPrice": 2899.50,
+    "rating": 4.6,
+    "remainingQuantity": 70,
+    "totalSold": 105,
+    "inStock": true,
+    "images": [
+        "https://images-cdn.ubuy.co.in/63f53385776a512b6e3460d3-herbal-tea-seeds-for-planting-indoors.jpg",
+        "https://rukminim2.flixcart.com/image/850/1000/k2dm7bk0/plant-seed/b/2/s/180-001gt-180-trh-original-imafhqftazhgyxub.jpeg?q=20"
+    ],
+    "categories": [
+        "saplings",
+        "beverages",
+        "tea"
+    ],
+    "brand": "AssamTeaCo",
+    "weight": 2,
+    "features": [
+        "Rich and aromatic tea leaves",
+        "Assam tea bliss",
+        "Ideal for tea plantations"
+    ]
+}
+
+{
+    "productId": "PROD-SR019",
+    "name": "Sugarcane Saplings - Sweet Harvest",
+    "description": "Sugarcane saplings for cultivating sweet and juicy sugarcane for production of sugar and jaggery.",
+    "type": "sapling",
+    "price": 1599.25,
+    "originalPrice": 2599.25,
+    "rating": 4.7,
+    "remainingQuantity": 75,
+    "totalSold": 90,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/TJ/RV/MY-7681924/sugarcane-sticks-500x500.jpg",
+        "https://c8.alamy.com/comp/DX8YFY/planting-sugarcane-seeding-DX8YFY.jpg"
+    ],
+    "categories": [
+        "saplings",
+        "sweeteners",
+        "sugarcane"
+    ],
+    "brand": "SweetHarvest",
+    "weight": 3,
+    "features": [
+        "Sweet and juicy sugarcane",
+        "Ideal for sugar and jaggery production",
+        "Sustainable cultivation"
+    ]
+}
+
+{
+    "productId": "PROD-BP020",
+    "name": "Banana Plant Saplings - Tropical Delight",
+    "description": "Tropical banana plant saplings for cultivating delicious and nutritious bananas.",
+    "type": "sapling",
+    "price": 1299.50,
+    "originalPrice": 2199.50,
+    "rating": 4.5,
+    "remainingQuantity": 85,
+    "totalSold": 100,
+    "inStock": true,
+    "images": [
+        "https://thumbs.dreamstime.com/z/seeds-banana-yellow-brown-white-background-close-up-99173241.jpg",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-plants-banana-g9-kela-plant-202932_512x512.jpg?v=1679749175"
+    ],
+    "categories": [
+        "saplings",
+        "fruits",
+        "bananas"
+    ],
+    "brand": "TropicFruits",
+    "weight": 1.5,
+    "features": [
+        "Delicious and nutritious bananas",
+        "Tropical delight",
+        "Ideal for home gardens"
+    ]
+}
+
+{
+    "productId": "PROD-MC021",
+    "name": "Mango Plant Saplings - Exotic Mangoes",
+    "description": "Exotic mango plant saplings for cultivating sweet and flavorful mangoes.",
+    "type": "sapling",
+    "price": 1499.75,
+    "originalPrice": 2499.75,
+    "rating": 4.6,
+    "remainingQuantity": 78,
+    "totalSold": 95,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/1/XZ/OL/GF/146476001/mango-seed-500x500-500x500.jpg",
+        "https://c8.alamy.com/comp/2PGTYA3/mango-tree-plant-grow-from-seed-or-seedling-whole-plant-with-fresh-leaves-seed-and-roots-sprouted-seed-isolated-on-white-background-2PGTYA3.jpg"
+    ],
+    "categories": [
+        "saplings",
+        "fruits",
+        "mangoes"
+    ],
+    "brand": "ExoticHarvest",
+    "weight": 2,
+    "features": [
+        "Sweet and flavorful mangoes",
+        "Exotic mango varieties",
+        "Ideal for orchards"
+    ]
+}
