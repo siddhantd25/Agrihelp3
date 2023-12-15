@@ -1,0 +1,725 @@
+{
+    "productId": "PROD-FERT001",
+    "name": "Organic Farm Bliss Fertilizer",
+    "description": "A specially crafted organic fertilizer for promoting healthy and abundant crop yields in Indian farmlands.",
+    "type": "fertilizer",
+    "price": 499.99,
+    "originalPrice": 799.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/1/AZ/HH/OM/136074590/shriram-npk-19-19-19-water-soluble-fertilizer-500x500.jpg",
+        "https://t4.ftcdn.net/jpg/00/87/62/49/360_F_87624930_7n7NgLCFHff7IGr85DCgOcE2aPunov2m.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+        "100% Organic",
+        "Enhances soil fertility",
+        "Tailored for Indian crops",
+        "Slow-release nutrients"
+    ]
+},
+{
+    "productId": "PROD-FERT002",
+    "name": "AgriGold India Boost Fertilizer",
+    "description": "A high-performance fertilizer designed to meet the nutritional needs of diverse Indian crops, ensuring optimal growth and yield.",
+    "type": "fertilizer",
+    "price": 599.99,
+    "originalPrice": 899.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://farmmate.in/cdn/shop/products/hdnpk13045.png?v=1678719488",
+        "https://media.istockphoto.com/id/606230424/photo/agriculture.jpg?s=612x612&w=0&k=20&c=byKybbMGCEAgdgfgyvUXC2ttl_8nbfc7JKpKFYg6rw4="
+    ],
+    "categories": [
+        "fertilizer",
+        "Indian crops",
+        "premium"
+    ],
+    "brand": "AgriGold",
+    "weight": 5,
+    "features": [
+        "Tailored for Indian agricultural practices",
+        "Rich in essential nutrients",
+        "Promotes root development",
+        "Quick absorption formula"
+    ]
+},
+{
+    "productId": "PROD-FERT003",
+    "name": "EverGreen AgriCare Organic Mix",
+    "description": "An all-natural organic fertilizer blend, perfect for sustainable farming practices in diverse Indian climates.",
+    "type": "fertilizer",
+    "price": 449.99,
+    "originalPrice": 699.99,
+    "rating": 4.2,
+    "remainingQuantity": 220,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/1/HD/ON/MT/145400703/urea-n46-500x500.jpg",
+        "https://t3.ftcdn.net/jpg/02/04/28/72/360_F_204287225_4Qn0264AUwyH4RllTK9urzCEOGK14DDy.jpg"
+    ],
+    "categories": [
+        "organic",
+        "sustainable",
+        "Indian climates"
+    ],
+    "brand": "EverGreen AgriCare",
+    "weight": 5,
+    "features": [
+        "Balanced nutrient composition",
+        "Improves water retention",
+        "Suitable for all Indian soil types",
+        "Environmentally friendly"
+    ]
+},
+{
+    "productId": "PROD-FERT004",
+    "name": "BioHarvest Turbo Growth Fertilizer",
+    "description": "An advanced growth-promoting fertilizer formulated to accelerate crop development in Indian agricultural settings.",
+    "type": "fertilizer",
+    "price": 529.99,
+    "originalPrice": 749.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2021/12/VA/QB/CF/75152960/npk-water-soluble-fertiliser-mixture-500x500.jpg",
+        "https://img.freepik.com/premium-photo/gardener-fertilizing-plants-with-npk-fertilizer_123211-4304.jpg"
+    ],
+    "categories": [
+        "growth",
+        "Indian agriculture",
+        "premium"
+    ],
+    "brand": "BioHarvest",
+    "weight": 5,
+    "features": [
+        "Rapid nutrient absorption",
+        "Stimulates flowering and fruiting",
+        "Adapted for Indian soil conditions",
+        "High-efficiency formula"
+    ]
+},
+{
+    "productId": "PROD-FERT005",
+    "name": "Nature's Bounty Organic Blend",
+    "description": "A carefully crafted organic fertilizer blend to nurture Indian crops while promoting soil health and sustainability.",
+    "type": "fertilizer",
+    "price": 479.99,
+    "originalPrice": 749.99,
+    "rating": 4.4,
+    "remainingQuantity": 210,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/2/LO/RZ/XR/33812121/61ndpj1auwl-sl1200--500x500.jpg",
+        "https://images.pexels.com/photos/12626272/pexels-photo-12626272.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    ],
+    "categories": [
+        "organic",
+        "sustainable",
+        "Indian crops"
+    ],
+    "brand": "Nature's Bounty",
+    "weight": 5,
+    "features": [
+        "Rich in natural microorganisms",
+        "Improves soil structure",
+        "Tailored for Indian flora",
+        "Slow-release nutrients"
+    ]
+},
+{
+    "productId": "PROD-FERT006",
+    "name": "AgroVeda NutriBoost Fertilizer",
+    "description": "An expertly formulated fertilizer to enhance nutrient uptake and promote vigorous growth in a variety of Indian crops.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 799.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://image.made-in-china.com/202f0j00PKGiWBcYHfoe/100-Water-Soluble-Trace-Element-Compound-Fertilizer.webp",
+        "https://t3.ftcdn.net/jpg/00/75/82/40/360_F_75824024_IMqZEfNoZoD5h9JjLM3msBB3QrH3vOE4.jpg"
+    ],
+    "categories": [
+        "Indian crops",
+        "premium",
+        "nutrient-rich"
+    ],
+    "brand": "AgroVeda",
+    "weight": 5,
+    "features": [
+        "Optimizes nutrient absorption",
+        "Stimulates root development",
+        "Adapted for Indian agroclimatic zones",
+        "High-quality organic components"
+    ]
+},
+{
+    "productId": "PROD-FERT007",
+    "name": "GreenFields EcoBlend Fertilizer",
+    "description": "A eco-friendly fertilizer blend designed to support sustainable farming practices and improve soil fertility in Indian fields.",
+    "type": "fertilizer",
+    "price": 459.99,
+    "originalPrice": 699.99,
+    "rating": 4.3,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/11/360880464/AP/CJ/YM/160984372/organic-fertilizer-500x500.jpeg",
+        "https://www.shutterstock.com/image-photo/fertilizersoilfarmer-hand-giving-chemical-fertilizer-260nw-1009018783.jpg"
+    ],
+    "categories": [
+        "sustainable",
+        "Indian fields",
+        "eco-friendly"
+    ],
+    "brand": "GreenFields",
+    "weight": 5,
+    "features": [
+        "Promotes biodiversity",
+        "Enhances soil structure",
+        "Suitable for organic farming",
+        "Low environmental impact"
+    ]
+},
+{
+    "productId": "PROD-FERT008",
+    "name": "HarvestGold MegaGrow Fertilizer",
+    "description": "A high-performance fertilizer blend with a focus on promoting healthy growth and maximizing yield in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 569.99,
+    "originalPrice": 829.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/2023120914595949855953.jpeg",
+        "https://media.istockphoto.com/id/1307039908/photo/senior-woman-applying-fertilizer-plant-food-to-soil-for-vegetable-and-flower-garden.webp?b=1&s=170667a&w=0&k=20&c=bCDHz_2Ff4xn0bElRq3XvGsdNr-Ec9u9ZFHtlsFJ1Wc="
+    ],
+    "categories": [
+        "Indian agriculture",
+        "premium",
+        "growth"
+    ],
+    "brand": "HarvestGold",
+    "weight": 5,
+    "features": [
+        "Optimizes nutrient utilization",
+        "Boosts flowering and fruiting",
+        "Tailored for Indian soil conditions",
+        "Advanced slow-release technology"
+    ]
+},
+{
+    "productId": "PROD-FERT009",
+    "name": "Organix India NutriVital Fertilizer",
+    "description": "An enriched fertilizer formula crafted to provide essential nutrients for Indian crops, promoting overall plant health.",
+    "type": "fertilizer",
+    "price": 489.99,
+    "originalPrice": 749.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6waYZTO-A3SIPzWcbNUcGo4b9VZve_qu-9HpkY4bSVth82sHA69Am8DeE7D8GzxP3G4&usqp=CAU",
+        "https://e0.pxfuel.com/wallpapers/340/115/desktop-wallpaper-over-fertilization-in-the-garden-what-to-do-for-fertilizer-burn-thumbnail.jpg"
+    ],
+    "categories": [
+        "Indian crops",
+        "nutrient-rich",
+        "premium"
+    ],
+    "brand": "Organix India",
+    "weight": 5,
+    "features": [
+        "Optimizes nutrient utilization",
+        "Boosts flowering and fruiting",
+        "Tailored for Indian soil conditions",
+        "Advanced slow-release technology"
+    ]
+},
+{
+    "productId": "PROD-FERT010",
+    "name": "GreenEarth AgroMax Fertilizer",
+    "description": "A powerful fertilizer blend designed to maximize crop yields and promote sustainable agriculture practices in diverse Indian climates.",
+    "type": "fertilizer",
+    "price": 539.99,
+    "originalPrice": 779.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+        "https://dms.mydukaan.io/700x700/webp/5126671/845f40ad-1fec-458b-88cd-4d6eb16a19f5/potash-1524c8de-7efc-4b69-9179-690b5c026c73.jpg",
+        "https://st2.depositphotos.com/2977159/6297/i/950/depositphotos_62970837-stock-photo-hand-giving-chemical-fertilizer-to.jpg"
+    ],
+    "categories": [
+        "sustainable",
+        "Indian climates",
+        "premium"
+    ],
+    "brand": "GreenEarth",
+    "weight": 5,
+    "features": [
+        "Optimal nutrient balance",
+        "Adaptable to varying soil conditions",
+        "Enhances stress resistance",
+        "Environmentally conscious formulation"
+    ]
+},
+{
+    "productId": "PROD-FERT011",
+    "name": "AquaGrow HydroBlend Fertilizer",
+    "description": "An innovative hydroponic fertilizer solution tailored for efficient nutrient delivery to Indian crops, ensuring healthy growth and productivity.",
+    "type": "fertilizer",
+    "price": 599.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 170,
+    "totalSold": 110,
+    "inStock": true,
+    "images": [
+        "https://cdn-prodapi.iffcobazar.in/pub/media/catalog/product/cache/5f3447475aa96bb6c8cc6886bb71b2b4/2/-/2-iffco-npk-front-1kg_1_1_.jpg",
+        "https://images.pexels.com/photos/12626269/pexels-photo-12626269.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    ],
+    "categories": [
+        "hydroponics",
+        "Indian crops",
+        "innovative"
+    ],
+    "brand": "AquaGrow",
+    "weight": 5,
+    "features": [
+        "Optimized for hydroponic systems",
+        "Promotes root health",
+        "Tailored for Indian hydroponics enthusiasts",
+        "Balanced nutrient composition"
+    ]
+},
+{
+    "productId": "PROD-FERT012",
+    "name": "OrganicHarvest Bloom Booster",
+    "description": "A specialized organic fertilizer designed to enhance flowering and fruiting in a variety of Indian crops, promoting bountiful harvests.",
+    "type": "fertilizer",
+    "price": 479.99,
+    "originalPrice": 699.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://img3.exportersindia.com/product_images/bc-full/2019/7/4041788/1561957326_p_4978004_955529.jpeg",
+        "https://t3.ftcdn.net/jpg/00/93/44/72/360_F_93447226_QULpNnk1T3Pkp2d3fpoajlUWRhA1g2px.jpg"
+    ],
+    "categories": [
+        "organic",
+        "Indian crops",
+        "flowering"
+    ],
+    "brand": "OrganicHarvest",
+    "weight": 5,
+    "features": [
+        "Boosts flower and fruit development",
+        "100% organic composition",
+        "Suitable for all Indian soil types",
+        "Slow-release nutrients"
+    ]
+},
+{
+    "productId": "PROD-FERT013",
+    "name": "BioNectar GreenGuard Fertilizer",
+    "description": "A bio-enhanced fertilizer with natural pest-repelling properties, designed to protect Indian crops while promoting robust growth.",
+    "type": "fertilizer",
+    "price": 529.99,
+    "originalPrice": 769.99,
+    "rating": 4.4,
+    "remainingQuantity": 200,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://akshatfertilizer.com/uploads/green_house_grade_fertilizers/1580710864174400.png",
+        "https://thumbs.dreamstime.com/b/agricultural-hand-nurturing-fertilizer-plant-growing-step-soi-agricultural-hand-nurturing-fertilizer-plant-growing-step-soil-99609924.jpg"
+    ],
+    "categories": [
+        "bio-enhanced",
+        "pest-repelling",
+        "Indian crops"
+    ],
+    "brand": "BioNectar",
+    "weight": 5,
+    "features": [
+        "Natural pest control properties",
+        "Supports plant immune system",
+        "Adapted for Indian pest challenges",
+        "Promotes sustainable agriculture"
+    ]
+},
+{
+    "productId": "PROD-FERT014",
+    "name": "AgroStar MegaBloom Fertilizer",
+    "description": "A high-quality fertilizer blend formulated to boost flower and fruit production, ideal for Indian horticulture enthusiasts.",
+    "type": "fertilizer",
+    "price": 559.99,
+    "originalPrice": 799.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/PX/RT/WJ/SELLER-19091752/chemical-fertilizer-500x500.jpg",
+        "https://e0.pxfuel.com/wallpapers/983/160/desktop-wallpaper-fertilizer-global-biologics-industries-s-l-thumbnail.jpg"
+    ],
+    "categories": [
+        "horticulture",
+        "flowering",
+        "premium"
+    ],
+    "brand": "AgroStar",
+    "weight": 5,
+    "features": [
+        "Optimizes flowering and fruiting",
+        "Balanced nutrient formulation",
+        "Tailored for Indian horticulture",
+        "Advanced slow-release technology"
+    ]
+},
+{
+    "productId": "PROD-FERT015",
+    "name": "GreenWay Organic PowerBlend",
+    "description": "A potent organic fertilizer blend designed to enhance soil fertility and promote healthy growth in Indian agriculture.",
+    "type": "fertilizer",
+    "price": 489.99,
+    "originalPrice": 729.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbS-puZ8uWXulN_bSDW0iN2fKo9bgrfOZCmQ&usqp=CAU",
+        "https://images.pexels.com/photos/12925602/pexels-photo-12925602.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    ],
+    "categories": [
+        "organic",
+        "soil fertility",
+        "Indian agriculture"
+    ],
+    "brand": "GreenWay",
+    "weight": 5,
+    "features": [
+        "Improves soil structure",
+        "Boosts microbial activity",
+        "Tailored for Indian soil conditions",
+        "Slow-release nutrients"
+    ]
+},
+{
+    "productId": "PROD-FERT016",
+    "name": "HarvestCare MegaNourish Fertilizer",
+    "description": "A nutrient-rich fertilizer blend crafted to provide essential elements for Indian crops, ensuring overall plant health and vitality.",
+    "type": "fertilizer",
+    "price": 509.99,
+    "originalPrice": 769.99,
+    "rating": 4.4,
+    "remainingQuantity": 200,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://krishibazaar.in/image/cache/catalog/Ecotica/Fertilizers-3-3-3-570x570.png",
+        "https://png.pngtree.com/thumb_back/fh260/background/20221107/pngtree-applying-graduated-chemical-mineral-fertilizers-to-plants-in-a-spring-garden-for-enhanced-growth-photo-image_40334696.jpg"
+    ],
+    "categories": [
+        "Indian crops",
+        "soil fertility",
+        "Indian agriculture"
+    ],
+    "brand": "GreenWay",
+    "weight": 5,
+    "features": [
+        "Improves soil structure",
+        "Boosts microbial activity",
+        "Tailored for Indian soil conditions",
+        "Slow-release nutrients"
+    ]
+},
+{
+    "productId": "PROD-FERT017",
+    "name": "EcoGrow Natural Nourish Fertilizer",
+    "description": "A natural fertilizer blend enriched with indigenous ingredients, promoting sustainable agriculture and enhancing crop nutrition in Indian farms.",
+    "type": "fertilizer",
+    "price": 479.99,
+    "originalPrice": 699.99,
+    "rating": 4.3,
+    "remainingQuantity": 210,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/10/356411635/TB/CU/TL/11804202/organic-fertilizer-500x500.webp",
+        "https://media.istockphoto.com/id/684977254/photo/farmer-hand-giving-plant-organic-humus-fertilizer-to-plant.jpg?s=1024x1024&w=is&k=20&c=bXrXILYho2kJojaw3ackJIihK_C5soq9g15fm5uB1GM="
+    ],
+    "categories": [
+        "natural",
+        "sustainable",
+        "Indian farms"
+    ],
+    "brand": "EcoGrow",
+    "weight": 5,
+    "features": [
+        "Indigenous nutrient sources",
+        "Supports sustainable farming",
+        "Tailored for Indian soil diversity",
+        "Slow-release nutrients"
+    ]
+},
+{
+    "productId": "PROD-FERT018",
+    "name": "AgriNectar SoilRevive Fertilizer",
+    "description": "A soil-revitalizing fertilizer blend designed to rejuvenate Indian farmlands, improving fertility and supporting healthy crop growth.",
+    "type": "fertilizer",
+    "price": 499.99,
+    "originalPrice": 749.99,
+    "rating": 4.4,
+    "remainingQuantity": 200,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3cfXTU4mTVfHtNg3ZocU_8OMiXVW_uUFvw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCwLgrEzZEJr6V4XhHYm99rsVuygv7jJSlw&usqp=CAU"
+    ],
+    "categories": [
+        "soil-revitalizing",
+        "Indian farmlands",
+        "premium"
+    ],
+    "brand": "AgriNectar",
+    "weight": 5,
+    "features": [
+        "Revives depleted soils",
+        "Enhances microbial activity",
+        "Adapted for Indian farming practices",
+        "Balanced nutrient composition"
+    ]
+},
+{
+    "productId": "PROD-FERT019",
+    "name": "OrganicHarbor GreenGlow Fertilizer",
+    "description": "An eco-friendly organic fertilizer blend that promotes vibrant and healthy growth in a wide range of Indian crops, ensuring sustainability.",
+    "type": "fertilizer",
+    "price": 519.99,
+    "originalPrice": 779.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cjdBQKixbf2Adl1tw8Lg7iOOTdjS2xboWg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknPtDBXQvKslgKVAUl_FzDb5D8b7sGXsXyg&usqp=CAU"
+    ],
+    "categories": [
+        "organic",
+        "Indian crops",
+        "eco-friendly"
+    ],
+    "brand": "OrganicHarbor",
+    "weight": 5,
+    "features": [
+        "Promotes eco-friendly agriculture",
+        "Rich in organic matter",
+        "Adapted for Indian soil conditions",
+        "Slow-release nutrients"
+    ]
+},
+{
+    "productId": "PROD-FERT020",
+    "name": "FarmPro NutriBoost Fertilizer",
+    "description": "A nutrient-boosting fertilizer blend designed for Indian farmers, enhancing soil fertility and supporting optimal crop nutrition.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 799.99,
+    "rating": 4.5,
+    "remainingQuantity": 180,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP50G8mRUa53Ehb6R06Pe7MtfKY2ov02w96g&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EYJ6BdXlLJw8N_Ed6Dd0C5yTZ7FYq7-XzQ&usqp=CAU"
+    ],
+    "categories": [
+        "Indian farmers",
+        "premium",
+        "nutrient-rich"
+    ],
+    "brand": "FarmPro",
+    "weight": 5,
+    "features": [
+        "Optimizes nutrient uptake",
+        "Supports healthy root development",
+        "Tailored for Indian crops",
+        "Advanced slow-release technology"
+    ]
+},
+{
+    "productId": "PROD-FERT021",
+    "name": "VedicGrow AyurFert Fertilizer",
+    "description": "An Ayurvedic-inspired fertilizer blend crafted to enhance the vitality and well-being of Indian crops, combining traditional wisdom with modern agriculture.",
+    "type": "fertilizer",
+    "price": 569.99,
+    "originalPrice": 829.99,
+    "rating": 4.7,
+    "remainingQuantity": 170,
+    "totalSold": 110,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEvmFk7Biz8UcitvesdwDxKmCM_bSBO9ImXQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjmvctlBzmKsgzStPXiVyPzCzDVGjy1EqAYA&usqp=CAU"
+    ],
+    "categories": [
+        "Ayurvedic-inspired",
+        "Indian crops",
+        "premium"
+    ],
+    "brand": "VedicGrow",
+    "weight": 5,
+    "features": [
+        "Balances plant energies",
+        "Promotes overall crop health",
+        "Adapted for Indian agroclimatic zones",
+        "Environmentally conscious formulation"
+    ]
+},
+{
+    "productId": "PROD-FERT022",
+    "name": "GreenAura MegaHarvest Fertilizer",
+    "description": "A high-performance fertilizer blend designed to maximize harvest yields in Indian agriculture, supporting sustainable farming practices.",
+    "type": "fertilizer",
+    "price": 589.99,
+    "originalPrice": 849.99,
+    "rating": 4.8,
+    "remainingQuantity": 160,
+    "totalSold": 100,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8e8bautVcM5aYlTK098zZ_pJU9GSqJt2Sgg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvw6KLq_L0YP9KQ_vjm1PR8hh-2ehOnKZSgw&usqp=CAU"
+    ],
+    "categories": [
+        "Indian agriculture",
+        "premium",
+        "sustainable"
+    ],
+    "brand": "GreenAura",
+    "weight": 5,
+    "features": [
+        "Maximizes crop yields",
+        "Supports sustainable farming",
+        "Adapted for Indian soil conditions",
+        "Advanced nutrient absorption technology"
+    ]
+},
+{
+    "productId": "PROD-FERT023",
+    "name": "AquaLife HydroNourish Fertilizer",
+    "description": "A hydroponic fertilizer blend designed to optimize nutrient delivery for Indian crops, ensuring healthy growth in hydroponic systems.",
+    "type": "fertilizer",
+    "price": 609.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 150,
+    "totalSold": 90,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGmNvvD5gpjX8umMd9ikfEqzWCAqNCOFClLQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYa0mNSPB8XR4BLAYgwGQ_jy_Ph1-DAQ2efw&usqp=CAU"
+    ],
+    "categories": [
+        "Indian agriculture",
+        "premium",
+        "sustainable"
+    ],
+    "brand": "GreenAura",
+    "weight": 5,
+    "features": [
+        "Maximizes crop yields",
+        "Supports sustainable farming",
+        "Adapted for Indian soil conditions",
+        "Advanced nutrient absorption technology"
+    ]
+},
+{
+    "productId": "PROD-FERT024",
+    "name": "IndigoAgri TurboBloom Fertilizer",
+    "description": "A high-nutrient fertilizer blend to promote vigorous flowering and fruiting in Indian crops, designed for optimal agricultural performance.",
+    "type": "fertilizer",
+    "price": 529.99,
+    "originalPrice": 769.99,
+    "rating": 4.5,
+    "remainingQuantity": 180,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQghFItM5SuUWv8MFjtIXBfs_HvLyv0cIWuQg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtlU0Mbc40RykGTMm1wj-F7kMXLlkZRzNcAQ&usqp=CAU"
+    ],
+    "categories": [
+        "flowering",
+        "Indian crops",
+        "premium"
+    ],
+    "brand": "IndigoAgri",
+    "weight": 5,
+    "features": [
+        "Boosts flower and fruit development",
+        "Optimizes nutrient absorption",
+        "Tailored for Indian agroclimatic zones",
+        "Advanced slow-release technology"
+    ]
+},
+{
+    "productId": "PROD-FERT025",
+    "name": "EcoHarvest Sustainable Blend",
+    "description": "An eco-conscious fertilizer blend crafted for sustainable farming practices in various Indian regions, supporting both the environment and crops.",
+    "type": "fertilizer",
+    "price": 499.99,
+    "originalPrice": 749.99,
+    "rating": 4.4,
+    "remainingQuantity": 190,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://farmmate.in/cdn/shop/products/hdnpk000050.png?v=1678697788",
+        "https://media.istockphoto.com/id/1265209398/photo/feeding-lawn-with-granular-fertilizer-for-perfect-green-grass.webp?b=1&s=170667a&w=0&k=20&c=PG0ij58dzVHPdBw7SjQZ660wTFvk7nmWjTGkJfcW1Xc="
+    ],
+    "categories": [
+        "sustainable",
+        "Indian regions",
+        "eco-friendly"
+    ],
+    "brand": "EcoHarvest",
+    "weight": 5,
+    "features": [
+        "Promotes biodiversity",
+        "Enhances soil structure",
+        "Tailored for Indian farming practices",
+        "Low environmental impact"
+    ]
+},
