@@ -1,0 +1,749 @@
+{
+    "productId": "PROD-PUMP001",
+    "name": "Organic Farm Pumps",
+    "description": "Pumps are used for irrigation of land by sprinkler, flood or micro-irrigation..",
+    "type": "fertilizer",
+    "price": 499.99,
+    "originalPrice": 799.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://t4.ftcdn.net/jpg/03/55/69/05/360_F_355690505_5rvgWu60uhNWUmpMRbDXTpvAEfHQZ6fV.jpg",
+      "https://d13bbii8ozdt01.cloudfront.net/uploads/2021/01/1500x385_pumps.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+      "100% Organic",
+      "Enhances soil fertility",
+      "Tailored for Indian crops",
+      "Slow-release nutrients"
+    ]
+  }
+
+  {
+    "productId": "PROD-PUMP002",
+    "name": "Agriculture Master Pump",
+    "description": "Ideal for Indian farmers, ensures efficient irrigation and crop nourishment.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://c1.wallpaperflare.com/preview/202/904/23/water-pump-industrial-industry-pump.jpg",
+      "https://t4.ftcdn.net/jpg/04/81/21/49/360_F_481214912_E9lH9jOoragRuIQaIPWz9V94ER6gKNR7.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "AgriTech India",
+    "weight": 6,
+    "features": [
+      "Specially designed for Indian crops",
+      "Optimized water distribution",
+      "Highly durable",
+      "Eco-friendly"
+    ]
+  }
+
+  {
+    "productId": "PROD-PUMP003",
+    "name": "Traditional Well Pump",
+    "description": "A reliable pump for extracting water from traditional wells, suitable for rural Indian agriculture.",
+    "type": "water",
+    "price": 399.99,
+    "originalPrice": 699.99,
+    "rating": 4.2,
+    "remainingQuantity": 220,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://d13bbii8ozdt01.cloudfront.net/uploads/2021/01/1500x385_pumps.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2023/1/BC/WW/NK/2621376/submersible-pump-500x500.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "RuralFlow",
+    "weight": 8,
+    "features": [
+      "Traditional design",
+      "Easy to operate",
+      "Well-suited for rural areas",
+      "Sturdy construction"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP004",
+    "name": "Solar-Powered Agri Pump",
+    "description": "Harness the power of the sun for irrigation with this eco-friendly solar-powered agricultural pump.",
+    "type": "solar",
+    "price": 799.99,
+    "originalPrice": 1099.99,
+    "rating": 4.8,
+    "remainingQuantity": 150,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+      "https://t4.ftcdn.net/jpg/04/81/21/49/360_F_481214912_E9lH9jOoragRuIQaIPWz9V94ER6gKNR7.jpg",
+      "https://www.prakash.in/wp-content/uploads/2019/09/submersible-pump-copy.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "SunHarvest",
+    "weight": 4,
+    "features": [
+      "Energy-efficient",
+      "Low maintenance",
+      "Suitable for off-grid areas",
+      "Long-lasting battery"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP005",
+    "name": "Monsoon Marvel Pump",
+    "description": "Designed to maximize irrigation during the monsoon season, ensuring optimal crop growth for Indian farmers.",
+    "type": "rain",
+    "price": 449.99,
+    "originalPrice": 749.99,
+    "rating": 4.4,
+    "remainingQuantity": 210,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/image-photo/water-pump-powerful-flowing-large-260nw-1452712763.jpg",
+      "https://www.p-e-w.in/uploaded_files/borewell-submersible-pump.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "RainGuard",
+    "weight": 7,
+    "features": [
+      "Optimized for monsoon conditions",
+      "High water discharge",
+      "Durable build",
+      "Easy maintenance"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP006",
+    "name": "SmartFarm Pump Plus",
+    "description": "Intelligent pump technology for precision irrigation, adapting to the specific needs of various Indian crops.",
+    "type": "smart",
+    "price": 699.99,
+    "originalPrice": 999.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://static.toiimg.com/photo/msid-82209945/82209945.jpg",
+      "https://www.vikaspumps.com/images/products/submersible-pump.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "TechAgro",
+    "weight": 5.5,
+    "features": [
+      "Smart irrigation algorithms",
+      "Remote monitoring",
+      "Water-saving technology",
+      "Adaptable to crop types"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP007",
+    "name": "EcoFlow Agri Pump",
+    "description": "An environmentally friendly pump designed for sustainable agriculture in diverse Indian climates.",
+    "type": "eco",
+    "price": 799.99,
+    "originalPrice": 1199.99,
+    "rating": 4.9,
+    "remainingQuantity": 170,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+      "https://www.crigroups.com/wp-content/uploads/2022/10/Borewell-Submersible-Water-Pumps.jpg",
+      "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F004%2F708%2Ffidel-submersible-pump-sets-682.jpg&w=750&q=75"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "GreenTech",
+    "weight": 6.5,
+    "features": [
+      "Low carbon footprint",
+      "Energy-efficient",
+      "Adaptable to soil conditions",
+      "Long-lasting components"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP008",
+    "name": "BioHarvest Water Pump",
+    "description": "Harness the power of nature with this bio-friendly water pump, promoting sustainable agriculture practices in India.",
+    "type": "bio",
+    "price": 649.99,
+    "originalPrice": 999.99,
+    "rating": 4.7,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://www.shutterstock.com/image-photo/thailand-farmers-pumping-water-into-260nw-436641685.jpg",
+      "https://assets.thehansindia.com/hansindia-bucket/pumpsets_8060.jpg"
+    ],
+    "categories": [
+      "pump",
+      "Irrigation",
+      "Indian POV"
+    ],
+    "brand": "NatureFlow",
+    "weight": 5.8,
+    "features": [
+      "Biodegradable materials",
+      "Natural filtration system",
+      "Promotes soil health",
+      "Easy maintenance"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP009",
+    "name": "GangaFlow Irrigation Pump",
+    "description": "Inspired by the sacred Ganges, this pump ensures efficient water distribution for Indian agricultural needs.",
+    "type": "water",
+    "price": 459.99,
+    "originalPrice": 799.99,
+    "rating": 4.6,
+    "remainingQuantity": 210,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://st.depositphotos.com/44388702/55094/i/450/depositphotos_550945580-stock-photo-water-pump-submersible-pump-set.jpg",
+        "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F006%2F293%2Fsilver-borewell-submersible-pump-853.jpg&w=750&q=75"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "DivineAgro",
+    "weight": 6,
+    "features": [
+        "Sacred Ganges-inspired design",
+        "Efficient water flow",
+        "Adaptable to Indian crops",
+        "Reliable performance"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP010",
+    "name": "Golden Harvest Solar Pump",
+    "description": "Harvest the power of the Indian sun for sustainable and eco-friendly agricultural irrigation.",
+    "type": "solar",
+    "price": 849.99,
+    "originalPrice": 1099.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/3/HN/LY/BY/16626018/ag069-water-pump-2-500x500.jpg",
+        "https://www.kisankraft.com/wp-content/uploads/2020/10/Water-Pump.jpg"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "SunGold",
+    "weight": 4.5,
+    "features": [
+        "Harnesses Indian sunlight",
+        "Low environmental impact",
+        "Ideal for remote areas",
+        "Long-lasting battery"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP011",
+    "name": "Himalayan Frost Guard Pump",
+    "description": "Protect your crops from frost with this specialized pump designed for the unique conditions of the Himalayan region.",
+    "type": "climate",
+    "price": 499.99,
+    "originalPrice": 749.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+        "https://www.kirloskarpumps.com/spbpumps/img-agri/gal3.png",
+        "https://5.imimg.com/data5/SELLER/Default/2020/10/UZ/LG/OM/37595672/rotec-borewell-submersible-pump.jpg"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "HimalayaGuard",
+    "weight": 7,
+    "features": [
+        "Frost protection technology",
+        "Adaptable to Himalayan conditions",
+        "Durable build",
+        "Efficient energy usage"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP012",
+    "name": "SpiceGrove Herbicide Pump",
+    "description": "Tailored for Indian spice and herb farms, providing precision herbicide distribution for optimal yield.",
+    "type": "herbicide",
+    "price": 529.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 190,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/image-photo/water-flow-large-pump-tube-260nw-483670054.jpg",
+        "https://img3.exportersindia.com/product_images/bc-full/2020/11/6701228/open-well-submersible-pump-1606127283-5638758.jpeg"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "SpiceHarvest",
+    "weight": 5.3,
+    "features": [
+        "Precision herbicide application",
+        "Tailored for spice farms",
+        "Easy calibration",
+        "Promotes sustainable farming"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP013",
+    "name": "TeaBloom Plantation Pump",
+    "description": "Designed for tea plantations, this pump ensures optimal water distribution for healthy tea crops in India.",
+    "type": "tea",
+    "price": 479.99,
+    "originalPrice": 799.99,
+    "rating": 4.6,
+    "remainingQuantity": 220,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://media.gettyimages.com/id/1286517078/video/close-up-of-water-hose-pumping-clear-water-into-green-paddy-farm-field-for-irrigation-in-a.jpg?s=640x640&k=20&c=saHmHzOPJpwxIX9eIVqfIcTi2jn7lORBLgbnmFdEmaI=",
+        "https://d13bbii8ozdt01.cloudfront.net/uploads/2023/08/Oil-Filled-vs-Water-Filled-Submersible-Pump-Mobile.jpg"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "ChaiHarvest",
+    "weight": 6.2,
+    "features": [
+        "Optimal for tea crops",
+        "Efficient water usage",
+        "Adaptable to plantation terrain",
+        "Durable construction"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP014",
+    "name": "TropicBlast Banana Pump",
+    "description": "Tailored for banana plantations in the tropical Indian climate, ensuring proper irrigation for healthy banana yields.",
+    "type": "banana",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://elegrow.com/wp-content/uploads/2022/03/Solar-Powered-Water-Pump.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHYgyTrtNayz4nWyxEDQ3N0p_ZcSTRyEzow&usqp=CAU"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "TropicHarvest",
+    "weight": 5.5,
+    "features": [
+        "Optimized for banana crops",
+        "Tropical climate adaptation",
+        "High water discharge",
+        "Sturdy and reliable"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP015",
+    "name": "SaffronBloom Drip Pump",
+    "description": "Perfect for saffron cultivation, this drip pump ensures precise water distribution for the delicate saffron flowers.",
+    "type": "drip",
+    "price": 599.99,
+    "originalPrice": 999.99,
+    "rating": 4.7,
+    "remainingQuantity": 170,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp8-JFqyt0f5g3A5HrnJil9KmNxh1GlQdkVg&usqp=CAU",
+        "https://www.shutterstock.com/image-photo/irrigation-rice-fields-using-pump-600nw-2063480267.jpg"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "TropicHarvest",
+    "weight": 5.5,
+    "features": [
+        "Optimized for banana crops",
+        "Tropical climate adaptation",
+        "High water discharge",
+        "Sturdy and reliable"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP016",
+    "name": "MangoGrove Orchard Pump",
+    "description": "Specifically designed for mango orchards, this pump ensures optimal water distribution for delicious and juicy mangoes.",
+    "type": "fruit",
+    "price": 579.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9LPIba3v6IlzUMZ0EvjCRz8NI-1278kSoSg&usqp=CAU",
+        "https://d13bbii8ozdt01.cloudfront.net/uploads/2019/07/V4-Stainless-Steel-Pumps.png"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "FruitHarvest",
+    "weight": 6.0,
+    "features": [
+        "Tailored for mango orchards",
+        "Optimal water flow",
+        "Promotes fruit quality",
+        "Sturdy and reliable"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP017",
+    "name": "JasmineBreeze Flower Pump",
+    "description": "Perfect for jasmine flower cultivation, ensuring precise irrigation to enhance the fragrance and bloom of jasmine flowers.",
+    "type": "flower",
+    "price": 499.99,
+    "originalPrice": 749.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtaByd2Dn2o-CUtXkCHsw91tKNKayqSN5aw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ispMRj0_j7NikfNHKRajg3aa19x_IhmuwQ&usqp=CAU"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "FloralHarvest",
+    "weight": 5.8,
+    "features": [
+        "Tailored for jasmine flowers",
+        "Precise water distribution",
+        "Enhanced fragrance",
+        "Durable construction"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP018",
+    "name": "SilkCraft Silkworm Pump",
+    "description": "Specifically crafted for silkworm farms, ensuring the right humidity and water levels for healthy silk production.",
+    "type": "silk",
+    "price": 619.99,
+    "originalPrice": 999.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/GN/GG/MY-42480884/agriculture-pump--500x500.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixBU0M-4MdBlCp952eGAFUWxvBH0ktZHNwA&usqp=CAU"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "SilkHarvest",
+    "weight": 5.2,
+    "features": [
+        "Tailored for silkworm farms",
+        "Optimal humidity control",
+        "Promotes healthy silk production",
+        "Efficient water usage"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP019",
+    "name": "SpiceBlend Fertilizer Pump",
+    "description": "Ideal for spice plantations, providing precise fertilizer distribution to enhance the flavor and aroma of spices.",
+    "type": "fertilizer",
+    "price": 539.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmqklCgSNNTHlPBOVpckA68TCteuvqBt-3g&usqp=CAU",
+        "https://t3.ftcdn.net/jpg/04/98/13/14/360_F_498131487_M2l6clHO89deFGyFE6kXcuUqut3ZjHbF.jpg"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "SpiceHarvest",
+    "weight": 6.0,
+    "features": [
+        "Tailored for spice plantations",
+        "Precise fertilizer distribution",
+        "Enhances spice quality",
+        "Sturdy and reliable"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP020",
+    "name": "ChilliHeat Irrigation Pump",
+    "description": "Crafted for chilli farms, ensuring the right moisture levels for optimal heat and flavor in Indian chillies.",
+    "type": "irrigation",
+    "price": 559.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F008%2F366%2Fhigh-pressure-single-stage-water-motor-pumps-for-agriculture-fields-use-594.jpg&w=750&q=75",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWmnygoPqUn1WRrPv8m2NZmZvKVBstmVZ9oA&usqp=CAU"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "SpiceHarvest",
+    "weight": 5.5,
+    "features": [
+        "Tailored for chilli farms",
+        "Optimal moisture control",
+        "Enhances chilli flavor",
+        "Durable construction"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP021",
+    "name": "RicePaddy Hydro Pump",
+    "description": "Designed for rice paddies, this hydro pump ensures precise water management for healthy and abundant rice crops in India.",
+    "type": "hydro",
+    "price": 579.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://m.media-amazon.com/images/I/41S5VEDbtvL._AC_UF894,1000_QL80_.jpg",
+        "https://instrumentationtools.com/wp-content/uploads/2022/10/Submersible-Pump.jpg"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "RiceHarvest",
+    "weight": 6.2,
+    "features": [
+        "Optimized for rice paddies",
+        "Precise water management",
+        "Promotes abundant rice harvest",
+        "Sturdy and reliable"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP022",
+    "name": "AyurvedaHerb Medicinal Pump",
+    "description": "Tailored for Ayurvedic herb farms, ensuring precise irrigation for the cultivation of medicinal herbs in India.",
+    "type": "medicinal",
+    "price": 599.99,
+    "originalPrice": 999.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvIG7_cTCBTVTyD-uTeJYldmPlKBhvDaVjA&usqp=CAU",
+        "https://sc04.alicdn.com/kf/U871f765addae4475b690a6e131412e22M.jpg"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "AyurHarvest",
+    "weight": 5.8,
+    "features": [
+        "Tailored for Ayurvedic herbs",
+        "Precise irrigation for medicinal potency",
+        "Promotes herb quality",
+        "Durable construction"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP023",
+    "name": "NeemGuard Pest Control Pump",
+    "description": "Ideal for Neem plantations, providing precise pest control to enhance the effectiveness of Neem-based products in India.",
+    "type": "pestcontrol",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.8,
+    "remainingQuantity": 170,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJDUU7LFdXdyINvBtaQljQHelVTdmd2lQwA&usqp=CAU",
+        "https://rukminim2.flixcart.com/image/850/1000/k76ihe80/water-pump/s/a/j/1-5-hp-single-phase-15-stage-crompton-original-imafphe9vnshqtdg.jpeg?q=90"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "NeemHarvest",
+    "weight": 6.0,
+    "features": [
+        "Tailored for Neem plantations",
+        "Precise pest control",
+        "Enhances Neem product effectiveness",
+        "Sturdy and reliable"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP024",
+    "name": "GingerSpice Irrigation Pump",
+    "description": "Specifically crafted for ginger farms, ensuring the right moisture levels for optimal spice and flavor in Indian ginger crops.",
+    "type": "irrigation",
+    "price": 579.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQ8qz4EMsAaWIlHcl2SZzNg-TPNvDDybzWQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczKUT6v6G7CB4IBzYCtsHcOqHaOSL5IJghA&usqp=CAU"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "SpiceHarvest",
+    "weight": 5.5,
+    "features": [
+        "Tailored for ginger farms",
+        "Optimal moisture control",
+        "Enhances ginger flavor",
+        "Durable construction"
+    ]
+}
+
+{
+    "productId": "PROD-PUMP025",
+    "name": "MysoreSandalwood Scent Pump",
+    "description": "Crafted for Sandalwood plantations in Mysore, ensuring precise water distribution for high-quality Sandalwood oil production.",
+    "type": "sandalwood",
+    "price": 619.99,
+    "originalPrice": 999.99,
+    "rating": 4.8,
+    "remainingQuantity": 170,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GiGqLs4be6ylPo9BR7-M7rejwxAH4iYXww&usqp=CAU",
+        "https://5.imimg.com/data5/QF/FO/MY-8963544/sewage-pump-500x500.jpg"
+    ],
+    "categories": [
+        "pump",
+        "Irrigation",
+        "Indian POV"
+    ],
+    "brand": "SandalHarvest",
+    "weight": 5.2,
+    "features": [
+        "Tailored for Sandalwood plantations",
+        "Precise water distribution",
+        "Enhances Sandalwood oil quality",
+        "Efficient water usage"
+    ]
+}
