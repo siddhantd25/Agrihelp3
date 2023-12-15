@@ -1,0 +1,688 @@
+{
+    "productId": "PROD-PST001",
+    "name": "King Mite",
+    "description": "The cutting-edge pesticide solution designed to elevate your farming experience.",
+    "type": "Pesticide",
+    "price": 399.99,
+    "originalPrice": 599.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/1/CB/YX/UX/145537515/agricultural-acetamiprid-20-sp-insecticide-100gm-500x500.jpg",
+        "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVzdGljaWRlfGVufDB8fDB8fHww"
+    ],
+    "categories": [
+        "Pesticide",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+        "100% Organic",
+        "Enhances soil fertility",
+        "Tailored for Indian crops",
+        "Slow-release nutrients"
+    ]
+}
+
+{
+    "productId": "PROD-PST002",
+    "name": "EcoShield",
+    "description": "An eco-friendly pesticide to safeguard your crops and the environment.",
+    "type": "Pesticide",
+    "price": 299.99,
+    "originalPrice": 449.99,
+    "rating": 4.2,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNG-4Q9OtHZc9zxZkQk5gpwuRKRUTKRnXzLwKjQRdtvLwverIQ2IMris41WQv6l18VtYo&usqp=CAU",
+        "https://images.pexels.com/photos/9280745/pexels-photo-9280745.jpeg?cs=srgb&dl=pexels-laura-arias-9280745.jpg&fm=jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "NatureGuard",
+    "weight": 5,
+    "features": [
+        "Biodegradable",
+        "Suitable for diverse Indian crops",
+        "Minimizes ecological impact",
+        "Promotes natural pollination"
+    ]
+}
+
+  {
+    "productId": "PROD-PST003",
+    "name": "BioCare Shield",
+    "description": "An advanced biological pesticide to support sustainable farming practices in India.",
+    "type": "Pesticide",
+    "price": 419.99,
+    "originalPrice": 549.99,
+    "rating": 4.8,
+    "remainingQuantity": 250,
+    "totalSold": 200,
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1393307462/display_1500/stock-photo-closeup-blank-unlabelled-bottle-as-mockup-copy-space-for-herbicide-fungicide-or-insecticide-image-1393307462.jpg",
+        "https://images.pexels.com/photos/14944259/pexels-photo-14944259.jpeg?cs=srgb&dl=pexels-arjun-mj-14944259.jpg&fm=jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "GreenAgro",
+    "weight": 5,
+    "features": [
+        "Bio-based formulation",
+        "Gentle on beneficial insects",
+        "Optimizes soil health",
+        "Residue-free"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST004",
+    "name": "NeemGuard Pro",
+    "description": "Harnessing the power of neem for a natural shield against pests in Indian crops.",
+    "type": "Pesticide",
+    "price": 299.99,
+    "originalPrice": 449.99,
+    "rating": 4.4,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://www.trustbasket.com/cdn/shop/products/Neem-Powder-01.jpg?v=1659454214",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQfPhLs-ZFs8ZLqTvY8FuwqQoTTBU-dvg8qRD5ZUuqfr6t2QUnPtYyR4MtfbcahANGC8M&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "NeemHarmony",
+    "weight": 5,
+    "features": [
+        "Neem oil-infused",
+        "Balances soil microflora",
+        "Safe for organic farming",
+        "Time-tested solution"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST005",
+    "name": "TurmericShield",
+    "description": "A pesticide enriched with turmeric extracts for holistic crop protection in Indian agriculture.",
+    "type": "Pesticide",
+    "price": 369.99,
+    "originalPrice": 499.99,
+    "rating": 4.7,
+    "remainingQuantity": 210,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/8/337836228/WY/ZQ/BF/37256227/whatsapp-image-2023-08-08-at-11-51-16-am-500x500.jpeg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/5/310023420/IV/MX/QG/133627130/ju-venus-acetamiprid-20-sp-pests-controller-insecticides-500x500.jpeg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV"
+    ],
+    "brand": "GoldenFields",
+    "weight": 5,
+    "features": [
+        "Turmeric curcumin blend",
+        "Boosts plant immunity",
+        "Adaptable to diverse climates",
+        "Resistant to common pests"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST006",
+    "name": "SpiceGuard",
+    "description": "A specialized pesticide formulation for spice crops, tailored to Indian farming conditions.",
+    "type": "Pesticide",
+    "price": 329.99,
+    "originalPrice": 469.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/7/324659685/CD/EX/ZT/132393264/chemical-pesticide-500x500.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/5/305985510/OS/AE/VP/123327720/pesticide-125x125.jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Spices"
+    ],
+    "brand": "FlavorShield",
+    "weight": 5,
+    "features": [
+        "Customized for spice crops",
+        "Preserves aromatic compounds",
+        "Targets spice-specific pests",
+        "Improves yield flavor"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST007",
+    "name": "JasmineCare",
+    "description": "A gentle pesticide for jasmine cultivation, promoting healthy growth in Indian floral gardens.",
+    "type": "Pesticide",
+    "price": 389.99,
+    "originalPrice": 529.99,
+    "rating": 4.9,
+    "remainingQuantity": 230,
+    "totalSold": 190,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/8/337231842/FB/EX/OQ/180805378/whatsapp-image-2023-07-11-at-5-47-48-pm-1-500x500.jpeg",
+        "https://tiimg.tistatic.com/fp/1/007/162/agriculture-pesticides-in-bottle-and-packet-packaging-791.jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Floriculture"
+    ],
+    "brand": "BlossomGuard",
+    "weight": 5,
+    "features": [
+        "Jasmine-friendly formulation",
+        "Promotes vibrant blooms",
+        "Safe for beneficial insects",
+        "Enhances fragrance"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST008",
+    "name": "RiceShield Plus",
+    "description": "A powerful pesticide designed to protect rice crops, ensuring a bountiful harvest in Indian paddy fields.",
+    "type": "Pesticide",
+    "price": 309.99,
+    "originalPrice": 459.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/5/309409258/LV/GW/JP/189461609/organic-pesticides-500x500.jpeg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToPgNc-zbgRs9z2N9KAyJY0po_C-ccoxrOlg&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Rice Crops"
+    ],
+    "brand": "HarvestGuard",
+    "weight": 5,
+    "features": [
+        "Tailored for rice varieties",
+        "Minimizes water contamination",
+        "Resistant to waterborne pests",
+        "Improves rice quality"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST009",
+    "name": "SugarcaneArmor",
+    "description": "An innovative pesticide solution for sugarcane farms, ensuring robust protection and high yields in Indian plantations.",
+    "type": "Pesticide",
+    "price": 429.99,
+    "originalPrice": 569.99,
+    "rating": 4.7,
+    "remainingQuantity": 220,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+        "https://c8.alamy.com/comp/E672N3/miscellaneous-pesticides-stored-in-old-garden-shed-E672N3.jpg",
+        "https://www.shutterstock.com/image-photo/farmer-protective-clothes-spray-pesticides-260nw-1812642349.jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Sugarcane Farms"
+    ],
+    "brand": "SweetShield",
+    "weight": 5,
+    "features": [
+        "Optimized for sugarcane crops",
+        "Enhances sucrose content",
+        "Minimizes disease risk",
+        "Boosts sugar yield"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST010",
+    "name": "ChilliGuard",
+    "description": "A targeted pesticide solution for chili cultivation, addressing common pests in Indian spice gardens.",
+    "type": "Pesticide",
+    "price": 349.99,
+    "originalPrice": 499.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/8/339296473/DU/ZC/KJ/108706449/organic-pesticides-500x500.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/8/339296463/IT/QD/JR/108706449/organic-pesticides-500x500.jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Spices"
+    ],
+    "brand": "SpiceDefender",
+    "weight": 5,
+    "features": [
+        "Tailored for chili plants",
+        "Targets chili-specific pests",
+        "Enhances spice potency",
+        "Residue-free"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST011",
+    "name": "TeaLeafShield",
+    "description": "A specialized pesticide for tea plantations, ensuring healthy tea leaves and optimal flavor in Indian tea gardens.",
+    "type": "Pesticide",
+    "price": 389.99,
+    "originalPrice": 529.99,
+    "rating": 4.8,
+    "remainingQuantity": 220,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/7/330646284/QD/JF/JD/154367906/whatsapp-image-2023-07-31-at-5-45-52-pm-500x500.jpeg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswPbuKRiD2Jzw369vamXGGTqwToY3Hx9E9rK5Uu5G7_QcTGHBGSNsgs4Pxbh130ecs3M&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Tea Plantations"
+    ],
+    "brand": "TeaGuardian",
+    "weight": 5,
+    "features": [
+        "Optimized for tea bushes",
+        "Preserves tea aroma",
+        "Resistant to tea pests",
+        "Promotes lush foliage"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST012",
+    "name": "PotatoArmor",
+    "description": "A reliable pesticide for potato farms, ensuring protection against common pests in Indian potato fields.",
+    "type": "Pesticide",
+    "price": 319.99,
+    "originalPrice": 469.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2020/10/HP/LS/JV/15686660/new-image.jpeg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWplggbkHeGa2RkI9GmBJRLLKaWbSD9Lzvn1HtRZKioERC_um_fzKIcx4emb7f9GTSRBc&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Potato Farms"
+    ],
+    "brand": "SpudDefender",
+    "weight": 5,
+    "features": [
+        "Tailored for potato crops",
+        "Resistant to tuber diseases",
+        "Enhances potato quality",
+        "Promotes high yields"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST013",
+    "name": "CottonGuard Pro",
+    "description": "An advanced pesticide solution for cotton fields, ensuring protection and improved fiber quality in Indian cotton plantations.",
+    "type": "Pesticide",
+    "price": 399.99,
+    "originalPrice": 549.99,
+    "rating": 4.7,
+    "remainingQuantity": 210,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZzqgVr4qaFxUW0db3gisVIA_k9smGgKgvA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGLFNnCvvobhRs3v8_WlkzOPaDEgyHWgiHhZXmMQjFyYif-zzgGH8Joox-smVKvvGoSw&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Cotton Fields"
+    ],
+    "brand": "FiberShield",
+    "weight": 5,
+    "features": [
+        "Optimized for cotton plants",
+        "Minimizes pest impact on fibers",
+        "Enhances cotton yield",
+        "Residue-free"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST014",
+    "name": "MangoShield",
+    "description": "A specialized pesticide for mango orchards, ensuring protection against pests and promoting healthy fruit growth in Indian mango farms.",
+    "type": "Pesticide",
+    "price": 359.99,
+    "originalPrice": 499.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1I_CQ2E3lKVbcaP3QLbeKuEJmHQMkttSLs6ibLtiwK2TYG6uTWL75uDbxYwNoP5kLUxs&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkDzQFaeffoGLlYCOY2-6svnKzwSiACqYBgDLYub3KV3CUKyMG9JQj5G8afgqgLPMD_U&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Fruit Orchards"
+    ],
+    "brand": "FruitDefender",
+    "weight": 5,
+    "features": [
+        "Tailored for mango trees",
+        "Minimizes fruit blemishes",
+        "Enhances mango flavor",
+        "Promotes high yield"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST015",
+    "name": "WheatGuard Plus",
+    "description": "An advanced pesticide formulation for wheat fields, ensuring protection and improved grain quality in Indian wheat farms.",
+    "type": "Pesticide",
+    "price": 419.99,
+    "originalPrice": 549.99,
+    "rating": 4.8,
+    "remainingQuantity": 220,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzpZA5-HMUBWhc4mz1xNkrppdH4qziTKbFUw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXksPBnwFutnOwTCeAa9Gc-l1sHIqYOvqjpHHroktSDvgTxBbDEZIT7Ls-QaD4veFfchk&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Wheat Fields"
+    ],
+    "brand": "GrainShield",
+    "weight": 5,
+    "features": [
+        "Optimized for wheat crops",
+        "Minimizes grain pests",
+        "Enhances wheat quality",
+        "Residue-free"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST016",
+    "name": "OnionGuard",
+    "description": "A specialized pesticide for onion fields, ensuring protection against pests and promoting healthy bulb growth in Indian onion farms.",
+    "type": "Pesticide",
+    "price": 329.99,
+    "originalPrice": 469.99,
+    "rating": 4.7,
+    "remainingQuantity": 200,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/12/366593600/DQ/QQ/FS/60568642/500gm-life-m-4-agricultural-pesticides-500x500.jpeg",
+        "https://5.imimg.com/data5/SELLER/Default/2022/8/WV/SD/VJ/39829521/n-guard-organic-pesticide-500x500.jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Onion Farms"
+    ],
+    "brand": "BulbDefender",
+    "weight": 5,
+    "features": [
+        "Tailored for onion crops",
+        "Minimizes bulb pests",
+        "Enhances onion quality",
+        "Promotes high yield"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST017",
+    "name": "PulsesShield",
+    "description": "A comprehensive pesticide solution for pulses cultivation, ensuring protection against pests and promoting healthy growth in Indian pulse farms.",
+    "type": "Pesticide",
+    "price": 389.99,
+    "originalPrice": 529.99,
+    "rating": 4.8,
+    "remainingQuantity": 210,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/ANDROID/Default/2023/9/343068010/PU/JU/JT/51404726/prod-20230912-1105297022907555358335796-jpg-500x500.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5R4P22erEzIfvGuQlAzFw5MTG1PDqq9pHVKFEb6qTx3pyEQvEeykPH8Q8_3-W1nKflAw&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Pulses Cultivation"
+    ],
+    "brand": "PulseGuard",
+    "weight": 5,
+    "features": [
+        "Optimized for pulse crops",
+        "Minimizes pod pests",
+        "Enhances pulse quality",
+        "Promotes high yield"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST018",
+    "name": "GingerGuard",
+    "description": "A targeted pesticide solution for ginger cultivation, addressing common pests in Indian ginger farms.",
+    "type": "Pesticide",
+    "price": 349.99,
+    "originalPrice": 499.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/8/CL/PZ/BO/8294580/canary-ace-insecticide-500x500.jpg",
+        "https://5.imimg.com/data5/US/OZ/YN/GLADMIN-2629372/acephate-75-sp-500x500.jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Spices"
+    ],
+    "brand": "GingerDefender",
+    "weight": 5,
+    "features": [
+        "Tailored for ginger plants",
+        "Targets ginger-specific pests",
+        "Enhances spice potency",
+        "Residue-free"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST019",
+    "name": "PomegranateShield",
+    "description": "An advanced pesticide formulation for pomegranate orchards, ensuring protection and enhanced fruit quality in Indian pomegranate farms.",
+    "type": "Pesticide",
+    "price": 409.99,
+    "originalPrice": 549.99,
+    "rating": 4.7,
+    "remainingQuantity": 200,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/7/329702997/EW/KN/NV/53010535/pesticides-chemical-500x500.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2rQ30etP7Qw9Az8S4mUEWXBKvbKe77BPP36SRr9LLdXWKkxAcQ4imsD2UPeXjjq-dJU&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Fruit Orchards"
+    ],
+    "brand": "PomeGuardian",
+    "weight": 5,
+    "features": [
+        "Optimized for pomegranate trees",
+        "Minimizes fruit pests",
+        "Enhances pomegranate quality",
+        "Residue-free"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST020",
+    "name": "CarrotDefender",
+    "description": "A specialized pesticide for carrot fields, ensuring protection against pests and promoting healthy root growth in Indian carrot farms.",
+    "type": "Pesticide",
+    "price": 329.99,
+    "originalPrice": 469.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDLc7wGnFRuyWnm7R8Wq4Ja8L0HakC9BK8JKBcjhfXirLwi7kz7NeXc2C4wI8axUjQlE&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKVDd5k0QeqnS42NIE1LCn8bKSiRkyhpupVyHKm2WPCJAA6kPhqC1lsEWiFcO5fGBn8k&usqp=CAU"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Carrot Farms"
+    ],
+    "brand": "RootGuard",
+    "weight": 5,
+    "features": [
+        "Tailored for carrot crops",
+        "Minimizes root pests",
+        "Enhances carrot quality",
+        "Promotes high yield"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST021",
+    "name": "BananaGuard Plus",
+    "description": "An advanced pesticide formulation for banana plantations, ensuring protection and improved fruit quality in Indian banana farms.",
+    "type": "Pesticide",
+    "price": 389.99,
+    "originalPrice": 529.99,
+    "rating": 4.8,
+    "remainingQuantity": 210,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/RE/TK/MY-4391903/plant-pest-control-pesticide-500x500.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/4/298558018/QU/QR/YG/5760159/100g-tata-metri-metribuzin-500x500.jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Fruit Orchards"
+    ],
+    "brand": "BananaShield",
+    "weight": 5,
+    "features": [
+        "Optimized for banana trees",
+        "Minimizes fruit pests",
+        "Enhances banana quality",
+        "Residue-free"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST022",
+    "name": "SpinachGuard",
+    "description": "A comprehensive pesticide solution for spinach cultivation, ensuring protection against pests and promoting healthy leaf growth in Indian spinach farms.",
+    "type": "Pesticide",
+    "price": 349.99,
+    "originalPrice": 499.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/2/FK/BH/AI/121711337/new-product-500x500.jpeg",
+        "https://5.imimg.com/data5/SELLER/Default/2021/11/HK/DF/QI/66650699/safha-500x500.jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Leafy Greens"
+    ],
+    "brand": "LeafDefender",
+    "weight": 5,
+    "features": [
+        "Tailored for spinach crops",
+        "Minimizes leaf pests",
+        "Enhances spinach quality",
+        "Promotes high yield"
+    ]
+}
+  
+  {
+    "productId": "PROD-PST023",
+    "name": "GuavaShield",
+    "description": "An advanced pesticide formulation for guava orchards, ensuring protection and enhanced fruit quality in Indian guava farms.",
+    "type": "Pesticide",
+    "price": 409.99,
+    "originalPrice": 549.99,
+    "rating": 4.7,
+    "remainingQuantity": 200,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsQlJ5L-QmwKe1IbZIFrFk4-A33RJKxWsOfAq0WQQKDfcnAQFO4VTk6uFjP4145757_E&usqp=CAU",
+        "https://m.media-amazon.com/images/I/61f5XMwXgJL._AC_UF350,350_QL80_.jpg"
+    ],
+    "categories": [
+        "Pesticide",
+        "Indian POV",
+        "Fruit Orchards"
+    ],
+    "brand": "GuavaGuardian",
+    "weight": 5,
+    "features": [
+        "Optimized for guava trees",
+        "Minimizes fruit pests",
+        "Enhances guava quality",
+        "Residue-free"
+    ]
+}
