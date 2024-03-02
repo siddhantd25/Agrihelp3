@@ -1,0 +1,764 @@
+```json
+{
+  "productId": "PROD-EQP001",
+  "name": "हार्वेस्टमास्टर प्रो",
+  "description": "कृषि प्रौद्योगिकी की शीर्षकशिक्षा जो आपके खेती अनुभव को उच्च करने के लिए डिज़ाइन की गई है।",
+  "type": "उपकरण",
+  "price": 1499.99,
+  "originalPrice": 2199.99,
+  "rating": 4.5,
+  "remainingQuantity": 200,
+  "totalSold": 150,
+  "inStock": true,
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-Dd5RZUHCBlxogWbFxaNwj6nrkbwpNpUxNa1SPba5w&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0Z4283sJb40xlIPvwFIrJlSZrcbN_x-MDkxRbvivuw&s"
+  ],
+  "categories": [
+    "उपकरण",
+    "कार्बनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "ग्रीन हार्वेस्ट",
+  "weight": 5,
+  "features": [
+    "100% कार्बनिक",
+    "भूमि पौधपोषण को बढ़ावा देता है",
+    "भारतीय फसलों के लिए विशेषज्ञ",
+    "धीमे रिलीज न्यूट्रिएंट्स"
+  ]
+}
+
+{
+  "productId": "PROD-EQP002",
+  "name": "एग्रीटेक गुरु",
+  "description": "भारतीय कृषि में शीर्ष यील्ड के लिए क्रांतिकारी कृषि उपकरण।",
+  "type": "उपकरण",
+  "price": 1699.99,
+  "originalPrice": 2399.99,
+  "rating": 4.8,
+  "remainingQuantity": 180,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://www.shutterstock.com/image-photo/image-agricultural-equipment-under-white-260nw-121259854.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqYHEbK-OoDxPVbbcXKBPuhgZS_WDkWgQ_THufjj3AjVWHJTfARAny_AML6kGcMYrcBbU&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "कार्बनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रीइनोवेट",
+  "weight": 6,
+  "features": [
+    "भारतीय मिट्टी के लिए अनुकूलित",
+    "जल-कुशल डिज़ाइन",
+    "एकीकृत कीटनियंत्रण",
+    "स्मार्ट सिंचाई"
+  ]
+}
+
+{
+  "productId": "PROD-EQP003",
+  "name": "क्रॉपमास्टर प्रो इंडिया",
+  "description": "निर्देशित उपकरण प्रेसिजन फार्मिंग और बढ़ी हुई क्रॉप पैदावार के लिए।",
+  "type": "उपकरण",
+  "price": 1799.99,
+  "originalPrice": 2499.99,
+  "rating": 4.6,
+  "remainingQuantity": 190,
+  "totalSold": 130,
+  "inStock": true,
+  "images": [
+    "https://media.istockphoto.com/id/543212762/photo/tractor-cultivating-field-at-spring.jpg?s=612x612&w=0&k=20&c=uJDy7MECNZeHDKfUrLNeQuT7A1IqQe89lmLREhjIJYU=",
+    "https://c1.wallpaperflare.com/preview/536/609/297/threshing-machine-agriculture-machine-farming-harvesting-equipment.jpg"
+  ],
+  "categories": [
+    "उपकरण",
+    "कार्बनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रोटेक इंडिया",
+  "weight": 5.5,
+  "features": [
+    "उन्नत क्रॉप मॉनिटरिंग",
+    "
+
+क्षेत्रीय किसानों के लिए अनुकूल",
+    "उर्वरक अनुकूलन",
+    "मौसम-संवेदनशील प्रौद्योगिकी"
+  ]
+}
+
+{
+  "productId": "PROD-EQP004",
+  "name": "सॉइलसेवर 2000",
+  "description": "भारत की विविध मिट्टियों के लिए बनाया गया कटिंग-एज सॉइल इनर्चमेंट टूल।",
+  "type": "उपकरण",
+  "price": 1599.99,
+  "originalPrice": 2299.99,
+  "rating": 4.7,
+  "remainingQuantity": 170,
+  "totalSold": 140,
+  "inStock": true,
+  "images": [
+    "https://images.unsplash.com/photo-1594691592772-4427be1ea26c?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmFybSUyMG1hY2hpbmVyeXxlbnwwfHwwfHx8MA%3D%3D",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMUIifQO4ITe7bZ6vCzTMw_59ik_NG-n3LZhmQeNtTaGp1Xi9iR2GcSPbM7xVs2vMx5o&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "कार्बनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "इकोहार्वेस्ट",
+  "weight": 5.2,
+  "features": [
+    "भारतीय फसलों के लिए कस्टमाइज़ किया गया है",
+    "माइक्रोबियल सॉइल सक्रियण",
+    "पोषण समृद्ध कम्पोस्टिंग",
+    "जलवायु-अनुकूल प्रौद्योगिकी"
+  ]
+}
+
+{
+  "productId": "PROD-EQP005",
+  "name": "स्मार्टसीड प्रो",
+  "description": "भारतीय कृषि में आपत्तिजनक बीज वितरण प्रणाली के लिए बुद्धिमान।",
+  "type": "उपकरण",
+  "price": 1899.99,
+  "originalPrice": 2599.99,
+  "rating": 4.9,
+  "remainingQuantity": 160,
+  "totalSold": 160,
+  "inStock": true,
+  "images": [
+    "https://www.shutterstock.com/image-photo/tractor-working-on-farm-modern-260nw-1012517059.jpg",
+    "https://www.shutterstock.com/image-photo/farmer-tractor-preparing-land-cultivator-260nw-551284585.jpg"
+  ],
+  "categories": [
+    "उपकरण",
+    "कार्बनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "सीडजीनियस",
+  "weight": 4.8,
+  "features": [
+    "प्रेसिजन बीज स्थानांतरण",
+    "भारतीय जलवायु के लिए अनुकूल",
+    "स्मार्ट सिंचाई एकीकरण",
+    "रियल-टाइम मॉनिटरिंग"
+  ]
+}
+
+```json
+{
+  "productId": "PROD-EQP006",
+  "name": "हार्वेस्टटेक 5000",
+  "description": "भारतीय कृषि स्थितियों के लिए अनुकूलित नवीनतम काटने के उपकरण।",
+  "type": "उपकरण",
+  "price": 2099.99,
+  "originalPrice": 2799.99,
+  "rating": 4.6,
+  "remainingQuantity": 180,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5l4Woc_YhMlQNEpbsbEzqRf1LiUBY03Yw_g&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHek1abNuyuXNg61BLzKNJaroYxfpMN3gEmaDL8iF8TtO7JstDGUeoVZlIsbEnXKmNKgU&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "कार्बनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रीहार्वेस्ट प्रो",
+  "weight": 6.5,
+  "features": [
+    "कुशल क्रॉप काटा जाता है",
+    "भारतीय किस्मों के लिए अनुकूलित",
+    "ऊर्जा बचाओ तकनीक",
+    "रियल-टाइम यील्ड अनुमान"
+  ]
+}
+
+{
+  "productId": "PROD-EQP007",
+  "name": "आक्वाग्रो मास्टर",
+  "description": "भारतीय खेतों के लिए डिज़ाइन किया गया नवीनतम जल प्रबंधन सिस्टम।",
+  "type": "उपकरण",
+  "price": 1799.99,
+  "originalPrice": 2499.99,
+  "rating": 4.8,
+  "remainingQuantity": 190,
+  "totalSold": 130,
+  "inStock": true,
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHRyN8BlsyMU8XHg7gwbnRRkNIHApCA-tzA&usqp=CAU",
+    "https://w7.pngwing.com/pngs/719/268/png-transparent-cultivator-agriculture-agricultural-machinery-farm-tractor-agricultural-machine-orange-transport-farm-thumbnail.png"
+  ],
+  "categories": [
+    "उपकरण",
+    "कार्बनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "आक्वाटेक इंडिया",
+  "weight": 5.8,
+  "features": [
+    "स्मार्ट सिंचाई नियंत्रण",
+    "वर्षावन्य संग्रहण",
+    "सुखा सहिष्णु डिज़ाइन",
+    "जल उपयोग विश्लेषण"
+  ]
+}
+
+{
+  "productId": "PROD-EQP008",
+  "name": "फार्मगार्ड प्रो",
+  "description": "भारतीय कृषि दृष्टिकोण के लिए विकसित एडवांस्ड फार्म सुरक्षा सिस्टम।",
+  "type": "उपकरण",
+  "price": 1499.99,
+  "originalPrice": 2199.99,
+  "rating": 4.7,
+  "remainingQuantity": 200,
+  "totalSold": 150,
+  "inStock": true,
+  "images": [
+    "https://c1.wallpaperflare.com/preview/536/609/297/threshing-machine-agriculture-machine-farming-harvesting-equipment.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBGX54LsdfsAeTTjnVXgmZeDp6L27oCAY_SG1-BdRzFiGbyPdvGjnjulTJtBi9j245nk&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "सुरक्षा",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "सुरक्षितफार्म टेक",
+  "weight": 5.2,
+  "features": [
+    "निगरानी और अतिक्रमण का पता लगाना",
+    "मोबाइल ऐप एकीकरण",
+    "रात्रि दृष्टि क्षमताएँ",
+    "रियल-टाइम चेतावनियाँ"
+  ]
+}
+
+{
+  "productId": "PROD-EQP009",
+  "name": "एग्रोनेट कनेक्ट",
+  "description": "सहयोगी सफलता के लिए भारतीय किस
+
+ानों को जोड़ने वाला स्मार्ट खेती नेटवर्क सिस्टम।",
+  "type": "उपकरण",
+  "price": 1999.99,
+  "originalPrice": 2699.99,
+  "rating": 4.9,
+  "remainingQuantity": 170,
+  "totalSold": 130,
+  "inStock": true,
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXQaeeFLJKT9cY2oIs190OQ9ZvGTPSgei6w&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtBG7e3Du1u67VL8RHyiKWCLiZt1dO5Js3w71vVxT2YcTy-orEPhw4roh8GT-RWFsy58&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "तकनीक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रोकनेक्ट इंडिया",
+  "weight": 4.5,
+  "features": [
+    "किसानों का समुदाय प्लेटफ़ॉर्म",
+    "मार्केटप्लेस एकीकरण",
+    "मौसम अपडेट्स",
+    "क्रॉप एक्सचेंज नेटवर्क"
+  ]
+}
+
+{
+  "productId": "PROD-EQP010",
+  "name": "सोलरएग्रो पावरहब",
+  "description": "भारतीय खेतों के लिए सोलर-चालित कृषि उपकरण चार्जिंग स्टेशन।",
+  "type": "उपकरण",
+  "price": 2299.99,
+  "originalPrice": 2999.99,
+  "rating": 4.5,
+  "remainingQuantity": 160,
+  "totalSold": 140,
+  "inStock": true,
+  "images": [
+    "https://i0.wp.com/www.ecoideaz.com/wp-content/uploads/2015/05/Solar-Water-Pumping-System.jpg?resize=696%2C451&ssl=1",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ice6V6I7wrl1y-YdYo8w2BZhk_NskUm6WyxfZKbZtkGYxeWZ9DlUhFEhC5CSsMjCWa0&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "सोलर",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "इकोपावर इंडिया",
+  "weight": 7.0,
+  "features": [
+    "नवीन ऊर्जा स्रोत",
+    "ऑफ-ग्रिड चार्जिंग",
+    "शक्तिशाली बैटरी स्टोरेज",
+    "बहुप्रकारिता उपकरणों का समर्थन"
+  ]
+}
+
+```json
+{
+  "productId": "PROD-EQP011",
+  "name": "बायोफर्ट इंजेक्टर",
+  "description": "भारतीय कार्बनिक खेती के लिए स्वचालित उर्वरक इंजेक्शन सिस्टम।",
+  "type": "उपकरण",
+  "price": 1899.99,
+  "originalPrice": 2599.99,
+  "rating": 4.8,
+  "remainingQuantity": 180,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://image.made-in-china.com/202f0j00KdShVbeRkcoz/Farm-Irrigation-Fertigation-Tools-Equipment-Agriculture-Drip-Irrigation-1-1-2-Inch-Venturi-Fertilizer-Injector.jpg",
+    "https://image.made-in-china.com/202f0j00KwjliSvhQqkr/Farm-Irrigation-Fertigation-Tools-Equipment-Agriculture-Drip-Irrigation-1-1-2-Inch-Venturi-Fertilizer-Injector.webp"
+  ],
+  "categories": [
+    "उपकरण",
+    "कार्बनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "ग्रीनफर्ट इंडिया",
+  "weight": 6.2,
+  "features": [
+    "सटीक पोषण इंजेक्शन",
+    "कार्बनिक उर्वरक संगतता",
+    "उपयोगकर्ता की सुविधा इंटरफ़ेस",
+    "कम मैनुअल श्रम"
+  ]
+}
+
+{
+  "productId": "PROD-EQP012",
+  "name": "क्लाइमेटगार्ड प्रो",
+  "description": "भारतीय हरित ग्रीनहाउस कृषि के लिए एकीकृत जलवायु नियंत्रण सिस्टम।",
+  "type": "उपकरण",
+  "price": 1999.99,
+  "originalPrice": 2699.99,
+  "rating": 4.7,
+  "remainingQuantity": 190,
+  "totalSold": 130,
+  "inStock": true,
+  "images": [
+    "https://images.unsplash.com/photo-1614977645968-6db1d7798ac7?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFybSUyMG1hY2hpbmVyeXxlbnwwfHwwfHx8MA%3D%3D",
+    "https://c1.wallpaperflare.com/preview/778/189/239/farmer-tractor-agriculture-farm.jpg"
+  ],
+  "categories": [
+    "उपकरण",
+    "ग्रीनहाउस",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रोक्लाइमेट टेक",
+  "weight": 5.5,
+  "features": [
+    "तापमान और आर्द्रता नियंत्रण",
+    "भारतीय फसलों के लिए अनुकूलित",
+    "ऊर्जा कुशल डिज़ाइन",
+    "रिमोट मॉनिटरिंग"
+  ]
+}
+
+{
+  "productId": "PROD-EQP013",
+  "name": "एग्रोड्रोन एक्सप्लोरर",
+  "description": "भारतीय किसानों के लिए प्रेसिजन एग्रीकल्चर ड्रोन, फसल मॉनिटरिंग में सहायक।",
+  "type": "उपकरण",
+  "price": 1799.99,
+  "originalPrice": 2499.99,
+  "rating": 4.9,
+  "remainingQuantity": 170,
+  "totalSold": 150,
+  "inStock": true,
+  "images": [
+   
+
+ "https://www.shutterstock.com/image-photo/modern-technologies-agriculture-industrial-drone-600nw-2203584883.jpg",
+    "https://img.freepik.com/premium-photo/agrodrone-field-with-rows-winter-wheat-sprouts-concept-modern-agriculture_234715-526.jpg?w=2000"
+  ],
+  "categories": [
+    "उपकरण",
+    "तकनीक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "स्काईहार्वेस्ट इंडिया",
+  "weight": 2.8,
+  "features": [
+    "वायुमंडलीय फसल निगरानी",
+    "उच्च-संकल्प छवियाँ",
+    "जीपीएस-मार्गदर्शित नेविगेशन",
+    "रियल-टाइम डेटा प्रसारण"
+  ]
+}
+
+{
+  "productId": "PROD-EQP014",
+  "name": "सस्टेनेबलप्लो मास्टर",
+  "description": "भारतीय कृषि के लिए पर्यावरण-सहायक प्लाउ सिस्टम।",
+  "type": "उपकरण",
+  "price": 1699.99,
+  "originalPrice": 2399.99,
+  "rating": 4.6,
+  "remainingQuantity": 180,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://www.shutterstock.com/shutterstock/photos/318222350/display_1500/stock-photo-farm-plow-equipment-farming-old-mechanical-tractor-vintage-earth-plow-equipment-tools-318222350.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAlHRgpFSjLMtR7wENez49MipPy-yYQjMLGrPB5gYuDJNkICfeTZ0pdWHlVh5O4irBrN0&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "सस्टेनेबल",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "इकोप्लो इंडिया",
+  "weight": 6.0,
+  "features": [
+    "कम कार्बन फुटप्रिंट",
+    "कुशल मृदा संरक्षण",
+    "भारतीय भू-रूपों के लिए अनुकूलित",
+    "कम मिट्टी की इरोजन"
+  ]
+}
+
+{
+  "productId": "PROD-EQP015",
+  "name": "स्मार्टहार्वेस्ट थ्राइव",
+  "description": "आर्टिफिशियल इंटेलिजेंस से संचालित हार्वेस्टिंग उपकरण जो भारतीय कृषि में कुशलता को बढ़ावा देता है।",
+  "type": "उपकरण",
+  "price": 2099.99,
+  "originalPrice": 2799.99,
+  "rating": 4.8,
+  "remainingQuantity": 160,
+  "totalSold": 140,
+  "inStock": true,
+  "images": [
+    "https://assets.syngentaebiz.com/images/media/article-automated-farm-equipment-01.jpg",
+    "https://dmcwearparts.com/wp-content/uploads/2022/01/ag-equipment-types-harvester-tractor.jpg"
+  ],
+  "categories": [
+    "उपकरण",
+    "तकनीक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रोएआई टेक",
+  "weight": 5.3,
+  "features": [
+    "कृत्रिम बुद्धिमत्ता एल्गोरिदम",
+    "कुशल फसल क्रमबद्ध",
+    "रियल-टाइम यील्ड पूर्वानुमान",
+    "डेटा-निर्धारित अनुसंधान"
+  ]
+}
+
+```json
+{
+  "productId": "PROD-EQP016",
+  "name": "बायोपेस्ट शील्ड",
+  "description": "भारतीय फसल सुरक्षा के लिए डिज़ाइन किया गया आर्गेनिक कीटनाशक प्रणाली।",
+  "type": "उपकरण",
+  "price": 1899.99,
+  "originalPrice": 2599.99,
+  "rating": 4.9,
+  "remainingQuantity": 170,
+  "totalSold": 130,
+  "inStock": true,
+  "images": [
+    "https://bettercotton.org/wp-content/uploads/2021/09/2U8A1421.jpg",
+    "https://sourcingjournal.com/wp-content/uploads/2017/10/Shutterstock-Section-3-Farmer-spraying-pesticides-on-cotton-in-Greece-e1507735369863.jpg"
+  ],
+  "categories": [
+    "उपकरण",
+    "आर्गेनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "इकोपेस्ट इंडिया",
+  "weight": 4.7,
+  "features": [
+    "जैविक कीटनाशक नियंत्रण",
+    "लाभकारी कीटों के लिए सुरक्षित",
+    "भारतीय कीटों के लिए तैयार किया गया",
+    "कोई हानिकारक रसायन नहीं"
+  ]
+}
+
+{
+  "productId": "PROD-EQP017",
+  "name": "एग्रोवेदर स्टेशन",
+  "description": "भारतीय कृषि योजना के लिए व्यापक मौसम मॉनिटरिंग स्टेशन।",
+  "type": "उपकरण",
+  "price": 1999.99,
+  "originalPrice": 2699.99,
+  "rating": 4.8,
+  "remainingQuantity": 190,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrRo-jYLfEHZAUVIx79Huu6oA2POe6zOrLqTYBSzEJfzW8aK1D9dL4wYiA4JCE5o6TjPY&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTto07BCsOkwBa9iSng6eqUIPY4G9eS2eQTAMKdOsJXPB5D-Ia91KEABYAfrCFLjjvQ7rQ&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "तकनीक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "वेदरएग्रो टेक",
+  "weight": 5.0,
+  "features": [
+    "रियल-टाइम मौसम डेटा",
+    "स्थानीय पूर्वानुमान",
+    "भारतीय जलवायु के लिए अनुकूलित",
+    "सूखा पूर्वानुमान"
+  ]
+}
+
+{
+  "productId": "PROD-EQP018",
+  "name": "फार्मईज सीडर",
+  "description": "विविध भारतीय फसलों के लिए कुशल बीज रोपण सिस्टम।",
+  "type": "उपकरण",
+  "price": 1799.99,
+  "originalPrice": 2499.99,
+  "rating": 4.7,
+  "remainingQuantity": 180,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://www.farming-machine.com/wp-content/uploads/2020/04/seed-drill-planter.jpg",
+    "https://www.farming-machine.com/wp-content/uploads/2020/04/Seed-Drill-for-CornSoybeanPeanut.jpg"
+  ],
+  "categories": [
+    "उपकरण",
+    "तकनीक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "सीडीज इंडिया",
+  "weight": 5.4,
+  "features": [
+    "निर्दिष्ट बीज स्थानांतरण",
+    "भारतीय म
+
+िट्टी के लिए अनुकूलित",
+    "स्मार्ट इरिगेशन इंटीग्रेशन",
+    "रियल-टाइम मॉनिटरिंग"
+  ]
+}
+
+{
+  "productId": "PROD-EQP019",
+  "name": "ग्रीनटेक कल्टिवेटर",
+  "description": "भारतीय खेतों में दायरिक और कुशल खेती के लिए इलेक्ट्रिक कल्टिवेटर।",
+  "type": "उपकरण",
+  "price": 2099.99,
+  "originalPrice": 2799.99,
+  "rating": 4.8,
+  "remainingQuantity": 160,
+  "totalSold": 140,
+  "inStock": true,
+  "images": [
+    "https://5.imimg.com/data5/JV/QH/AC/SELLER-10942023/agricultural-cultivator-500x500.jpg",
+    "https://5.imimg.com/data5/WB/NM/MY-2497808/cultivator-500x500.jpg"
+  ],
+  "categories": [
+    "उपकरण",
+    "सस्तेनेबल",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "इकोकल्टिवेट इंडिया",
+  "weight": 6.0,
+  "features": [
+    "इलेक्ट्रिक-संचालित कुशलता",
+    "मिट्टी के लिए दोस्ताना खेती",
+    "भारतीय फसलों के लिए अनुकूलित",
+    "कम कार्बन अपशिष्ट"
+  ]
+}
+
+{
+  "productId": "PROD-EQP020",
+  "name": "एग्रोमॉनिटर प्लस",
+  "description": "भारतीय किसानों के लिए व्यापक फसल मॉनिटरिंग सिस्टम, योग्य उत्पादन सुनिश्चित करना।",
+  "type": "उपकरण",
+  "price": 1999.99,
+  "originalPrice": 2699.99,
+  "rating": 4.9,
+  "remainingQuantity": 170,
+  "totalSold": 130,
+  "inStock": true,
+  "images": [
+    "https://img.freepik.com/premium-vector/smart-farming-management-digital-control-agriculture-weather-monitoring-from-internet-tablet-computer-drone-iot-technology-farming-equipments-garish-vector-illustration_81894-10930.jpg?w=2000",
+    "https://www.shutterstock.com/image-vector/smart-farming-agriculture-technology-vartoon-260nw-2014496141.jpg"
+  ],
+  "categories": [
+    "उपकरण",
+    "तकनीक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रोटेक प्लस",
+  "weight": 4.9,
+  "features": [
+    "रियल-टाइम क्रॉप हेल्थ विश्लेषण",
+    "भारतीय फसल विविधताओं के लिए अनुकूलित",
+    "स्मार्ट इरिगेशन इंटीग्रेशन",
+    "मौसम-संवेदनशील तकनीक"
+  ]
+}
+
+```json
+{
+  "productId": "PROD-EQP021",
+  "name": "हार्वेस्टगार्ड इंडिया",
+  "description": "भारतीय कृषि कुशलता के लिए एकीकृत काटने और सॉर्टिंग सिस्टम।",
+  "type": "उपकरण",
+  "price": 2199.99,
+  "originalPrice": 2899.99,
+  "rating": 4.7,
+  "remainingQuantity": 180,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://www.farming-machine.com/wp-content/uploads/2020/04/Agricultural-Combine-Soybean-Harvester.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi7SUp9C4O5Xz0b77v84g3r5whgOgeyM5IdruX7imLUi2OGpUfETYwSLRNaRA4oy_tDXo&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "तकनीक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "हार्वेस्टटेक इंडिया",
+  "weight": 6.2,
+  "features": [
+    "कुशल फसल काटने और सॉर्टिंग",
+    "भारतीय फसल विविधताओं के लिए अनुकूलित",
+    "ऊर्जा बचाने की तकनीक",
+    "रियल-टाइम यील्ड अनुमान"
+  ]
+}
+
+{
+  "productId": "PROD-EQP022",
+  "name": "सोलरइरिगेट प्रो",
+  "description": "सस्ते जल प्रबंधन के लिए सौर प्रचारित सिस्टम भारतीय कृषि में।",
+  "type": "उपकरण",
+  "price": 1899.99,
+  "originalPrice": 2599.99,
+  "rating": 4.8,
+  "remainingQuantity": 190,
+  "totalSold": 130,
+  "inStock": true,
+  "images": [
+    "https://solarpumps.com/assets/content/article-images/_headerImage/irrigation_pivot.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsc20DNEj3oC7l79UGDxklt3y11LK_8hqqrKIGtTWEMy8XgkjeTWCbROtWfYXtMzKEy0&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "सोलर",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "इकोइरिगेट इंडिया",
+  "weight": 5.5,
+  "features": [
+    "सौर प्रचारित पंप",
+    "जल कुशल इरिगेशन",
+    "भारतीय फसल चक्रों के लिए अनुकूलित",
+    "रिमोट मॉनिटरिंग"
+  ]
+}
+
+{
+  "productId": "PROD-EQP023",
+  "name": "एग्रोड्रोन स्काउट",
+  "description": "भारतीय खेतों के निरीक्षण के लिए ड्रोन स्काउटिंग सिस्टम।",
+  "type": "उपकरण",
+  "price": 2099.99,
+  "originalPrice": 2799.99,
+  "rating": 4.9,
+  "remainingQuantity": 170,
+  "totalSold": 150,
+  "inStock": true,
+  "images": [
+    "https://www.livemint.com/lm-img/img/2023/05/01/1600x900/agri_1682969270140_1682969285317.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVVoYT8hXLs71BYPTqk0oidOWH2VQFBBV0wlqp07utfVpOmvVrJsXRH-takcYLgRxv34&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "तकनीक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "स्काइस्काउट इंडिया",
+  "weight": 3.0,
+  "features": [
+    "पीड़क और बीमारियों के लिए एरियल स्काउटिंग",
+    "उच्च रेजोल्यूशन छवियों",
+    "GPS मार्गदर्शन",
+    "रियल-टाइम डेटा प्रसारण"
+  ]
+}
+
+{
+  "productId": "PROD-EQP024",
+  "name": "
+
+एग्रोथर्म क्लाइमेटकंट्रोल",
+  "description": "भारतीय हारियाली में आदर्श स्थितियों की सहज क्लाइमेट कंट्रोल सिस्टम।",
+  "type": "उपकरण",
+  "price": 1999.99,
+  "originalPrice": 2699.99,
+  "rating": 4.7,
+  "remainingQuantity": 180,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://agriculturepost.com/wp-content/uploads/2021/12/Agrochemical-Industry-Outlook-2022.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrByvY12UB-y4ZPRMuY600yTXUoQkVbb4Gd7aUqyRdWegiLCS_8o2SRG33lJb_95Xm_U&usqp=CAU"
+  ],
+  "categories": [
+    "उपकरण",
+    "हारियाली",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रोथर्म इंडिया",
+  "weight": 5.8,
+  "features": [
+    "स्वच्छता और आर्द्रता का स्वच्छता",
+    "भारतीय फसल विविधताओं के लिए अनुकूलित",
+    "ऊर्जा कुशल डिज़ाइन",
+    "रियल-टाइम मॉनिटरिंग"
+  ]
+}
+
+{
+  "productId": "PROD-EQP025",
+  "name": "इकोसीड प्लांटर",
+  "description": "सस्ती भारतीय कृषि के लिए पर्यावरण की मित्र स्थापित करने वाला बीज पूर्ति सिस्टम।",
+  "type": "उपकरण",
+  "price": 2199.99,
+  "originalPrice": 2899.99,
+  "rating": 4.8,
+  "remainingQuantity": 160,
+  "totalSold": 140,
+  "inStock": true,
+  "images": [
+    "https://i.pinimg.com/736x/2b/d2/36/2bd2362ce0e41531660768ced97f5c6f.jpg",
+    "https://e1.pxfuel.com/desktop-wallpaper/431/176/desktop-wallpaper-planting-equipment-farming-planters.jpg"
+  ],
+  "categories": [
+    "उपकरण",
+    "सस्तेनेबल",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "ग्रीनप्लांट इंडिया",
+  "weight": 5.2,
+  "features": [
+    "बायोडिग्रेडेबल बीज कैप्सूल",
+    "भारतीय मिट्टी के लिए अनुकूलित",
+    "स्मार्ट इरिगेशन इंटीग्रेशन",
+    "पर्यावरणीय प्रभाव को कम करें"
+  ]
+}
