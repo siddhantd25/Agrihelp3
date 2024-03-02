@@ -1,0 +1,752 @@
+Here is the translated JSON code in Hindi:
+
+```json
+[
+  {
+    "productId": "PROD-FERT001",
+    "name": "ऑर्गेनिक फार्म ब्लिस उर्वरक",
+    "description": "एक विशेष रूप से तैयार किया गया ऑर्गेनिक उर्वरक, जो भारतीय खेतों में स्वस्थ और प्रचुर फसल उत्पन्न करने के लिए है।",
+    "type": "उर्वरक",
+    "price": 499.99,
+    "originalPrice": 799.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/1/AZ/HH/OM/136074590/shriram-npk-19-19-19-water-soluble-fertilizer-500x500.jpg",
+      "https://t4.ftcdn.net/jpg/00/87/62/49/360_F_87624930_7n7NgLCFHff7IGr85DCgOcE2aPunov2m.jpg"
+    ],
+    "categories": [
+      "उर्वरक",
+      "ऑर्गेनिक",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "ग्रीन हार्वेस्ट",
+    "weight": 5,
+    "features": [
+      "100% ऑर्गेनिक",
+      "भूमि की पुनर्निर्माण को बढ़ावा देता है",
+      "भारतीय फसलों के लिए तैयार किया गया है",
+      "धीरे-धीरे न्यूनतम पोषण"
+    ]
+  },
+  {
+    "productId": "PROD-FERT002",
+    "name": "अग्रीगोल्ड इंडिया बूस्ट उर्वरक",
+    "description": "एक उच्च प्रदर्शन उर्वरक जो विभिन्न भारतीय फसलों की पोषणीय आवश्यकताओं को पूरा करने के लिए डिज़ाइन किया गया है, जिससे अनुकूलित विकास और उत्पन्नति सुनिश्चित हो।",
+    "type": "उर्वरक",
+    "price": 599.99,
+    "originalPrice": 899.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://farmmate.in/cdn/shop/products/hdnpk13045.png?v=1678719488",
+      "https://media.istockphoto.com/id/606230424/photo/agriculture.jpg?s=612x612&w=0&k=20&c=byKybbMGCEAgdgfgyvUXC2ttl_8nbfc7JKpKFYg6rw4="
+    ],
+    "categories": [
+      "उर्वरक",
+      "भारतीय फसलें",
+      "प्रीमियम"
+    ],
+    "brand": "अग्रीगोल्ड",
+    "weight": 5,
+    "features": [
+      "भारतीय कृषि प्रथाओं के लिए तैयार",
+      "आवश्यक पोषण से भरपूर",
+      "जड़ों के विकास को प्रोत्साहित करता है",
+      "त्वरित अवशोषण सूत्र"
+    ]
+  },
+  {
+    "productId": "PROD-FERT003",
+    "name": "एवरग्रीन एग्रीकेयर ऑर्गेनिक मिक्स",
+    "description": "एक सभी-प्राकृतिक ऑर्गेनिक उर्वरक मिश्रण, विभिन्न भारतीय जलवायु में सतत खेती के लिए उपयुक्त है।",
+    "type": "उर्वरक",
+    "price": 449.99,
+    "originalPrice": 699.99,
+    "rating": 4.2,
+    "remainingQuantity": 220,
+    "totalSold": 180,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2022/1/HD/ON/MT/145400703/urea-n46-500x500.jpg",
+      "https://t3.ftcdn.net/jpg/02/04/28/72/360_F_204287225_4Qn0264AUwyH4RllTK9urzCEOGK14DDy.jpg"
+    ],
+    "categories": [
+      "ऑर्गेनिक",
+      "सतत",
+      "भारतीय जलवायु"
+    ],
+    "brand": "एवरग्रीन ए
+
+ग्रीकेयर",
+    "weight": 5,
+    "features": [
+      "संतुलित पोषण संरचना",
+      "जल धारण में सुधार",
+      "सभी भारतीय मृदा प्रकारों के लिए उपयुक्त",
+      "पर्यावरण के लिए अनुकूल"
+    ]
+  },
+  {
+    "productId": "PROD-FERT004",
+    "name": "बायोहार्वेस्ट टर्बो ग्रोथ उर्वरक",
+    "description": "एक प्रगति-प्रोत्साहित उर्वरक जो भारतीय कृषि स्थलों में फसल विकास को तेजी से बढ़ाने के लिए तैयार किया गया है।",
+    "type": "उर्वरक",
+    "price": 529.99,
+    "originalPrice": 749.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2021/12/VA/QB/CF/75152960/npk-water-soluble-fertiliser-mixture-500x500.jpg",
+      "https://img.freepik.com/premium-photo/gardener-fertilizing-plants-with-npk-fertilizer_123211-4304.jpg"
+    ],
+    "categories": [
+      "विकास",
+      "भारतीय कृषि",
+      "प्रीमियम"
+    ],
+    "brand": "बायोहार्वेस्ट",
+    "weight": 5,
+    "features": [
+      "तेज पोषण अवशोषण",
+      "फूलने और फलने को प्रोत्साहित करता है",
+      "भारतीय मृदा शर्तों के लिए अनुकूलित",
+      "उच्च-कुशलता सूत्र"
+    ]
+  },
+  {
+    "productId": "PROD-FERT005",
+    "name": "नेचर्स बाउंटी ऑर्गेनिक ब्लेंड",
+    "description": "एक सावधानीपूर्वक तैयार किया गया ऑर्गेनिक उर्वरक मिश्रण जो भारतीय फसलों को पोषित करने के साथ-साथ भूमि स्वास्थ्य और सततता को बढ़ावा देता है।",
+    "type": "उर्वरक",
+    "price": 479.99,
+    "originalPrice": 749.99,
+    "rating": 4.4,
+    "remainingQuantity": 210,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/2/LO/RZ/XR/33812121/61ndpj1auwl-sl1200--500x500.jpg",
+      "https://images.pexels.com/photos/12626272/pexels-photo-12626272.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    ],
+    "categories": [
+      "ऑर्गेनिक",
+      "सतत",
+      "भारतीय फसलें"
+    ],
+    "brand": "नेचर्स बाउंटी",
+    "weight": 5,
+    "features": [
+      "प्राकृतिक सूक्ष्मजीवों से भरपूर",
+      "भूमि संरचना में सुधार",
+      "भारतीय फ्लोरा के लिए तैयार",
+      "धीरे-धीरे न्यूनतम पोषण"
+    ]
+  },
+  {
+    "productId": "PROD-FERT006",
+    "name": "एग्रोवेडा न्यूट्रीबूस्ट उर्वरक",
+    "description": "विभिन्न भारतीय फसलों में पोषण सूची बढ़ाने और जीवंत विकास को प्रोत्साहित करने के लिए विशेषज्ञता से तैयार किया गया एक विशेषज्ञ उर्वरक।",
+    "type": "उर्वरक",
+    "price": 549.99,
+    "originalPrice": 799.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://image.made-in-china.com/202f0j00PKGiWBcYHfoe/100-Water-Soluble-Trace-Element-Compound-Fertilizer.webp",
+      "https://t3.ftcdn.net/jpg/00/
+
+75/82/40/360_F_75824024_IMqZEfNoZoD5h9JjLM3msBB3QrH3vOE4.jpg"
+    ],
+    "categories": [
+      "भारतीय फसलें",
+      "प्रीमियम",
+      "पोषण से भरपूर"
+    ],
+    "brand": "एग्रोवेडा",
+    "weight": 5,
+    "features": [
+      "पोषण सूची को अनुकूलित करता है",
+      "जड़ों के विकास को प्रोत्साहित करता है",
+      "भारतीय कृषि जलवायु क्षेत्रों के लिए अनुकूलित",
+      "उच्च-गुणवत्ता वाले ऑर्गेनिक घटक"
+    ]
+  },
+  {
+    "productId": "PROD-FERT007",
+    "name": "ग्रीनफील्ड्स इकोब्लेंड उर्वरक",
+    "description": "एक पारिस्थितिकी-मित्री उर्वरक मिश्रण जो सतत खेती प्रथाओं का समर्थन करने और भारतीय क्षेत्रों में भूमि स्वास्थ्य को बेहतर बनाने के लिए डिज़ाइन किया गया है।",
+    "type": "उर्वरक",
+    "price": 459.99,
+    "originalPrice": 699.99,
+    "rating": 4.3,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/11/360880464/AP/CJ/YM/160984372/organic-fertilizer-500x500.jpeg",
+      "https://www.shutterstock.com/image-photo/fertilizersoilfarmer-hand-giving-chemical-fertilizer-260nw-1009018783.jpg"
+    ],
+    "categories": [
+      "सतत",
+      "भारतीय क्षेत्र",
+      "पर्यावरण के अनुकूल"
+    ],
+    "brand": "ग्रीनफील्ड्स",
+    "weight": 5,
+    "features": [
+      "जैव विविधता को बढ़ावा देता है",
+      "भूमि संरचना में सुधार",
+      "सार्वजनिक खेती के लिए उपयुक्त",
+      "कम पर्यावरण प्रभाव"
+    ]
+  },
+  {
+    "productId": "PROD-FERT008",
+    "name": "हार्वेस्टगोल्ड मेगाग्रो उर्वरक",
+    "description": "एक उच्च प्रदर्शन उर्वरक मिश्रण जो स्वस्थ विकास और यहां तक कि भारतीय कृषि में यील्ड को अधिकतम करने पर मुख्य है।",
+    "type": "उर्वरक",
+    "price": 569.99,
+    "originalPrice": 829.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+      "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/2023120914595949855953.jpeg",
+      "https://media.istockphoto.com/id/1307039908/photo/senior-woman-applying-fertilizer-plant-food-to-soil-for-vegetable-and-flower-garden.webp?b=1&s=170667a&w=0&k=20&c=bCDHz_2Ff4xn0bElRq3XvGsdNr-Ec9u9ZFHtlsFJ1Wc="
+    ],
+    "categories": [
+      "भारतीय कृषि",
+      "प्रीमियम",
+      "विकास"
+    ],
+    "brand": "हार्वेस्टगोल्ड",
+    "weight": 5,
+    "features": [
+      "पोषण उपयोग को अनुकूलित करता है",
+      "फूलने और फलने को बढ़ाता है",
+      "भारतीय मृदा शर्तों के लिए अनुकूलित",
+      "उन्नत धीरे-धीरे प्रौद्योगिकी"
+    ]
+  },
+  {
+    "productId": "PROD-FERT009",
+    "name": "ऑर्गेनिक्स इंडिया न्यूट्रीवाइटल उर्वरक",
+    "description": "एक समृद्धि उर्वरक सूत्र जो भारतीय फसलों के लिए
+
+ पूर्ण पोषण प्रदान करने के लिए डिज़ाइन किया गया है।",
+    "type": "उर्वरक",
+    "price": 499.99,
+    "originalPrice": 749.99,
+    "rating": 4.4,
+    "remainingQuantity": 210,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/12/KC/WT/324230446/inorganic-plant-growth-regulators-500x500.jpg",
+      "https://image.shutterstock.com/image-photo/man-pouring-fertilizer-onto-cabbage-260nw-1971579760.jpg"
+    ],
+    "categories": [
+      "ऑर्गेनिक",
+      "सतत",
+      "भारतीय फसलें"
+    ],
+    "brand": "ऑर्गेनिक्स इंडिया",
+    "weight": 5,
+    "features": [
+      "प्राकृतिक सामग्रियों से बना",
+      "फूलने और फलने को प्रोत्साहित करता है",
+      "सतत खेती के लिए उपयुक्त",
+      "वायुमंडलीय प्रदूषण कम करता है"
+    ]
+  },
+  {
+    "productId": "PROD-FERT010",
+    "name": "सुपरग्रो भूमि सुधारक",
+    "description": "एक पूर्ण भूमि सुधारक मिश्रण जो भारतीय खेतों की उर्वरक स्तरों को सुधारने के लिए तैयार किया गया है।",
+    "type": "भूमि सुधारक",
+    "price": 399.99,
+    "originalPrice": 599.99,
+    "rating": 4.1,
+    "remainingQuantity": 230,
+    "totalSold": 190,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2022/9/MW/AR/PR/141716827/super-gro-250x250.jpg",
+      "https://thumbs.dreamstime.com/b/planting-tree-hand-giving-fertilizer-organic-farming-sustainable-agriculture-growth-seedling-188717392.jpg"
+    ],
+    "categories": [
+      "भूमि सुधारक",
+      "भारतीय खेत",
+      "सतत"
+    ],
+    "brand": "सुपरग्रो",
+    "weight": 5,
+    "features": [
+      "उर्वरक स्तरों को सुधारने में मदद करता है",
+      "जल संरचना में सुधार",
+      "भारतीय खेतों के लिए तैयार",
+      "सतत सुधार को प्रोत्साहित करता है"
+    ]
+  }
+]
+
+[
+    {
+        "productId": "PROD-FERT011",
+        "name": "एक्वाग्रो हाइड्रोब्लेंड उर्वरक",
+        "description": "एक नवाचारी हाइड्रोपॉनिक उर्वरक समाधान जो भारतीय फसलों को कुशल विकास और उत्पादकता सुनिश्चित करने के लिए कस्टमाइज किया गया है।",
+        "type": "उर्वरक",
+        "price": 599.99,
+        "originalPrice": 899.99,
+        "rating": 4.6,
+        "remainingQuantity": 170,
+        "totalSold": 110,
+        "inStock": true,
+        "images": [
+            "https://cdn-prodapi.iffcobazar.in/pub/media/catalog/product/cache/5f3447475aa96bb6c8cc6886bb71b2b4/2/-/2-iffco-npk-front-1kg_1_1_.jpg",
+            "https://images.pexels.com/photos/12626269/pexels-photo-12626269.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        ],
+        "categories": [
+            "हाइड्रोपॉनिक्स",
+            "भारतीय फसलें",
+            "नवाचारी"
+        ],
+        "brand": "एक्वाग्रो",
+        "weight": 5,
+        "features": [
+            "हाइड्रोपॉनिक सिस्टम के लिए अनुकूलित",
+            "जड़ों के स्वास्थ्य को बढ़ावा देता है",
+            "भारतीय हाइड्रोपॉनिक्स शौकियों के लिए डिज़ाइन किया गया है",
+            "संतुलित पोषण संरचना"
+        ]
+    },
+    {
+        "productId": "PROD-FERT012",
+        "name": "ऑर्गेनिकहार्वेस्ट ब्लूम बूस्टर",
+        "description": "एक विशेषज्ञ जैविक उर्वरक जो भारतीय फसलों में फूल और फलों को बढ़ाने के लिए डिज़ाइन किया गया है, जो बहुमूल्य फसल को बढ़ावा देता है।",
+        "type": "उर्वरक",
+        "price": 479.99,
+        "originalPrice": 699.99,
+        "rating": 4.5,
+        "remainingQuantity": 190,
+        "totalSold": 150,
+        "inStock": true,
+        "images": [
+            "https://img3.exportersindia.com/product_images/bc-full/2019/7/4041788/1561957326_p_4978004_955529.jpeg",
+            "https://t3.ftcdn.net/jpg/00/93/44/72/360_F_93447226_QULpNnk1T3Pkp2d3fpoajlUWRhA1g2px.jpg"
+        ],
+        "categories": [
+            "जैविक",
+            "भारतीय फसलें",
+            "फूलबाज़ी"
+        ],
+        "brand": "ऑर्गेनिकहार्वेस्ट",
+        "weight": 5,
+        "features": [
+            "फूल और फलों की विकास को बढ़ाता है",
+            "100% जैविक संरचना",
+            "सभी भारतीय मृदा प्रकारों के लिए उपयुक्त",
+            "धीमे रिलीज़ पोषण"
+        ]
+    },
+    {
+        "productId": "PROD-FERT013",
+        "name": "बायोनेक्टार ग्रीनगार्ड उर्वरक",
+        "description": "एक बायो-समृद्धि उर्वरक जिसमें प्राकृतिक कीट-निवारक गुण होते हैं, जो भारतीय फसलों की सुरक्षा करने के लिए डिज़ाइन किया गया है, साथ ही मजबूत विकास को बढ़ावा देता है।",
+        "type": "उर्वरक",
+        "price": 529.99,
+        "originalPrice": 769.99,
+        "rating": 4.4,
+        "remainingQuantity": 200,
+        "totalSold": 140,
+        "inStock": true,
+        "images": [
+            "https://akshatfertilizer.com/uploads/green_house_grade_fertilizers/1580710864174400.png",
+            "https://thumbs.dreamstime.com/b/agricultural-hand-nurturing-fertilizer-plant-growing-step-soi-agricultural-hand-nurturing-fertilizer-plant-growing-step-soil-99609924.jpg"
+        ],
+        "categories": [
+            "बायो-समृद्धि",
+            "कीट-निवारक",
+            "भारतीय फसलें"
+        ],
+        "brand": "बायोनेक्टार",
+        "weight": 5,
+        "features": [
+            "प्राकृतिक कीटनाशक गुण",
+            "पौधों की रोग सुरक्षा का समर्थन करता है",
+            "भारतीय कीट समस्याओं के लिए अनुकूलित",
+            "सतत कृषि को प्रोत्साहित करता है"
+        ]
+    },
+    {
+        "productId": "PROD-FERT014",
+        "name": "एग्रोस्टार मेगाब्लूम उर्वरक",
+        "description": "एक उच्च गुणवत्ता वाला उर्वरक मिश्रण जो फूल और फलों को बढ़ावा देने के लिए तैयार किया गया है, जो भारतीय बागवानी उत्साहितों के लिए आदर्श है।",
+        "type": "उर्वरक",
+        "price": 559.99,
+        "originalPrice": 799.99,
+        "rating": 4.6,
+        "remainingQuantity": 180,
+        "totalSold": 120,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/PX/RT/WJ/SELLER-19091752/chemical-fertilizer-500x500.jpg",
+            "https://e0.pxfuel.com/wallpapers/983/160/desktop-wallpaper-fertilizer-global-biologics-industries-s-l-thumbnail.jpg"
+        ],
+        "categories": [
+            "बागवानी",
+            "फूलबाज़ी",
+            "प्रीमियम"
+        ],
+        "brand": "एग्रोस्टार",
+        "weight": 5,
+        "features": [
+            "फूल और फलों को अनुकूलित करता है",
+            "संतुलित पोषण संरचना",
+            "भारतीय बागवानी के लिए तैयार",
+            "उन्नत धीमे रिलीज़ तकनीक"
+        ]
+    },
+    {
+        "productId": "PROD-FERT015",
+        "name": "ग्रीनवे ऑर्गेनिक पावरब्लेंड उर्वरक",
+        "description": "एक प्रबल जैविक उर्वरक मिश्रण जो भारतीय कृषि में मृदा उर्वरता को बढ़ावा देने और स्वस्थ विकास को प्रोत्साहित करने के लिए डिज़ाइन किया गया है।",
+        "type": "उर्वरक",
+        "price": 489.99,
+        "originalPrice": 729.99,
+        "rating": 4.5,
+        "remainingQuantity": 190,
+        "totalSold": 130,
+        "inStock": true,
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbS-puZ8uWXulN_bSDW0iN2fKo9bgrfOZCmQ&usqp=CAU",
+            "https://images.pexels.com/photos/12925602/pexels-photo-12925602.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        ],
+        "categories": [
+            "जैविक",
+            "मृदा उर्वरता",
+            "भारतीय कृषि"
+        ],
+        "brand": "ग्रीनवे",
+        "weight": 5,
+        "features": [
+            "मृदा संरचना में सुधार",
+            "माइक्रोबायोलॉजिकल गतिविधि को बढ़ावा देता है",
+            "भारतीय मृदा स्थितियों के लिए अनुकूलित",
+            "धीमे रिलीज़ पोषण"
+        ]
+    },
+
+    Certainly! Here is the translation of the provided JSON code into Hindi:
+
+```json
+{
+    "productId": "PROD-FERT016",
+    "name": "हार्वेस्टकेयर मेगा-नोरिश उर्वरक",
+    "description": "एक पोषण-समृद्धि उर्वरक मिश्रण जो भारतीय फसलों के लिए आवश्यक तत्व प्रदान करने के लिए बनाया गया है, समग्र पौध आरोग्य और ऊर्जा सुनिश्चित करने के लिए।",
+    "type": "उर्वरक",
+    "price": 509.99,
+    "originalPrice": 769.99,
+    "rating": 4.4,
+    "remainingQuantity": 200,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://krishibazaar.in/image/cache/catalog/Ecotica/Fertilizers-3-3-3-570x570.png",
+        "https://png.pngtree.com/thumb_back/fh260/background/20221107/pngtree-applying-graduated-chemical-mineral-fertilizers-to-plants-in-a-spring-garden-for-enhanced-growth-photo-image_40334696.jpg"
+    ],
+    "categories": [
+        "भारतीय फसलें",
+        "मृदा पुनर्जीवन",
+        "भारतीय कृषि"
+    ],
+    "brand": "ग्रीनवे",
+    "weight": 5,
+    "features": [
+        "मृदा संरचना में सुधार",
+        "प्रोबायोटिक गतिविधि को बढ़ावा",
+        "भारतीय मृदा की स्थितियों के लिए अनुकूलित",
+        "धीमे रिलीज तत्व"
+    ]
+},
+{
+    "productId": "PROD-FERT017",
+    "name": "इकोग्रो नैचुरल नरिश उर्वरक",
+    "description": "एक प्राकृतिक उर्वरक मिश्रण जो स्थानीय तत्वों से समृद्धि हुआ, स्थायी कृषि को बढ़ावा देने और भारतीय खेतों में पौध पोषण को बढ़ावा देने के लिए डिज़ाइन किया गया है।",
+    "type": "उर्वरक",
+    "price": 479.99,
+    "originalPrice": 699.99,
+    "rating": 4.3,
+    "remainingQuantity": 210,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/10/356411635/TB/CU/TL/11804202/organic-fertilizer-500x500.webp",
+        "https://media.istockphoto.com/id/684977254/photo/farmer-hand-giving-plant-organic-humus-fertilizer-to-plant.jpg?s=1024x1024&w=is&k=20&c=bXrXILYho2kJojaw3ackJIihK_C5soq9g15fm5uB1GM="
+    ],
+    "categories": [
+        "प्राकृतिक",
+        "सतत",
+        "भारतीय खेत"
+    ],
+    "brand": "इकोग्रो",
+    "weight": 5,
+    "features": [
+        "स्थानीय पोषण स्रोत",
+        "सतत कृषि का समर्थन",
+        "भारतीय मृदा विविधता के लिए अनुकूलित",
+        "धीमे रिलीज तत्व"
+    ]
+},
+{
+    "productId": "PROD-FERT018",
+    "name": "एग्रीनेक्टार सॉइलरीवाइव उर्वरक",
+    "description": "एक मृदा-पुनर्जीवन उर्वरक मिश्रण जो भारतीय खेतों को पुनर्जीवित करने, उर्वरता में सुधार करने और स्वस्थ पौध विकास का समर्थन करने के लिए डिज़ाइन किया गया है।",
+    "type": "उर्वरक",
+    "price": 499.99,
+    "originalPrice": 749.99,
+    "rating": 4.4,
+    "remainingQuantity": 200,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3cfXTU4mTVfHtNg3ZocU_8OMiXVW_uUFvw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCwLgrEz
+
+ZEJr6V4XhHYm99rsVuygv7jJSlw&usqp=CAU"
+    ],
+    "categories": [
+        "मृदा-पुनर्जीवन",
+        "भारतीय खेत",
+        "प्रीमियम"
+    ],
+    "brand": "एग्रीनेक्टार",
+    "weight": 5,
+    "features": [
+        "पुनर्जीवित मृदाएं",
+        "माइक्रोबियल गतिविधि को बढ़ावा",
+        "भारतीय कृषि प्रथाओं के लिए अनुकूलित",
+        "संतुलित पोषण संरचना"
+    ]
+},
+{
+    "productId": "PROD-FERT019",
+    "name": "आर्गेनिकहार्बर ग्रीनग्लो उर्वरक",
+    "description": "एक पर्यावरण-मित्र जैविक उर्वरक मिश्रण जो भारतीय फसलों में जीवंत और स्वस्थ विकास को बढ़ावा देने के लिए डिज़ाइन किया गया है, सुनिश्चित करता है कि यह सतत है।",
+    "type": "उर्वरक",
+    "price": 519.99,
+    "originalPrice": 779.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cjdBQKixbf2Adl1tw8Lg7iOOTdjS2xboWg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknPtDBXQvKslgKVAUl_FzDb5D8b7sGXsXyg&usqp=CAU"
+    ],
+    "categories": [
+        "जैविक",
+        "भारतीय फसलें",
+        "पर्यावरण-मित्र"
+    ],
+    "brand": "आर्गेनिकहार्बर",
+    "weight": 5,
+    "features": [
+        "पर्यावरण-मित्र कृषि को बढ़ावा देना",
+        "समृद्धि से भरपूर",
+        "भारतीय मृदा की स्थितियों के लिए अनुकूलित",
+        "धीमे रिलीज तत्व"
+    ]
+},
+{
+    "productId": "PROD-FERT020",
+    "name": "फार्मप्रो न्यूट्रीबूस्ट उर्वरक",
+    "description": "एक पोषण-बढ़ावा उर्वरक मिश्रण जो भारतीय किसानों के लिए डिज़ाइन किया गया है, मृदा पुनर्जीवन को बढ़ावा देने और आदर्श पौध पोषण का समर्थन करने के लिए।",
+    "type": "उर्वरक",
+    "price": 549.99,
+    "originalPrice": 799.99,
+    "rating": 4.5,
+    "remainingQuantity": 180,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP50G8mRUa53Ehb6R06Pe7MtfKY2ov02w96g&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EYJ6BdXlLJw8N_Ed6Dd0C5yTZ7FYq7-XzQ&usqp=CAU"
+    ],
+    "categories": [
+        "भारतीय किसान",
+        "प्रीमियम",
+        "पोषण-समृद्धि"
+    ],
+    "brand": "फार्मप्रो",
+    "weight": 5,
+    "features": [
+        "तत्व संशोधन को अधिकतम",
+        "स्वस्थ रूट विकास का समर्थन",
+        "भारतीय फसलों के लिए अनुकूलित",
+        "उन्नत धीमे रिलीज प्रौद्योगिकी"
+    ]
+}
+
+Certainly! Here is the translation of the provided JSON code into Hindi:
+
+```json
+{
+    "productId": "PROD-FERT021",
+    "name": "वैदिकग्रो आयुरफर्ट उर्वरक",
+    "description": "एक आयुर्वेद से प्रेरित उर्वरक मिश्रण जो भारतीय फसलों की ऊर्जा और सामर्थ्य को बढ़ाने के लिए बनाया गया है, जो आधुनिक कृषि के साथ पारंपरिक ज्ञान को मिलाकर बनाया गया है।",
+    "type": "उर्वरक",
+    "price": 569.99,
+    "originalPrice": 829.99,
+    "rating": 4.7,
+    "remainingQuantity": 170,
+    "totalSold": 110,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEvmFk7Biz8UcitvesdwDxKmCM_bSBO9ImXQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjmvctlBzmKsgzStPXiVyPzCzDVGjy1EqAYA&usqp=CAU"
+    ],
+    "categories": [
+        "आयुर्वेद से प्रेरित",
+        "भारतीय फसलें",
+        "प्रीमियम"
+    ],
+    "brand": "वैदिकग्रो",
+    "weight": 5,
+    "features": [
+        "पौध ऊर्जाओं को संतुलित करता है",
+        "समग्र कृषि स्वास्थ्य को बढ़ावा देता है",
+        "भारतीय कृषि जलवायु क्षेत्रों के लिए अनुकूलित",
+        "पर्यावरण-सहिष्णु निर्माण"
+    ]
+},
+{
+    "productId": "PROD-FERT022",
+    "name": "ग्रीनआरा मेगाहार्वेस्ट उर्वरक",
+    "description": "भारतीय कृषि में फसल उत्पन्नता को अधिकतम करने के लिए डिज़ाइन किया गया एक उच्च प्रदर्शन उर्वरक मिश्रण, सतत कृषि प्रथाओं का समर्थन करता है।",
+    "type": "उर्वरक",
+    "price": 589.99,
+    "originalPrice": 849.99,
+    "rating": 4.8,
+    "remainingQuantity": 160,
+    "totalSold": 100,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8e8bautVcM5aYlTK098zZ_pJU9GSqJt2Sgg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvw6KLq_L0YP9KQ_vjm1PR8hh-2ehOnKZSgw&usqp=CAU"
+    ],
+    "categories": [
+        "भारतीय कृषि",
+        "प्रीमियम",
+        "सतत"
+    ],
+    "brand": "ग्रीनआरा",
+    "weight": 5,
+    "features": [
+        "क्रॉप यील्ड को अधिकतम करता है",
+        "सतत कृषि प्रथाओं का समर्थन करता है",
+        "भारतीय मृदा की स्थितियों के लिए अनुकूलित",
+        "उन्नत पोषण अवशोषण प्रौद्योगिकी"
+    ]
+},
+{
+    "productId": "PROD-FERT023",
+    "name": "एक्वालाइफ हाइड्रोनरिश उर्वरक",
+    "description": "एक हाइड्रोपोनिक उर्वरक मिश्रण जो भारतीय फसलों के लिए पोषण वितरण को अधिकतम करने के लिए डिज़ाइन किया गया है, सुनिश्चित करता है कि हाइड्रोपोनिक प्रणालियों में स्वस्थ विकास हो।",
+    "type": "उर्वरक",
+    "price": 609.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 150,
+    "totalSold": 90,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd
+
+9GcTGmNvvD5gpjX8umMd9ikfEqzWCAqNCOFClLQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYa0mNSPB8XR4BLAYgwGQ_jy_Ph1-DAQ2efw&usqp=CAU"
+    ],
+    "categories": [
+        "भारतीय कृषि",
+        "प्रीमियम",
+        "सतत"
+    ],
+    "brand": "ग्रीनआरा",
+    "weight": 5,
+    "features": [
+        "क्रॉप यील्ड को अधिकतम करता है",
+        "सतत कृषि प्रथाओं का समर्थन करता है",
+        "भारतीय मृदा की स्थितियों के लिए अनुकूलित",
+        "उन्नत पोषण अवशोषण प्रौद्योगिकी"
+    ]
+},
+{
+    "productId": "PROD-FERT024",
+    "name": "इंडिगोएग्री टर्बोब्लूम उर्वरक",
+    "description": "एक उच्च पोषण उर्वरक मिश्रण जो भारतीय फसलों में उत्कृष्ट कृषि प्रदर्शन के लिए डिज़ाइन किया गया है, जो विकासशील फूलिंग और फ्रूटिंग को प्रोत्साहित करने के लिए है।",
+    "type": "उर्वरक",
+    "price": 529.99,
+    "originalPrice": 769.99,
+    "rating": 4.5,
+    "remainingQuantity": 180,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQghFItM5SuUWv8MFjtIXBfs_HvLyv0cIWuQg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtlU0Mbc40RykGTMm1wj-F7kMXLlkZRzNcAQ&usqp=CAU"
+    ],
+    "categories": [
+        "फूलिंग",
+        "भारतीय फसलें",
+        "प्रीमियम"
+    ],
+    "brand": "इंडिगोएग्री",
+    "weight": 5,
+    "features": [
+        "फूल और फल विकास को बढ़ावा देता है",
+        "पोषण अवशोषण को अधिकतम करता है",
+        "भारतीय कृषि जलवायु क्षेत्रों के लिए अनुकूलित",
+        "उन्नत धीमे रिलीज प्रौद्योगिकी"
+    ]
+},
+{
+    "productId": "PROD-FERT025",
+    "name": "इकोहार्वेस्ट सस्टेनेबल ब्लेंड",
+    "description": "एक पर्यावरण-सचेत उर्वरक मिश्रण जो विभिन्न भारतीय क्षेत्रों में सतत कृषि प्रथाओं के लिए बनाया गया है, जो पर्यावरण और फसल दोनों का समर्थन करता है।",
+    "type": "उर्वरक",
+    "price": 499.99,
+    "originalPrice": 749.99,
+    "rating": 4.4,
+    "remainingQuantity": 190,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://farmmate.in/cdn/shop/products/hdnpk000050.png?v=1678697788",
+        "https://media.istockphoto.com/id/1265209398/photo/feeding-lawn-with-granular-fertilizer-for-perfect-green-grass.webp?b=1&s=170667a&w=0&k=20&c=PG0ij58dzVHPdBw7SjQZ660wTFvk7nmWjTGkJfcW1Xc="
+    ],
+    "categories": [
+        "सतत",
+        "भारतीय क्षेत्र",
+        "पर्यावरण-मित्र"
+    ],
+    "brand": "इकोहार्वेस्ट",
+    "weight": 5,
+    "features": [
+        "बायोडाइवर्सिटी को प्रोत्साहित करता है",
+        "मृदा संरचना को बढ़ावा देता है",
+        "भारतीय कृषि प्रथाओं के लिए अनुकूलित",
+        "कम पर्यावरण प्रभाव"
+
+
+    ]
+}
