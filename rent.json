@@ -1,0 +1,1073 @@
+{
+    "productId": "PROD-RT001",
+    "name": "Mahindra Tractor",
+    "description": "vehicle specifically designed to deliver a high tractive effort (or torque) at slow speeds",
+    "type": "Tractor",
+    "rental": 1099,
+    "rating": 4.4,
+    "availability": true,
+    "totalrental": 92,
+    "owner": "Mr. Shyam Tyagi",
+    "Contact No.": 9999944444,
+    "Location":"Raipur",
+    "Working-Hour":"6:00 AM to 12:00 PM",
+    "images": [
+        "https://i.pinimg.com/originals/87/ec/2c/87ec2ccceec1f0fade51bbbfb5cfbe5b.png"
+    ],
+    "categories": [
+        "machinery",
+        "tools",
+        "equipment"
+    ],
+    "brand": "Mahindra",
+    "features": [
+        "Effective",
+        "High-yield"
+    ]
+}
+
+{
+    "productId": "PROD-RT002",
+    "name": "AgriKing 4500",
+    "description": "High-performance tractor for agricultural tasks, renowned for its efficiency and durability.",
+    "type": "Tractor",
+    "rental": 1200,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 88,
+    "owner": "Mrs. Priya Gupta",
+    "Contact No.": 8888877777,
+    "Location":"Jaipur",
+    "Working-Hour":"7:00 AM to 1:00 PM",
+    "images": [
+        "https://e0.pxfuel.com/wallpapers/614/526/desktop-wallpaper-3d-model-tractor-mahindra-395-di-tractors-3d-model-mahindra-tractor-thumbnail.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "AgriKing",
+    "features": [
+        "Versatile",
+        "Fuel-efficient"
+    ]
+}
+
+{
+    "productId": "PROD-RT003",
+    "name": "TATA Novo 4WD",
+    "description": "Powerful 4-wheel drive tractor suitable for various farming operations, known for its robust build.",
+    "type": "Tractor",
+    "rental": 1350,
+    "rating": 4.8,
+    "availability": true,
+    "totalrental": 78,
+    "owner": "Mr. Rajesh Kumar",
+    "Contact No.": 7777766666,
+    "Location":"Chandigarh",
+    "Working-Hour":"8:00 AM to 2:00 PM",
+    "images": [
+        "https://www.valtra.africa/content/dam/public/valtra/en-africa/products/tractors/bh-g4/BH-series-hero.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "TATA",
+    "features": [
+        "Four-wheel drive",
+        "Heavy-duty"
+    ]
+}
+
+{
+    "productId": "PROD-RT004",
+    "name": "Eicher 485",
+    "description": "Reliable tractor model suitable for small to medium-sized farms, known for its simplicity and efficiency.",
+    "type": "Tractor",
+    "rental": 1100,
+    "rating": 4.5,
+    "availability": true,
+    "totalrental": 95,
+    "owner": "Mr. Sunil Verma",
+    "Contact No.": 8888899999,
+    "Location":"Lucknow",
+    "Working-Hour":"7:00 AM to 1:00 PM",
+    "images": [
+        "https://play-lh.googleusercontent.com/-SqnBUEv8tfxWlmGCAMaEOGsJGkl_lpjLE-3dMp06lrEdPGyaoV2NRcsOtNU73ZO1_w"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "Eicher",
+    "features": [
+        "Simple design",
+        "Fuel-efficient"
+    ]
+}
+
+
+{
+    "productId": "PROD-RT005",
+    "name": "John Deere 5050D",
+    "description": "Versatile tractor model suitable for a variety of agricultural tasks, known for its advanced technology and performance.",
+    "type": "Tractor",
+    "rental": 1500,
+    "rating": 4.7,
+    "availability": true,
+    "totalrental": 82,
+    "owner": "Mrs. Renuka Singh",
+    "Contact No.": 7777788888,
+    "Location":"Bhopal",
+    "Working-Hour":"8:00 AM to 2:00 PM",
+    "images": [
+        "https://i.pinimg.com/564x/b2/3f/42/b23f42b5ae0471f5c7b766d7df3c7964.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "John Deere",
+    "features": [
+        "Advanced technology",
+        "High-performance"
+    ]
+}
+
+
+{
+    "productId": "PROD-RT006",
+    "name": "Sonalika DI 750 III",
+    "description": "Sturdy tractor suitable for heavy-duty agricultural work, known for its durability and fuel efficiency.",
+    "type": "Tractor",
+    "rental": 1300,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 88,
+    "owner": "Mr. Arvind Patel",
+    "Contact No.": 9999933333,
+    "Location": "Ahmedabad",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWKkA8W02WmNX9C242erjsfMWBvLCkG4w6UMw7olP6rD-zj9iW6uTHwS-NadM91ms0N0&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "Sonalika",
+    "features": [
+        "Durable build",
+        "Fuel-efficient"
+    ]
+}
+
+
+{
+    "productId": "PROD-RT007",
+    "name": "New Holland 3630 TX Plus",
+    "description": "Powerful tractor model suitable for a variety of farming tasks, known for its advanced features and ease of use.",
+    "type": "Tractor",
+    "rental": 1400,
+    "rating": 4.7,
+    "availability": true,
+    "totalrental": 80,
+    "owner": "Mrs. Preeti Sharma",
+    "Contact No.": 8888866666,
+    "Location": "Jaipur",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://i.pinimg.com/564x/74/38/fc/7438fc4bed439553d9bf94036914565f.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "New Holland",
+    "features": [
+        "Advanced features",
+        "User-friendly"
+    ]
+}
+
+
+{
+    "productId": "PROD-RT008",
+    "name": "Kubota MU4501",
+    "description": "Compact and versatile tractor suitable for small to medium-sized farms, known for its maneuverability and efficiency.",
+    "type": "Tractor",
+    "rental": 1150,
+    "rating": 4.5,
+    "availability": true,
+    "totalrental": 90,
+    "owner": "Mr. Vinay Kapoor",
+    "Contact No.": 7777799999,
+    "Location": "Delhi",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQUosFyx5-swzRTq8BjM7X52zgPjnL3EzWjMViYBIjZDfa_VvSp-zXgywIrohiHYSAhw&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "Kubota",
+    "features": [
+        "Compact size",
+        "Maneuverable"
+    ]
+}
+
+
+{
+    "productId": "PROD-RT009",
+    "name": "Force Balwan 450",
+    "description": "Robust tractor suitable for heavy-duty farming tasks, known for its power and durability.",
+    "type": "Tractor",
+    "rental": 1550,
+    "rating": 4.8,
+    "availability": true,
+    "totalrental": 85,
+    "owner": "Mrs. Ananya Reddy",
+    "Contact No.": 8888855555,
+    "Location": "Hyderabad",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBzzy7VLdxTGkpNZRmuJ9_kSPO2EdWGZTDQ&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "Force",
+    "features": [
+        "Robust build",
+        "High power"
+    ]
+}
+
+
+{
+    "productId": "PROD-RT010",
+    "name": "Massey Ferguson 241 DI",
+    "description": "Popular tractor model known for its versatility and reliability, suitable for a range of agricultural applications.",
+    "type": "Tractor",
+    "rental": 1250,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 92,
+    "owner": "Mr. Anand Kumar",
+    "Contact No.": 9999988888,
+    "Location": "Patna",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4W4d76NLWdbNyH3QZY1GyzM2ao4j5xkPxQ&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "Massey Ferguson",
+    "features": [
+        "Versatile",
+        "Reliable"
+    ]
+}
+
+
+{
+    "productId": "PROD-RT011",
+    "name": "Mahindra Arjun Novo 605 DI-i",
+    "description": "Modern and high-performance tractor suitable for various farming operations, known for its advanced features.",
+    "type": "Tractor",
+    "rental": 1600,
+    "rating": 4.9,
+    "availability": true,
+    "totalrental": 78,
+    "owner": "Mrs. Aishwarya Singh",
+    "Contact No.": 7777766666,
+    "Location": "Mumbai",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://i.pinimg.com/originals/fa/64/c2/fa64c2f29a9ee9e968ac6c117e81f9ae.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "Mahindra",
+    "features": [
+        "Modern technology",
+        "High-performance"
+    ]
+}
+
+
+{
+    "productId": "PROD-RC001",
+    "name": "Cultivator",
+    "description": "A cultivator is a farming tool utilized to aerate and loosen soil, eliminate weeds, and prepare it for planting",
+    "type": "Cultivator",
+    "rental": 1299,
+    "rating": 4.3,
+    "availability": true,
+    "totalrental": 92,
+    "owner": "Mr. Bhupendra Mishra",
+    "Contact No.": 9988775566,
+    "Location":"Bilaspur",
+    "Working-Hour":"7:00 AM to 01:00 PM",
+    "images": [
+        "https://www.indiaagrovision.com/uploads/products/hd-spring-loaded-cultivator-tiller-copy_955705682_l.png"
+    ],
+    "categories": [
+        "machinery",
+        "tools",
+        "equipment"
+    ],
+    "brand": "Sonalika",
+    "features": [
+        "Effective",
+        "High-yield"
+    ]
+}
+
+{
+    "productId": "PROD-RC002",
+    "name": "PowerTill 3000",
+    "description": "High-performance cultivator designed for efficient soil aeration and weed elimination, suitable for various farming needs.",
+    "type": "Cultivator",
+    "rental": 1350,
+    "rating": 4.5,
+    "availability": true,
+    "totalrental": 90,
+    "owner": "Mrs. Kavita Verma",
+    "Contact No.": 7778899666,
+    "Location": "Nagpur",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://www.indiaagrovision.com/uploads/products/hd-rigid-cultivator-tiller-copy_319194055_l.png"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "PowerTill",
+    "features": [
+        "Efficient soil aeration",
+        "Versatile use"
+    ]
+}
+
+{
+    "productId": "PROD-RC003",
+    "name": "GreenTech EcoCult",
+    "description": "Environmentally friendly cultivator known for its eco-friendly design and effective weed elimination capabilities.",
+    "type": "Cultivator",
+    "rental": 1400,
+    "rating": 4.7,
+    "availability": true,
+    "totalrental": 88,
+    "owner": "Mr. Ramesh Patel",
+    "Contact No.": 8888877777,
+    "Location": "Indore",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/SF/GX/MY-31255342/tractor-operated-9-tyne-rigid-cultivator-500x500.jpeg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "GreenTech",
+    "features": [
+        "Eco-friendly design",
+        "Effective weed elimination"
+    ]
+}
+
+{
+    "productId": "PROD-RC004",
+    "name": "AgriMaster ProCult",
+    "description": "Professional-grade cultivator designed for precision farming, known for its advanced features and high efficiency.",
+    "type": "Cultivator",
+    "rental": 1500,
+    "rating": 4.8,
+    "availability": true,
+    "totalrental": 85,
+    "owner": "Mrs. Anjali Sharma",
+    "Contact No.": 7778899999,
+    "Location": "Pune",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://www.landforce.in/admin/img/modal/58ec3cde5bd3e7ca04bd3211d74a6e3a.png"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "AgriMaster",
+    "features": [
+        "Precision farming",
+        "Advanced features"
+    ]
+}
+
+{
+    "productId": "PROD-RC005",
+    "name": "TechHarvest TurboCult",
+    "description": "Turbocharged cultivator model known for its speed and efficiency in preparing the soil for planting.",
+    "type": "Cultivator",
+    "rental": 1450,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 87,
+    "owner": "Mr. Vikram Singh",
+    "Contact No.": 9999944444,
+    "Location": "Ahmedabad",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/SF/GX/MY-31255342/tractor-operated-9-tyne-rigid-cultivator-500x500.jpeg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "TechHarvest",
+    "features": [
+        "Turbocharged",
+        "High-speed operation"
+    ]
+}
+
+{
+    "productId": "PROD-RC006",
+    "name": "KisanKraft AgriMate",
+    "description": "Compact and efficient cultivator suitable for small to medium-sized farms, known for its easy handling and productivity.",
+    "type": "Cultivator",
+    "rental": 1200,
+    "rating": 4.4,
+    "availability": true,
+    "totalrental": 92,
+    "owner": "Mr. Prakash Singh",
+    "Contact No.": 7777778888,
+    "Location": "Jaipur",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://assets.khetigaadi.com/new-implement/ShreeSaiAgroIndustriesCultivator9TYNEWITHSHOVELS-HD_0_1459398269.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "KisanKraft",
+    "features": [
+        "Compact design",
+        "Easy handling"
+    ]
+}
+
+{
+    "productId": "PROD-RC007",
+    "name": "FarmTech PrecisionCult",
+    "description": "State-of-the-art precision cultivator designed for optimal soil preparation, known for its advanced technology and accuracy.",
+    "type": "Cultivator",
+    "rental": 1550,
+    "rating": 4.9,
+    "availability": true,
+    "totalrental": 78,
+    "owner": "Mrs. Deepa Sharma",
+    "Contact No.": 8888877777,
+    "Location": "Bengaluru",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoNUc-NSF9jke_FmpHuq1vkJRV6ZxlNnMf1Hir41Q1KM0sI3ZU2lh3DiVFW1AZPLog07A&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "FarmTech",
+    "features": [
+        "Precision farming",
+        "Advanced technology"
+    ]
+}
+
+{
+    "productId": "PROD-RC008",
+    "name": "RuralCraft AgriPlow",
+    "description": "Traditional yet efficient cultivator designed for small-scale farming, known for its simplicity and reliability.",
+    "type": "Cultivator",
+    "rental": 1100,
+    "rating": 4.3,
+    "availability": true,
+    "totalrental": 95,
+    "owner": "Mr. Harish Patel",
+    "Contact No.": 9999966666,
+    "Location": "Surat",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/AS/GB/SZ/SELLER-38607041/9-tyne-cultivator-with-box-frame.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "RuralCraft",
+    "features": [
+        "Simplicity",
+        "Reliability"
+    ]
+}
+
+{
+    "productId": "PROD-RC009",
+    "name": "GreenHarvest EcoTill",
+    "description": "Environmentally conscious cultivator with eco-friendly features, suitable for sustainable farming practices.",
+    "type": "Cultivator",
+    "rental": 1250,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 90,
+    "owner": "Mrs. Sneha Singh",
+    "Contact No.": 8888899999,
+    "Location": "Chennai",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/AS/GB/SZ/SELLER-38607041/9-tyne-cultivator-with-box-frame.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "GreenHarvest",
+    "features": [
+        "Eco-friendly design",
+        "Sustainable farming"
+    ]
+}
+
+{
+    "productId": "PROD-RC010",
+    "name": "KrishiKing SoilMaster",
+    "description": "Versatile cultivator designed for various soil types, known for its adaptability and effective weed control.",
+    "type": "Cultivator",
+    "rental": 1350,
+    "rating": 4.7,
+    "availability": true,
+    "totalrental": 88,
+    "owner": "Mr. Suresh Gupta",
+    "Contact No.": 7778889999,
+    "Location": "Kolkata",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/AS/GB/SZ/SELLER-38607041/9-tyne-cultivator-with-box-frame.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "KrishiKing",
+    "features": [
+        "Adaptable to various soils",
+        "Effective weed control"
+    ]
+}
+
+
+{
+    "productId": "PROD-RH001",
+    "name": "Harvester",
+    "description": "A harvester/picker is responsible for the care and harvesting of produce such as fruits and vegetables on farms",
+    "type": "Harvester",
+    "rental": 1499,
+    "rating": 4.5,
+    "availability": true,
+    "totalrental": 90,
+    "owner": "Mr. Sagar  Sharma",
+    "Contact No.": 9988775566,
+    "Location":"Champa",
+    "Working-Hour":"7:00 AM to 01:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/WC/IE/YH/ANDROID-86040604/prod-20200810-2031297210080910753376724-jpg.jpg"
+    ],
+    "categories": [
+        "machinery",
+        "tools",
+        "equipment"
+    ],
+    "brand": "Sonalika",
+    "features": [
+        "Effective",
+        "High-yield"
+    ]
+}
+
+{
+    "productId": "PROD-RH002",
+    "name": "AgriHarvest ProPicker",
+    "description": "Professional-grade harvester designed for efficient picking and harvesting of a variety of crops, known for its high productivity.",
+    "type": "Harvester",
+    "rental": 1600,
+    "rating": 4.7,
+    "availability": true,
+    "totalrental": 85,
+    "owner": "Mrs. Meera Patel",
+    "Contact No.": 7778899666,
+    "Location": "Nagpur",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://assets.tractorjunction.com/tractor-junction/assets/images/items/Sell-harvester-product-1607082070-2.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "AgriHarvest",
+    "features": [
+        "Efficient picking",
+        "High productivity"
+    ]
+}
+
+{
+    "productId": "PROD-RH003",
+    "name": "GreenTech EcoHarvest",
+    "description": "Environmentally friendly harvester designed for sustainable and eco-conscious farming, known for its advanced technology.",
+    "type": "Harvester",
+    "rental": 1650,
+    "rating": 4.8,
+    "availability": true,
+    "totalrental": 88,
+    "owner": "Mr. Ravi Singh",
+    "Contact No.": 8888877777,
+    "Location": "Indore",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://c1.wallpaperflare.com/preview/604/884/903/wheat-threshing-harvesting-harvest.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "GreenTech",
+    "features": [
+        "Eco-friendly design",
+        "Advanced technology"
+    ]
+}
+
+{
+    "productId": "PROD-RH004",
+    "name": "KrishiKing HarvestMaster",
+    "description": "Versatile harvester designed for efficient harvesting of various crops, known for its adaptability and high yield.",
+    "type": "Harvester",
+    "rental": 1550,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 87,
+    "owner": "Mrs. Anjali Sharma",
+    "Contact No.": 9999988888,
+    "Location": "Pune",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://watermark.lovepik.com/photo/20211208/large/lovepik-combine-harvester-at-wheat-harvest-time-picture_501605898.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "KrishiKing",
+    "features": [
+        "Adaptable for various crops",
+        "High yield"
+    ]
+}
+
+{
+    "productId": "PROD-RH005",
+    "name": "TechFarm TurboHarvest",
+    "description": "High-speed harvester with turbocharged features, suitable for large-scale crop harvesting, known for its efficiency.",
+    "type": "Harvester",
+    "rental": 1700,
+    "rating": 4.9,
+    "availability": true,
+    "totalrental": 78,
+    "owner": "Mrs. Deepa Sharma",
+    "Contact No.": 8888877777,
+    "Location": "Bengaluru",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nR2mv8Lv_VX0seV-gkNTS4DleGiiFdnI8g&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "TechFarm",
+    "features": [
+        "Turbocharged for high speed",
+        "Efficient for large-scale harvesting"
+    ]
+}
+
+{
+    "productId": "PROD-RH006",
+    "name": "RuralCraft AgriHarvest",
+    "description": "Traditional yet efficient harvester designed for small to medium-sized farms, known for its simplicity and reliability.",
+    "type": "Harvester",
+    "rental": 1450,
+    "rating": 4.5,
+    "availability": true,
+    "totalrental": 92,
+    "owner": "Mr. Harish Patel",
+    "Contact No.": 9999966666,
+    "Location": "Surat",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDQCgPbH0VkETGQYso5e77Hix6qKgC_Dz1HnIw-AjX4ZyIK6SOL3fOF4Bd_xiE30oPTc&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "RuralCraft",
+    "features": [
+        "Simplicity",
+        "Reliability"
+    ]
+}
+
+{
+    "productId": "PROD-RH007",
+    "name": "GreenHarvest EcoPicker",
+    "description": "Environmentally conscious harvester with eco-friendly features, suitable for sustainable farming practices.",
+    "type": "Harvester",
+    "rental": 1500,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 90,
+    "owner": "Mrs. Sneha Singh",
+    "Contact No.": 8888899999,
+    "Location": "Chennai",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjqqA5ZC8aAvwvX40akZCzH0IqnMCkPIiT1EHXqK_2O4TDiX858hvBWkj30DpWpfkWv4A&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "GreenHarvest",
+    "features": [
+        "Eco-friendly design",
+        "Sustainable farming"
+    ]
+}
+
+{
+    "productId": "PROD-RH008",
+    "name": "KisanKraft HarvestMaster Plus",
+    "description": "Versatile and high-performance harvester suitable for various crops, known for its advanced features and optimal yield.",
+    "type": "Harvester",
+    "rental": 1600,
+    "rating": 4.8,
+    "availability": true,
+    "totalrental": 85,
+    "owner": "Mr. Suresh Gupta",
+    "Contact No.": 7778889999,
+    "Location": "Kolkata",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTioU3ETv8_WW_zXDM_9_vmbc0q7aNUK_Cg&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "KisanKraft",
+    "features": [
+        "Versatile for various crops",
+        "High-performance"
+    ]
+}
+
+{
+    "productId": "PROD-RH009",
+    "name": "FarmTech TurboHarvest Pro",
+    "description": "State-of-the-art harvester with turbocharged features, designed for optimal efficiency and precision in crop harvesting.",
+    "type": "Harvester",
+    "rental": 1650,
+    "rating": 4.9,
+    "availability": true,
+    "totalrental": 78,
+    "owner": "Mrs. Radha Sharma",
+    "Contact No.": 8888777777,
+    "Location": "Hyderabad",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxyvmc9zd8uBZQs6lzjuhsWGH9c9lF2zzMA&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "FarmTech",
+    "features": [
+        "Turbocharged for optimal efficiency",
+        "Precision harvesting"
+    ]
+}
+
+
+{
+    "productId": "PROD-RTH001",
+    "name": "Thrasher",
+    "description": "farm machine for separating wheat, peas, soybeans, and other small grain and seed crops from their chaff and straw",
+    "type": "Thrasher",
+    "rental": 1199,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 90,
+    "owner": "Mr. Sandeep  Yadav",
+    "Contact No.": 9988775566,
+    "Location":"Raigarh",
+    "Working-Hour":"7:00 AM to 01:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2021/6/RK/QK/XY/71433036/multi-crop-cutter-thrasher-500x500.jpg"
+    ],
+    "categories": [
+        "machinery",
+        "tools",
+        "equipment"
+    ],
+    "brand": "Sonalika",
+    "features": [
+        "Effective",
+        "High-yield"
+    ]
+}
+
+{
+    "productId": "PROD-RTH002",
+    "name": "AgriThresh ProSeparator",
+    "description": "Professional-grade thresher designed for efficient separation of wheat, peas, and soybeans, known for its high productivity.",
+    "type": "Thrasher",
+    "rental": 1300,
+    "rating": 4.8,
+    "availability": true,
+    "totalrental": 85,
+    "owner": "Mrs. Meena Patel",
+    "Contact No.": 7778899666,
+    "Location": "Nashik",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/GJ/WN/UO/SELLER-91862955/multi-crop-cutter-thrasher.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "AgriThresh",
+    "features": [
+        "Efficient separation",
+        "High productivity"
+    ]
+}
+
+{
+    "productId": "PROD-RTH003",
+    "name": "GreenHarvest EcoThresher",
+    "description": "Environmentally friendly thresher designed for sustainable farming, known for its eco-conscious features and effective grain separation.",
+    "type": "Thrasher",
+    "rental": 1350,
+    "rating": 4.7,
+    "availability": true,
+    "totalrental": 88,
+    "owner": "Mr. Rakesh Singh",
+    "Contact No.": 8888877777,
+    "Location": "Bhopal",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "hhttps://5.imimg.com/data5/DK/GK/ZA/SELLER-7337199/thrasher.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "GreenHarvest",
+    "features": [
+        "Eco-conscious design",
+        "Effective grain separation"
+    ]
+}
+
+{
+    "productId": "PROD-RTH004",
+    "name": "KrishiKing GrainMaster",
+    "description": "Versatile thresher designed for separating a variety of grains with precision, known for its adaptability and high yield.",
+    "type": "Thrasher",
+    "rental": 1400,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 87,
+    "owner": "Mrs. Anjali Sharma",
+    "Contact No.": 9999988888,
+    "Location": "Jaipur",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/TM/WS/MY-4523570/threashor-for-sonalika-garden-trac-500x500.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "KrishiKing",
+    "features": [
+        "Adaptable for various grains",
+        "High yield"
+    ]
+}
+
+{
+    "productId": "PROD-RTH005",
+    "name": "TechFarm TurboThresh",
+    "description": "High-speed thresher with turbocharged features, suitable for large-scale grain separation, known for its efficiency.",
+    "type": "Thrasher",
+    "rental": 1450,
+    "rating": 4.9,
+    "availability": true,
+    "totalrental": 78,
+    "owner": "Mrs. Deepa Sharma",
+    "Contact No.": 8888877777,
+    "Location": "Hyderabad",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHtKQavEruebFfbXBO0aM3ztWcRhakjCmdx9AQOfKg7SsaNlbkpFFN5MJYGgpS2GhATM&usqp=CAU"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "TechFarm",
+    "features": [
+        "Turbocharged for high speed",
+        "Efficient for large-scale separation"
+    ]
+}
+
+{
+    "productId": "PROD-RTH006",
+    "name": "RuralCraft AgriSeparator",
+    "description": "Traditional yet efficient thresher designed for small to medium-sized farms, known for its simplicity and reliability in grain separation.",
+    "type": "Thrasher",
+    "rental": 1300,
+    "rating": 4.5,
+    "availability": true,
+    "totalrental": 92,
+    "owner": "Mr. Harish Patel",
+    "Contact No.": 9999966666,
+    "Location": "Surat",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2021/10/LJ/WG/RZ/4355607/sonalika-paddy-thresher-500x500.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "RuralCraft",
+    "features": [
+        "Simplicity",
+        "Reliability"
+    ]
+}
+
+{
+    "productId": "PROD-RTH007",
+    "name": "GreenHarvest EcoSeparator",
+    "description": "Environmentally conscious thresher with eco-friendly features, suitable for sustainable farming practices in grain separation.",
+    "type": "Thrasher",
+    "rental": 1350,
+    "rating": 4.6,
+    "availability": true,
+    "totalrental": 90,
+    "owner": "Mrs. Sneha Singh",
+    "Contact No.": 8888899999,
+    "Location": "Chennai",
+    "Working-Hour": "8:00 AM to 2:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/6/CG/CQ/UX/31618620/agriculture-multi-crop-cutter-thrasher.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "tools"
+    ],
+    "brand": "GreenHarvest",
+    "features": [
+        "Eco-friendly design",
+        "Sustainable farming"
+    ]
+}
+
+{
+    "productId": "PROD-RTH008",
+    "name": "KisanKraft GrainMaster Plus",
+    "description": "Versatile and high-performance thresher suitable for various grains, known for its advanced features and optimal yield.",
+    "type": "Thrasher",
+    "rental": 1400,
+    "rating": 4.8,
+    "availability": true,
+    "totalrental": 85,
+    "owner": "Mr. Suresh Gupta",
+    "Contact No.": 7778889999,
+    "Location": "Kolkata",
+    "Working-Hour": "7:00 AM to 1:00 PM",
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/11/OU/VB/YB/26747100/ms-multi-crop-cutter-thrasher.jpg"
+    ],
+    "categories": [
+        "agriculture",
+        "machinery",
+        "equipment"
+    ],
+    "brand": "KisanKraft",
+    "features": [
+        "Versatile for various grains",
+        "High-performance"
+    ]
+}
