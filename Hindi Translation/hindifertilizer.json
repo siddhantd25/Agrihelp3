@@ -1,0 +1,1226 @@
+```json
+{
+  "productId": "PROD-FERT001",
+  "name": "आर्गेनिक फार्म ब्लिस फ़र्टिलाइज़र",
+  "description": "भारतीय खेतों में स्वस्थ और प्रचुर फसल पैदा करने के लिए विशेष रूप से बनाया गया जैविक उर्वरक।",
+  "type": "उर्वरक",
+  "price": 499.99,
+  "originalPrice": 799.99,
+  "rating": 4.5,
+  "remainingQuantity": 200,
+  "totalSold": 150,
+  "inStock": true,
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/10/356411635/TB/CU/TL/11804202/organic-fertilizer-500x500.webp",
+    "https://5.imimg.com/data5/SELLER/Default/2020/12/BI/BV/VD/4148413/grow-agro-organic-fertilizer-500x500.jpg"
+  ],
+  "categories": [
+    "उर्वरक",
+    "जैविक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "ग्रीन हार्वेस्ट",
+  "weight": 5,
+  "features": [
+    "100% जैविक",
+    "मिट्टी की पौधों की फैर्टिलिटी को बढ़ाता है",
+    "भारतीय फसलों के लिए तैयार किया गया",
+    "धीरे-धीरे समग्र पोषण"
+  ]
+}
+
+{
+  "productId": "PROD-FERT002",
+  "name": "आयुरग्रो नैचुरल फ़र्टिलाइज़र",
+  "description": "भारतीय फसलों के शानदार विकास के लिए एक आयुर्वेदिक प्रेरित प्राकृतिक उर्वरक।",
+  "type": "उर्वरक",
+  "price": 599.99,
+  "originalPrice": 899.99,
+  "rating": 4.7,
+  "remainingQuantity": 180,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://farmerspride.in/wp-content/uploads/2022/08/Organic-Fertilizer.jpeg",
+    "https://5.imimg.com/data5/SELLER/Default/2023/1/HP/WD/VZ/103282088/20kg-100-pure-organic-vermicompost-fertilizer-500x500.jpeg"
+  ],
+  "categories": [
+    "उर्वरक",
+    "प्राकृतिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "नेचर्स बाउंटी",
+  "weight": 5.5,
+  "features": [
+    "आयुर्वेदिक सूत्र",
+    "महत्वपूर्ण पोषण से भरपूर",
+    "पौधों की सुरक्षा को बढ़ावा देता है",
+    "विभिन्न भारतीय फसलों के लिए उपयुक्त"
+  ]
+}
+
+{
+  "productId": "PROD-FERT003",
+  "name": "फार्मविटल आर्गेनिक मिक्स",
+  "description": "प्रीमियम जैविक तत्वों का मिश्रण, सावधानीपूर्वक भारतीय खेतों के लिए तैयार किया गया है ताकि मिट्टी की फैर्टिलिटी और फसल उत्पन्न हो सके।",
+  "type": "उर्वरक",
+  "price": 459.99,
+  "originalPrice": 749.99,
+  "rating": 4.3,
+  "remainingQuantity": 220,
+  "totalSold": 120,
+  "inStock": true,
+  "images": [
+    "https://tiimg.tistatic.com/fp/1/007/696/100-soluble-and-50-amino-acid-contains-liquid-fertilizer-in-packets-623.jpg",
+    "https://img3.exportersindia.com/product_images/bc-full/2022/9/10834579/npk-12-61-00-water-soluble-fertilizer-1664513676-6564164.jpeg"
+  ],
+  "categories": [
+    "उर्वरक",
+    "प्राकृतिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "नेचर्स बाउंटी",
+  "weight": 5.
+
+5,
+  "features": [
+    "आयुर्वेदिक सूत्र",
+    "महत्वपूर्ण पोषण से भरपूर",
+    "पौधों की सुरक्षा को बढ़ावा देता है",
+    "विभिन्न भारतीय फसलों के लिए उपयुक्त"
+  ]
+}
+
+{
+  "productId": "PROD-FERT004",
+  "name": "ग्रीनफ़ील्ड्स वर्मीकॉम्पोस्ट",
+  "description": "भारतीय केंचुआ से समृद्धि दिलाने वाले उच्च गुणवत्ता वाला वर्मीकॉम्पोस्ट, मिट्टी को पोषण देने और सतत कृषि को बढ़ावा देने के लिए आदर्श है।",
+  "type": "उर्वरक",
+  "price": 549.99,
+  "originalPrice": 899.99,
+  "rating": 4.6,
+  "remainingQuantity": 180,
+  "totalSold": 130,
+  "inStock": true,
+  "images": [
+    "https://ariesagro.com/wp-content/uploads/2023/04/Fertimax-HD-11-52-00.png",
+    "https://www.resetagri.in/cdn/shop/products/41S2Zro1CCL.jpg?v=1675166834"
+  ],
+  "categories": [
+    "उर्वरक",
+    "जैविक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "अर्थवाइज़",
+  "weight": 6,
+  "features": [
+    "प्रीमियम वर्मीकॉम्पोस्ट",
+    "भारतीय केंचुआ से समृद्ध",
+    "मिट्टी की एयरेशन को बढ़ावा देता है",
+    "सतत कृषि"
+  ]
+}
+
+{
+  "productId": "PROD-FERT005",
+  "name": "हर्बलहार्वेस्ट न्यूट्रीबूस्ट",
+  "description": "भारतीय फसलों के लिए डिज़ाइन किए गए हर्बल-इन्फ्यूज्ड उर्वरक, मजबूत विकास और बढ़ी हुई उपज के लिए आवश्यक पोषण प्रदान करता है।",
+  "type": "उर्वरक",
+  "price": 479.99,
+  "originalPrice": 799.99,
+  "rating": 4.4,
+  "remainingQuantity": 200,
+  "totalSold": 140,
+  "inStock": true,
+  "images": [
+    "https://5.imimg.com/data5/ZL/QT/MO/ANDROID-97182784/product-jpeg-500x500.JPG",
+    "https://www.pngitem.com/pimgs/m/420-4204483_katek-organic-super-growth-fertilizer-3kg-bucket-bee.png"
+  ],
+  "categories": [
+    "उर्वरक",
+    "हर्बल",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "ग्रीनहर्ब",
+  "weight": 5.5,
+  "features": [
+    "हर्बल निर्यात",
+    "पौधों की सुरक्षा को बढ़ावा देता है",
+    "भारतीय जलवायु के लिए अनुकूलित",
+    "पोषण को प्रोत्साहित करता है"
+  ]
+}
+
+```json
+{
+  "productId": "PROD-FERT006",
+  "name": "एग्रोरिच ऑर्गेनिक ब्लेंड",
+  "description": "भारतीय भूमि को फिर से जीवंत बनाने के लिए एक सूक्ष्मिकता से बनाया गया जैविक मिश्रण, स्वस्थ और सतत पैदा करने की सुनिश्चित करता है।",
+  "type": "उर्वरक",
+  "price": 529.99,
+  "originalPrice": 849.99,
+  "rating": 4.5,
+  "remainingQuantity": 190,
+  "totalSold": 125,
+  "inStock": true,
+  "images": [
+    "https://image.made-in-china.com/201f0j00rCAGzTLgIHcE/Seaweed-Extract-Organic-Liquid-Foliar-Fertilizer.webp",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iCGTKQZGT8Yq79-7k-LIpDJEdagPxef4h5yKZP8IKEcJ6agcheeJ_K1o5BcKEp7xWEs&usqp=CAU"
+  ],
+  "categories": [
+    "उर्वरक",
+    "जैविक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रोवाइब",
+  "weight": 6,
+  "features": [
+    "प्रीमियम जैविक मिश्रण",
+    "मिट्टी की फैर्टिलिटी को बढ़ाता है",
+    "सतत कृषि",
+    "भारतीय फसलों के लिए तैयार"
+  ]
+}
+
+{
+  "productId": "PROD-FERT007",
+  "name": "बायोग्रोथ पॉवर पैलेट्स",
+  "description": "भारतीय बायो-सक्रिय एजेंट्स से बोझदार पैलेट्स, फसलों में तेज विकास और सहनशीलता को बढ़ावा देते हैं।",
+  "type": "उर्वरक",
+  "price": 589.99,
+  "originalPrice": 949.99,
+  "rating": 4.8,
+  "remainingQuantity": 170,
+  "totalSold": 160,
+  "inStock": true,
+  "images": [
+    "https://www.indianpotash.org/images/mop.jpg?1699315200014",
+    "https://www.indianpotash.org/images/prod5.jpg?1699315200015"
+  ],
+  "categories": [
+    "उर्वरक",
+    "बायो-सक्रिय",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "बायोबूस्ट",
+  "weight": 5.8,
+  "features": [
+    "बायोसक्रिय पैलेट प्रौद्योगिकी",
+    "तेज़ पैदा होने वाली फसल",
+    "पोषण को बढ़ावा देने वाला",
+    "भारतीय मिट्टी के लिए तैयार"
+  ]
+}
+
+{
+  "productId": "PROD-FERT008",
+  "name": "टेरारूट्स आयुरब्लेंड",
+  "description": "प्राकृतिक तत्वों का एक आयुर्वेदिक मिश्रण, जो मिट्टी के स्वास्थ्य को बढ़ावा देता है और फसल की उत्पन्नति को बढ़ाता है, पारंपरिक भारतीय विधियों से प्रेरित है।",
+  "type": "उर्वरक",
+  "price": 509.99,
+  "originalPrice": 829.99,
+  "rating": 4.6,
+  "remainingQuantity": 210,
+  "totalSold": 145,
+  "inStock": true,
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQcGU8Al5NfnJdE3vbPHDTHw1EMdS73yw4Q&usqp=CAU",
+    "https://images.meesho.com/images/products/75308547/sm4oa_512.webp"
+  ],
+  "categories": [
+    "उर्वरक",
+    "आयुर्वेदिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "टेरावाइज",
+  "weight": 5.3,
+  "features": [
+    "आयुर्वेदिक रूपरेखा",
+    "मिट्टी के पीएच को संतुलित करता है",
+    "ज
+
+ड़ों के विकास को बढ़ावा देता है",
+    "सतत कृषि"
+  ]
+}
+
+{
+  "productId": "PROD-FERT009",
+  "name": "गोल्डनहार्वेस्ट माइक्रोबूस्ट",
+  "description": "भारतीय फसलों के लिए एक माइक्रोन्यूट्रिएंट समृद्ध उर्वरक, निर्देशित पोषण और पौधिक पौष्टिकता में वृद्धि सुनिश्चित करने के लिए।",
+  "type": "उर्वरक",
+  "price": 469.99,
+  "originalPrice": 769.99,
+  "rating": 4.4,
+  "remainingQuantity": 195,
+  "totalSold": 135,
+  "inStock": true,
+  "images": [
+    "https://d91ztqmtx7u1k.cloudfront.net/ClientContent/Images/Medium/bio-tech-grade-powder-sun-rubber-organic-fertilizer-fo20231116094436.png",
+    "https://5.imimg.com/data5/SELLER/Default/2023/7/328958283/AU/RL/SY/122345014/8-4-500x500.jpeg"
+  ],
+  "categories": [
+    "उर्वरक",
+    "माइक्रोन्यूट्रिएंट",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "एग्रोगोल्ड",
+  "weight": 5.2,
+  "features": [
+    "उच्च माइक्रोन्यूट्रिएंट सामग्री",
+    "पौधिक मेटाबोलिज्म को बढ़ाता है",
+    "भारतीय मिट्टी के लिए तैयार",
+    "फसल की सहनशीलता बढ़ाता है"
+  ]
+}
+
+{
+  "productId": "PROD-FERT010",
+  "name": "ऑर्गेनिक एसेंस मिरेकल मिक्स",
+  "description": "एक अद्वितीय जैविक मिश्रण जो भारत के विविध दृश्यों में मिट्टी की फैर्टिलिटी और सतत कृषि को बढ़ावा देता है।",
+  "type": "उर्वरक",
+  "price": 539.99,
+  "originalPrice": 879.99,
+  "rating": 4.7,
+  "remainingQuantity": 185,
+  "totalSold": 155,
+  "inStock": true,
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2022/12/ES/TU/CY/29169914/neem-fertilizer.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDiwrgjhQV2tYNsasKkGQ3U6HVlVzN1OORoMDul_Tbo6362GFIp7DJn3pbt7-o6CKVOMQ&usqp=CAU"
+  ],
+  "categories": [
+    "उर्वरक",
+    "जैविक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "इकोहार्वेस्ट",
+  "weight": 5.6,
+  "features": [
+    "आश्चर्यजनक जैविक मिश्रण",
+    "माइक्रोबायोम की गतिविधि बढ़ाता है",
+    "सतत कृषि को प्रोत्साहित करता है",
+    "विभिन्न भारतीय फसलों के लिए अनुकूल"
+  ]
+}
+
+```json
+{
+  "productId": "PROD-FERT011",
+  "name": "ग्रीनग्रूव इकोबूस्ट",
+  "description": "एक सतत इको-बूस्ट उर्वरक जो भारतीय कृषि के लिए बनाया गया है, जो इको-मित्र कृषि प्रथाओं को बढ़ावा देता है और उच्च पैदावार सुनिश्चित करता है।",
+  "type": "उर्वरक",
+  "price": 559.99,
+  "originalPrice": 899.99,
+  "rating": 4.6,
+  "remainingQuantity": 175,
+  "totalSold": 140,
+  "inStock": true,
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/4/298321860/RZ/WY/NS/3508748/whatsapp-image-2023-04-06-at-10-27-00-am-14--500x500.jpeg",
+    "https://5.imimg.com/data5/BU/UW/MY-9013318/smart-phose-organic-fertilizers-500x500.jpg"
+  ],
+  "categories": [
+    "उर्वरक",
+    "सतत",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "इकोग्रो",
+  "weight": 5.7,
+  "features": [
+    "सतत कृषि",
+    "इको-मित्र संरचना",
+    "जल संरक्षण को बढ़ावा देता है",
+    "भारतीय फसलों के लिए तैयार"
+  ]
+}
+
+{
+  "productId": "PROD-FERT012",
+  "name": "हेरिटेजहार्वेस्ट ट्रेडीशनल मिक्स",
+  "description": "पारंपरिक भारतीय कृषि विधियों से प्रेरित एक उर्वरक, जो समयहीन कृषि के लिए धरोहर युक्त सामग्री से मिट्टी को समृद्धि प्रदान करता है।",
+  "type": "उर्वरक",
+  "price": 489.99,
+  "originalPrice": 799.99,
+  "rating": 4.5,
+  "remainingQuantity": 190,
+  "totalSold": 150,
+  "inStock": true,
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2022/5/QU/JP/ZS/45561115/yhyhy-500x500.jpg",
+    "https://cpimg.tistatic.com/06327924/b/4/Subriddhi-Neem-Organic-Fertilizer.jpg"
+  ],
+  "categories": [
+    "उर्वरक",
+    "पारंपरिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "हेरिटेजग्रो",
+  "weight": 5.4,
+  "features": [
+    "पारंपरिक कृषि मिश्रण",
+    "धरोहर सामग्री से भरपूर",
+    "फसल विविधता को बढ़ावा देता है",
+    "भारतीय जलवायु के लिए अनुकूल"
+  ]
+}
+
+{
+  "productId": "PROD-FERT013",
+  "name": "एग्रीटेक स्मार्टग्रो फॉर्म्यूला",
+  "description": "प्रेसिजन फार्मिंग के लिए कटिंग-एज
+
+ तकनीक का उपयोग करने वाला एक बुद्धिमान उर्वरक, जो भारतीय फसलों के लिए शानदार विकास सुनिश्चित करता है।",
+  "type": "उर्वरक",
+  "price": 609.99,
+  "originalPrice": 999.99,
+  "rating": 4.8,
+  "remainingQuantity": 160,
+  "totalSold": 170,
+  "inStock": true,
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/10/356411635/TB/CU/TL/11804202/organic-fertilizer-500x500.webp",
+    "https://5.imimg.com/data5/SELLER/Default/2021/1/AS/OJ/YD/27084808/fertilizer-500x500.jpeg"
+  ],
+  "categories": [
+    "उर्वरक",
+    "स्मार्ट",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "टेकहार्वेस्ट",
+  "weight": 5.9,
+  "features": [
+    "स्मार्ट फार्मिंग तकनीक",
+    "प्रेसिजन पोषण वितरण",
+    "आईओटी-सक्षम मॉनिटरिंग",
+    "भारतीय कृषि के लिए तैयार"
+  ]
+}
+
+{
+  "productId": "PROD-FERT014",
+  "name": "बायोनोरिश ग्रीनगार्ड",
+  "description": "एक बायो-पौधिक उर्वरक जिसमें हरित कवच है, भारतीय फसलों को पर्यावरणीय तनाव से सुरक्षित रखने और संचित विकास सुनिश्चित करने के लिए।",
+  "type": "उर्वरक",
+  "price": 529.99,
+  "originalPrice": 869.99,
+  "rating": 4.7,
+  "remainingQuantity": 180,
+  "totalSold": 160,
+  "inStock": true,
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/9/347896633/HP/IG/XR/4785906/organic-granular-fertilizer-500x500.png",
+    "https://sikrifarms.com/pub/media/catalog/product/cache/a449a70becc9467bda3937d4c9ad4f06/5/0/50-kg-bag-fromt-600-x-609.jpg"
+  ],
+  "categories": [
+    "उर्वरक",
+    "बायोनरिश",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "बायोशील्ड",
+  "weight": 5.5,
+  "features": [
+    "बायो-पौधिक तकनीक",
+    "हरित कवच सुरक्षा",
+    "तनाव के खिलाफ सहिष्णुता",
+    "भारतीय फसलों के लिए तैयार"
+  ]
+}
+
+{
+  "productId": "PROD-FERT015",
+  "name": "आक्वाग्रो हाइड्रोब्लेंड",
+  "description": "भारतीय हाइड्रोपोनिक खेती के लिए डिज़ाइन किया गया हाइड्रोपोनिक-मित्र उर्वरक में, जो आदर्श पौधिक विकास के लिए पोषण समृद्धि सुनिश्चित करता है।",
+  "type": "उर्वरक",
+  "price": 579.99,
+  "originalPrice": 939.99,
+  "rating": 4.6,
+  "remainingQuantity": 170,
+  "totalSold": 140,
+  "inStock": true,
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/6/320905535/YQ/UB/VI/189534960/1-kg-organic-fertilizers-manure.jpeg",
+    "https://farmerspride.in/wp-content/uploads/2022/08/Organic-Fertilizer.jpeg"
+  ],
+  "categories": [
+    "उर्वरक",
+    "हाइड्रोपोनिक",
+    "भारतीय दृष्टिकोण"
+  ],
+  "brand": "आक्वाग्रो",
+  "weight": 5.6,
+  "features": [
+    "हाइड्रोपोनिक-मित्र सूत्र",
+    "अनुकूलित पोषण समाधान",
+    "वृद्धि से पहले विकास को बढ़ावा देता है",
+    "भारतीय हाइड्रोपोनिक्स के लिए तैयार
+
+"
+  ]
+}
+
+{
+    "productId": "PROD-FERT016",
+    "name": "एवरग्रीन नीमगार्ड",
+    "description": "नीम-संबंधित उर्वरक, भारतीय फसलों के लिए प्राकृतिक कीट प्रतिरक्षा प्रदान करता है, सुनिश्चित करता है कि सततता को कमी किए बिना विकास हो।",
+    "type": "उर्वरक",
+    "price": 499.99,
+    "originalPrice": 819.99,
+    "rating": 4.5,
+    "remainingQuantity": 185,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/6/319527430/AG/HF/ZU/4401531/rich-fertilizer-organic-fertilizer.png",
+      "https://www.google.com/search?q=fertilizer+packets+hd+images&tbm=isch&hl=en-GB&chips=q:fertilizer+packets+hd+images,online_chips:organic+fertilizers:LPq3jj5Leaw%3D&client=opera-gx&hs=stk&sa=X&ved=2ahUKEwjwxZuf64mDAxW09qACHaHpAbcQ4VYoAHoECAEQMw&biw=712&bih=738#imgrc=a4qt9-QTtPiXlM"
+    ],
+    "categories": [
+      "उर्वरक",
+      "नीम",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "ग्रीनगार्डियन",
+    "weight": 5.3,
+    "features": [
+      "नीम-संबंधित सुरक्षा",
+      "प्राकृतिक कीट प्रतिरोधी",
+      "सतत कृषि संवर्धन",
+      "भारतीय कृषि के लिए तैयार"
+    ]
+  }
+  
+  {
+    "productId": "PROD-FERT017",
+    "name": "बायोहार्वेस्ट फिशरमन्स ब्लेंड",
+    "description": "फिश इमल्शन से समृद्धित एक जैविक उर्वरक, जो भारतीय खेतों को समृद्धित पौधिक पोषण के लिए समुद्र की धनीता लाता है।",
+    "type": "उर्वरक",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/ANDROID/Default/2022/12/MR/CK/FV/26431983/product-jpeg-500x500.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2022/7/NZ/OO/AH/92237930/--500x500.jpg"
+    ],
+    "categories": [
+      "उर्वरक",
+      "जैविक",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "सीहार्वेस्ट",
+    "weight": 5.5,
+    "features": [
+      "जैविक मत्स्य इमल्शन",
+      "समुद्र-समृद्धि पोषण",
+      "लुश प्लांट ग्रोथ को प्रोत्साहित करता है",
+      "भारतीय फसलों के लिए तैयार"
+    ]
+  }
+  
+  {
+    "productId": "PROD-FERT018",
+    "name": "ग्रीनगार्ड रेनफ़ॉरेस्ट ब्लेंड",
+    "description": "भारतीय कृषि के लिए एक वर्षावन्य-प्रेरित उर्वरक मिश्रण, कृषि प्रथाओं में जैव विविधता और सततता को प्रोत्साहित करता है।",
+    "type": "उर्वरक",
+    "price": 569.99,
+    "originalPrice": 929.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZQDYGchUwF8zfYAcyEF6XsHAU2iEVxYtzA&usqp=CAU",
+      "https://5.imimg.com/data5/SELLER/Default/2023/1/XU/TX/DR/103282088/15kg-organic-vermicompost-fertilizer-500x500.jpeg"
+    ],
+    "categories": [
+      "उर्वरक",
+      "सतत",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "रेनहार्वेस्ट",
+    "weight":
+  
+   5.7,
+    "features": [
+      "वन्यजन्य-प्रेरित मिश्रण",
+      "बायोडाइवर्सिटी प्रमोशन",
+      "सतत कृषि",
+      "भारतीय जलवायु के अनुकूल"
+    ]
+  }
+  
+  {
+    "productId": "PROD-FERT019",
+    "name": "एग्रीबूस्ट सोलरब्लेंड",
+    "description": "भारतीय खेतों के लिए डिज़ाइन किया गया सोलर-पावर्ड उर्वरक, सूरज के शक्ति का उपयोग करके पोषण और पौध संवर्धन को बढ़ावा देने के लिए।",
+    "type": "उर्वरक",
+    "price": 589.99,
+    "originalPrice": 959.99,
+    "rating": 4.8,
+    "remainingQuantity": 165,
+    "totalSold": 135,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZtPxVViHPRVQ7rW9Ta9Jc_QG8HpSPwvhyw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwKqtJ-Ue-ujOw2-k4_9J08AsHiKT5DRzARw&usqp=CAU"
+    ],
+    "categories": [
+      "उर्वरक",
+      "सोलर",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "सोलरएग्रो",
+    "weight": 5.8,
+    "features": [
+      "सोलर-पावर्ड पोषण मुक्ति",
+      "ऊर्जा-कुशल कृषि",
+      "अनुकूलित पोषण अवशोषण",
+      "भारतीय कृषि के लिए तैयार"
+    ]
+  }
+  
+  {
+    "productId": "PROD-FERT020",
+    "name": "इकोहार्वेस्ट रेनवॉटर मिक्स",
+    "description": "भारतीय खेतों के लिए बारिश का पानी एकत्र करने वाले उर्वरक मिश्रण, पानी की बचत और पौधों को सतत रूप से पोषित करने के लिए इको-मित्र प्रयोगों का उपयोग करता है।",
+    "type": "उर्वरक",
+    "price": 519.99,
+    "originalPrice": 849.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://cpimg.tistatic.com/08338104/b/5/Mahashakti-Organic-Fertilizers.jpeg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuZEcBay1-fy3zUDHtZoDVwlQs49JnAD4RA&usqp=CAU"
+    ],
+    "categories": [
+      "उर्वरक",
+      "इको-मित्र",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "इकोरेन",
+    "weight": 5.4,
+    "features": [
+      "बारिश से एकत्र किए गए पोषण",
+      "जल संरक्षण",
+      "सतत कृषि प्रोत्साहन",
+      "भारतीय फसलों के लिए अनुकूल"
+    ]
+  }
+
+  {
+    "productId": "PROD-FERT021",
+    "name": "आयुरटेक बायोएक्टिव मिक्स",
+    "description": "आयुर्वेदिक तत्वों से युक्त एक प्रगतिशील बायोएक्टिव उर्वरक, भारतीय फसलों के लिए समृद्धि पूर्ण पोषण प्रदान करता है।",
+    "type": "उर्वरक",
+    "price": 559.99,
+    "originalPrice": 909.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://agribegri.com/productimage/620fa82e3914a06fc26e303ce81916be-08-16-23-19-06-39.jpg",
+      "https://static.wixstatic.com/media/4d11a1_c7567fd62e6341079f76923773390c7a~mv2.jpg/v1/fill/w_520,h_520,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4d11a1_c7567fd62e6341079f76923773390c7a~mv2.jpg"
+    ],
+    "categories": [
+      "उर्वरक",
+      "आयुर्वेदिक",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "आयुरटेक",
+    "weight": 5.6,
+    "features": [
+      "प्रगतिशील बायोएक्टिव सूत्र",
+      "आयुर्वेदिक-संबंधित पोषण",
+      "समृद्धि पूर्ण पोषण",
+      "भारतीय कृषि के लिए तैयार"
+    ]
+  }
+  
+  {
+    "productId": "PROD-FERT022",
+    "name": "आर्गेनिकरूट्स एग्रोब्लेंड",
+    "description": "पारंपरिक भारतीय जड़ी बूटी से समृद्धित एक जैविक मिश्रण, मजबूत और स्वस्थ पौधों के लिए गहरे जड़ों के विकास को बढ़ावा देता है।",
+    "type": "उर्वरक",
+    "price": 529.99,
+    "originalPrice": 869.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2022/9/JH/UQ/PV/41709153/amino-based-nourish-500x500.png",
+      "https://5.imimg.com/data5/SELLER/Default/2022/4/ZW/EK/PA/34115278/npk-water-soluble-fertilizer-500x500.jpg"
+    ],
+    "categories": [
+      "उर्वरक",
+      "जैविक",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "रूटहार्वेस्ट",
+    "weight": 5.5,
+    "features": [
+      "जड़ निकालों से समृद्ध",
+      "गहरे जड़ विकास",
+      "पौध प्रतिरोध को प्रोत्साहित करता है",
+      "भारतीय मिट्टी के लिए तैयार"
+    ]
+  }
+  
+  {
+    "productId": "PROD-FERT023",
+    "name": "एग्रोवेडा हर्बल एलिक्सिर",
+    "description": "प्राचीन भारतीय कृषि ज्ञान से प्रेरित एक हर्बल एलिक्सिर उर्वरक, पौधों में प्राकृतिक विकास और पुनर्जीवन को बढ़ावा देता है।",
+    "type": "उर्वरक",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 185,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8QD7jXCf_Wgnbe9bRsgjdguP0Z3L2_MHqw&usqp=CAU",
+      "https://5.imimg.com/data5/SELLER/Default/2020/12/MF/FH/VH/61864025/suryaphool-zincated-2-500x500.jpg"
+    ],
+    "categories": [
+      "उर्वरक",
+      "हर्बल",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "वेदग्रो",
+    "weight": 
+  
+  5.4,
+    "features": [
+      "हर्बल एलिक्सिर रचना",
+      "प्राचीन कृषि ज्ञान",
+      "प्राकृतिक जीवनशक्ति को प्रोत्साहित करता है",
+      "भारतीय फसलों के लिए तैयार"
+    ]
+  }
+  
+  {
+    "productId": "PROD-FERT024",
+    "name": "टेकएग्रो स्मार्टरिलीज",
+    "description": "विकल्पित पोषण वितरण के लिए तकनीक का उपयोग करने वाला स्मार्ट-रिलीज उर्वरक, भारतीय खेतों में आदर्श पौध पोषण सुनिश्चित करता है।",
+    "type": "उर्वरक",
+    "price": 579.99,
+    "originalPrice": 939.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+      "https://ariesagro.com/wp-content/uploads/2022/11/Chelamin-Gold.png",
+      "https://www.agritell.com/cdn/shop/products/Untitled_52610b5b-e7fa-408c-be6a-1b97fb16ef8d.jpg?v=1642339551"
+    ],
+    "categories": [
+      "उर्वरक",
+      "स्मार्ट",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "स्मार्टएग्रीटेक",
+    "weight": 5.6,
+    "features": [
+      "स्मार्ट-रिलीज तकनीक",
+      "सुगम पोषण वितरण",
+      "भारतीय फसलों के लिए अनुकूलित",
+      "वृद्धिशील पोषण अवशोषण"
+    ]
+  }
+  
+  {
+    "productId": "PROD-FERT025",
+    "name": "ग्रीनग्रो हेरिटेज मिक्स",
+    "description": "एक परंपरागत उर्वरक मिश्रण जो सतत भारतीय जलवायु में सतत पौध विकास के लिए प्राचीन कृषि विधियों को जोड़ता है।",
+    "type": "उर्वरक",
+    "price": 509.99,
+    "originalPrice": 829.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+      "https://www.ghaggarbiotech.com/admin/assets/images/products/1628146270-ORganic-Manure.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZaMReiSDoXoxsFLqQZAXrg6k-5zk2Jug4Tg&usqp=CAU"
+    ],
+    "categories": [
+      "उर्वरक",
+      "परंपरागत",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "हेरिटेजग्रो",
+    "weight": 5.3,
+    "features": [
+      "परंपरागत मिश्रण",
+      "सतत कृषि विधियाँ",
+      "विविध भारतीय जलवायु के लिए अनुकूल",
+      "मिट्टी की उर्वरता को प्रोत्साहित करता है"
+    ]
+  }
+
+  {
+    "productId": "PROD-FERT026",
+    "name": "नेचरगार्ड वर्षा जल बूस्ट",
+    "description": "भारतीय फसलों के लिए जल संरक्षण और पोषण से भरपूर विकास को बढ़ावा देने वाले वर्षा-बढ़ाए उर्वरक, पर्यावरण-मित्रता के सिद्धांतों का पालन करते हुए।",
+    "type": "उर्वरक",
+    "price": 559.99,
+    "originalPrice": 909.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/6/320613440/CX/KW/LI/107596964/fertilizer-500x500.png",
+      "https://5.imimg.com/data5/KQ/IK/MY-998144/npk-fertilizer-20-20-00-500x500.png"
+    ],
+    "categories": [
+      "उर्वरक",
+      "पर्यावरण-मित्र",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "नेचरबूस्ट",
+    "weight": 5.5,
+    "features": [
+      "वर्षा-बढ़ाए पोषण",
+      "जल संरक्षण",
+      "पर्यावरण-मित्र कृषि",
+      "भारतीय कृषि के लिए अनुकूलित"
+    ]
+  }
+  
+  {
+    "productId": "PROD-FERT027",
+    "name": "वाइब्रेंटफील्ड्स कलरब्लेंड",
+    "description": "भारतीय खेतों में पौध जीवंतता और सौंदर्य को बढ़ावा देने वाले रंगीन पोषण मिश्रण, विकास के साथ ही दृश्य सौंदर्य को भी बढ़ावा देते हैं।",
+    "type": "उर्वरक",
+    "price": 579.99,
+    "originalPrice": 949.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+      "https://5.imimg.com/data5/SELLER/Default/2021/9/DJ/PF/TR/37951367/icl-fertilizers-500x500.jpeg",
+      "https://5.imimg.com/data5/OE/ST/MY-998144/chemical-npk-fertilizer-500x500.png"
+    ],
+    "categories": [
+      "उर्वरक",
+      "सौंदर्यिक",
+      "भारतीय दृष्टिकोण"
+    ],
+    "brand": "कलरहार्वेस्ट",
+    "weight": 5.6,
+    "features": [
+      "जीवंत पोषण मिश्रण",
+      "पौध सौंदर्य को बढ़ावा देता है",
+      "भारतीय फसलों के लिए अनुकूलित",
+      "कुल मिलाकर क्षेत्र की जीवंतता को बढ़ावा देता है"
+    ]
+  }
+  
+  Here is the provided JSON code translated into Hindi:
+
+  ```json
+  {
+      "productId": "PROD-FERT028",
+      "name": "BioSustain GreenGuard",
+      "description": "भारतीय फसलों के लिए हरित ढाँचे वाला बायो-सस्टेनेबल उर्वरक, जो सुनिश्चित करता है कि वृद्धि और पर्यावरण संरक्षण दोनों हों।",
+      "type": "उर्वरक",
+      "price": 549.99,
+      "originalPrice": 899.99,
+      "rating": 4.6,
+      "remainingQuantity": 180,
+      "totalSold": 150,
+      "inStock": true,
+      "images": [
+          "https://5.imimg.com/data5/SELLER/Default/2022/1/HD/ON/MT/145400703/urea-n46.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WiUlA4h1iU-GVznKTDVmOclvaS-RNuAQEBXJK58_s8PoyrDt0z7DSSBhLP4t3iCLCI&usqp=CAU"
+      ],
+      "categories": [
+          "उर्वरक",
+          "बायो-सस्टेनेबल",
+          "भारतीय दृष्टिकोण"
+      ],
+      "brand": "EcoBioGuard",
+      "weight": 5.5,
+      "features": [
+          "बायो-सस्टेनेबल प्रौद्योगिकी",
+          "हरित ढाँचा संरक्षण",
+          "पारिस्थितिकी स्वास्थ्य का संतुलन",
+          "भारतीय कृषि के लिए तैयार"
+      ]
+  }
+  
+  {
+      "productId": "PROD-FERT029",
+      "name": "HydroHarvest AquaBlend",
+      "description": "हाइड्रोपोनिक-मित्र पोषण मिश्रण जो भारतीय हाइड्रोपोनिक प्रणालियों में कुशल पोषण वितरण के लिए डिज़ाइन किया गया है, जल संबंधित तत्वों से समृद्धि के लिए।",
+      "type": "उर्वरक",
+      "price": 599.99,
+      "originalPrice": 969.99,
+      "rating": 4.8,
+      "remainingQuantity": 170,
+      "totalSold": 135,
+      "inStock": true,
+      "images": [
+          "https://tiimg.tistatic.com/fp/1/007/772/highly-effective-kribhco-urea-fertilizer-urea-use-for-agriculture-packaging-size-50-kg-737.jpg",
+          "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F766%2Futtam-neem-urea-for-agriculture-use-405.jpg&w=750&q=75"
+      ],
+      "categories": [
+          "उर्वरक",
+          "हाइड्रोपोनिक",
+          "भारतीय दृष्टिकोण"
+      ],
+      "brand": "AquaHarvest",
+      "weight": 5.7,
+      "features": [
+          "हाइड्रोपोनिक-मित्र सूत्र",
+          "अनुकूलित पोषण समाधान",
+          "जड़ों के विकास को प्रोत्साहित करता है",
+          "भारतीय हाइड्रोपोनिक्स के लिए तैयार"
+      ]
+  }
+  
+  {
+      "productId": "PROD-FERT030",
+      "name": "EverGreen Greenhouse Mix",
+      "description": "हरितशाला-मित्र पोषण मिश्रण जो नियंत्रित पर्यावरणों के लिए बनाया गया है, भारतीय फसलों के लिए शानदार वृद्धि सुनिश्चित करता है।",
+      "type": "उर्वरक",
+      "price": 519.99,
+      "originalPrice": 849.99,
+      "rating": 4.5,
+      "remainingQuantity": 190,
+      "totalSold": 155,
+      "inStock": true,
+      "images": [
+          "https://images.jdmagicbox.com/quickquotes/images_main/sardar-fertilizers-and-soil-additives-05-03-2021-1-222868656-6ups8.jpg",
+          "https://tiimg.tistatic.com/fp/1/007/481/100-pure-kribhco-urea-fertilizers-n-46-percent-for-agriculture-purpose-use-328.jpg"
+      ],
+      "categories": [
+          "उर्वरक",
+          "हरितशाला",
+          "भारतीय दृष्टिकोण"
+      ],
+      "brand": "GreenhouseGuard",
+      "weight": 5.4,
+      "features": [
+          "हरितशाला-म
+  
+  ित्र मिश्रण",
+          "नियंत्रित पर्यावरण समर्थन",
+          "भारतीय हरितशाला फसलों के लिए तैयार",
+          "नियंत्रित वृद्धि को प्रोत्साहित करता है"
+      ]
+  }
+  
+  {
+    "productId": "PROD-FERT031",
+    "name": "AgroVibe SolarBoost",
+    "description": "सोलर-चालित उर्वरक जो भारतीय फसलों के लिए पोषण सोखने में सहारा प्रदान करता है, जो सतत प्रयासों को पूर्ण करता है और प्रगतिशील कृषि प्रौद्योगिकी के साथ जोड़ता है।",
+    "type": "उर्वरक",
+    "price": 589.99,
+    "originalPrice": 959.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+        "https://m.media-amazon.com/images/I/61zEK5s-LyL._AC_UF1000,1000_QL80_.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/9/347877748/AB/JF/KX/5483635/bio-dap-soil-coated-potassium-fertilizer-conditioner-500x500.jpg"
+    ],
+    "categories": [
+        "उर्वरक",
+        "सोलर",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "SolarVibe",
+    "weight": 5.6,
+    "features": [
+        "सोलर-चालित पोषण सोखना",
+        "ऊर्जा-कुशल कृषि",
+        "भारतीय फसलों के लिए अनुकूलित",
+        "परिमाणित पोषण उपलब्धता"
+    ]
+}
+
+{
+    "productId": "PROD-FERT032",
+    "name": "TerraRoots RicePaddy Blend",
+    "description": "भारतीय चावल खेतों के लिए अनुकूलित उर्वरक मिश्रण, मजबूत चावल मान के लिए भूमि की स्थिति और पोषण वितरण को शानदार बनाए रखने के लिए।",
+    "type": "उर्वरक",
+    "price": 529.99,
+    "originalPrice": 869.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/DO/MU/MY-40550819/agricultural-fertilizer.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/3/295080011/AZ/TQ/DX/123527412/bhoomi-power-12-kg-1-.jpg"
+    ],
+    "categories": [
+        "उर्वरक",
+        "चावल-खेत",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "RiceRoots",
+    "weight": 5.5,
+    "features": [
+        "चावल-खेतों के लिए अनुकूलित",
+        "भूमि की स्थिति को अनुकूलित करता है",
+        "मजबूत चावल मान को प्रोत्साहित करता है",
+        "भारतीय चावल प्रजातियों के लिए अनुकूलित"
+    ]
+}
+
+{
+    "productId": "PROD-FERT033",
+    "name": "बायोआक्वाटेक एल्गीबूस्ट",
+    "description": "नवाचारी औरा-संपन्न उर्वरक जो भारतीय खेतों में सतत कृषि को बढ़ावा देता है, जीवनु की शक्ति का उपयोग पोषण समृद्धि के लिए।",
+    "type": "उर्वरक",
+    "price": 559.99,
+    "originalPrice": 909.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/6/319516804/VZ/ER/FJ/4401531/tulsi-fertilizer-500x500.png",
+        "https://www.google.com/search?q=fertilizer+product+packet+hd+images&tbm=isch&hl=en-GB&chips=q:fertilizer+product+packet+hd+images,online_chips:plant+fertilizer:oUvSGUbIH9o%3D&bih=738&biw=712&client=opera-gx&hs=stk&sa=X&ved=2ahUKEwiI2ZC17omDAxUAcmwGHTJgB0oQ4VYoAHoECAEQMw#imgrc=1w5ijKp5h4uZcM"
+    ],
+    "categories": [
+        "उर्वरक",
+        "औरा",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "AlgaeHarvest",
+    "weight": 5.6,
+    "features": [
+        "औरा-संपन्न प्रौद्योगिकी",
+        "सतत कृषि",
+        "अनुकूलित पोषण अवशोषण",
+        "भारतीय फसलों के लिए अनुकूलित"
+    ]
+}
+
+{
+    "productId": "PROD-FERT034",
+    "name": "एवरग्रीन ऑर्किडब्लूम मिक्स",
+    "description": "भारतीय ऑर्किड के लिए विशेषज्ञ उर्वरक मिश्रण, जो भव्य और स्वस्थ ऑर्किड खिलाने के लिए पोषण का सूक्ष्म संतुलन प्रदान करता है।",
+    "type": "उर्वरक",
+    "price": 499.99,
+    "originalPrice": 819.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/7/325992805/HL/VY/YN/144293304/dap-fertilizer-for-plants-and-gardenin.webg",
+        "https://images.meesho.com/images/products/292788897/sofkh_128.webp"
+    ],
+    "categories": [
+        "उर्वरक",
+        "ऑर्किड",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "OrchidHarvest",
+    "weight": 5.3,
+    "features": [
+        "ऑर्किड के लिए विशेषज्ञ",
+        "विविध खिलाने को प्रोत्साहित करता है",
+        "अनुकूलित पोषण संतुलन",
+        "ऑर्किड स्वास्थ्य को बढ़ावा देता है"
+    ]
+}
+
+Here is the provided JSON code translated into Hindi:
+
+```json
+{
+    "productId": "PROD-FERT035",
+    "name": "GreenGuard DesertBlend",
+    "description": "रेतीले भारतीय क्षेत्रों के लिए उर्वरक मिश्रण, जलवायु और जल संसाधन की बचत करते हुए सतत कृषि को बढ़ावा देने वाला है।",
+    "type": "उर्वरक",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://plantogallery.com/cdn/shop/products/dap_1024x1024.jpg?v=1623691935",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-FJMkPE7peNZI7oD9riZdZfoGHqTqxqk3oQU0-qiW1LVk6cWJKJ438ucPeA-8iewtD4&usqp=CAU"
+    ],
+    "categories": [
+        "उर्वरक",
+        "रेतीला",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "डेजर्टगार्ड",
+    "weight": 5.5,
+    "features": [
+        "रेतीले क्षेत्रों के लिए अनुकूलित",
+        "सतत डेजर्ट कृषि",
+        "जल संरक्षण सूत्र",
+        "भारतीय डेजर्ट किस्मों के लिए अनुकूलित"
+    ]
+}
+
+{
+    "productId": "PROD-FERT036",
+    "name": "टेकहार्वेस्ट प्रेसिजनमिक्स",
+    "description": "निर्दिष्ट पोषण वितरण के लिए उन्नत प्रौद्योगिकी का उपयोग करने वाला प्रेसिजन उर्वरक मिश्रण, भारतीय फसलों के लिए आदर्श विकास सुनिश्चित करता है।",
+    "type": "उर्वरक",
+    "price": 579.99,
+    "originalPrice": 949.99,
+    "rating": 4.8,
+    "remainingQuantity": 175,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2020-07/NPS-20-20-0-13.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/7/321873364/XJ/LQ/TL/84347278/agricultural-dap-fertilizer.jpg"
+    ],
+    "categories": [
+        "उर्वरक",
+        "प्रेसिजन",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "प्रेसिजनहार्वेस्ट",
+    "weight": 5.6,
+    "features": [
+        "पूर्वानुमान पोषण वितरण",
+        "उन्नत कृषि प्रौद्योगिकी",
+        "भारतीय फसलों के लिए अनुकूलित",
+        "पोषण अवशोषण को बढ़ावा देता है"
+    ]
+}
+
+{
+    "productId": "PROD-FERT037",
+    "name": "एग्रोवाइब आयुरब्लेंड",
+    "description": "आयुर्वेद से प्रेरित उर्वरक मिश्रण, पारंपरिक जड़ों से युक्त, भारतीय फसलों के लिए समृद्धि प्रोत्साहित करता है।",
+    "type": "उर्वरक",
+    "price": 559.99,
+    "originalPrice": 919.99,
+    "rating": 4.7,
+    "remainingQuantity": 170,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+        "https://www.coromandel.biz/wp-content/uploads/2021/06/dap-1.png",
+        "https://www.coromandel.biz/wp-content/uploads/2021/06/10-26-
+
+26-Zn-Featured.png"
+    ],
+    "categories": [
+        "उर्वरक",
+        "आयुर्वेदिक",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "आयुरवाइब",
+    "weight": 5.5,
+    "features": [
+        "आयुर्वेदिक हर्बल इन्फ्यूजन",
+        "समृद्धि प्रोत्साहन कृषि",
+        "प्राचीन हर्बल ज्ञान",
+        "भारतीय कृषि के लिए अनुकूलित"
+    ]
+}
+
+{
+    "productId": "PROD-FERT038",
+    "name": "ग्रीनहार्बर सीमिनरल मिक्स",
+    "description": "भारतीय तटीय कृषि के लिए सीमिनरल से समृद्धित उर्वरक मिश्रण, समुद्र की शक्ति को पोषणशील और सहीता से फसलों के लिए उपयोग करता है।",
+    "type": "उर्वरक",
+    "price": 589.99,
+    "originalPrice": 959.99,
+    "rating": 4.8,
+    "remainingQuantity": 165,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://m.media-amazon.com/images/I/71L+nPKP00L.jpg",
+        "https://img3.exportersindia.com/product_images/bc-full/2020/5/4091139/npk-fertilizer-1589954563-5442083.jpeg"
+    ],
+    "categories": [
+        "उर्वरक",
+        "सीमिनरल",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "सीहार्बर",
+    "weight": 5.7,
+    "features": [
+        "सीमिनरल से समृद्धित मिश्रण",
+        "तटीय कृषि समर्थन",
+        "फसल की सहीता को प्रोत्साहित करता है",
+        "भारतीय तटीय किस्मों के लिए अनुकूलित"
+    ]
+}
+
+{
+    "productId": "PROD-FERT039",
+    "name": "नेचरबूस्ट हिमालयनब्लेंड",
+    "description": "भारतीय उच्च ऊर्जा कृषि के लिए हिमालय से प्रेरित उर्वरक मिश्रण, चुनौतीपूर्ण भू-स्थितियों के लिए फसलों के लिए विशेष पोषण प्रदान करता है।",
+    "type": "उर्वरक",
+    "price": 519.99,
+    "originalPrice": 849.99,
+    "rating": 4.6,
+    "remainingQuantity": 185,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbeMgAlISpNsAx_FdlSW2rMsjNw_qWf-SXsw&usqp=CAU",
+        "https://images.jdmagicbox.com/quickquotes/images_main/calsiphos-organic-agriculture-fertilizer-22-01-2021-600-220042331-eafzj.png"
+    ],
+    "categories": [
+        "उर्वरक",
+        "हिमालयी",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "हिमालयाबूस्ट",
+    "weight": 5.4,
+    "features": [
+        "हिमालय से प्रेरित मिश्रण",
+        "उच्च ऊर्जा कृषि के लिए विशेष पोषण",
+        "चुनौतीपूर्ण भू-स्थितियों के लिए अनुकूलित",
+        "फसल की सहीता को प्रोत्साहित करता है"
+    ]
+}
+
+{
+    "productId": "PROD-FERT040",
+    "name": "बायोटेक नैनोन्यूट्रिएंट मिक्स",
+    "description": "कुशल बायोतेक्नोलॉजी का उपयोग करने वाला नैनो-पोषण उर्वरक, कुशल पोषण अवशोषण सुनिश्चित करने के लिए, भारतीय फसलों के लिए आदर्श विकास सुनिश्चित करता है।",
+    "type": "उर्वरक",
+    "price
+
+": 579.99,
+    "originalPrice": 939.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNIV_efDbXw_obVr8KtRoERHM-56B_aKnPJA&usqp=CAU",
+        "https://gogarden.co.in/cdn/shop/files/Go-Garden-NPK-20-20-20-Water-Soluble-Fertilizer-for-Plants-Growth-Fertilizer-for-Home-Plants-100-Water-Soluble-1-600x600.jpg?v=1684151891"
+    ],
+    "categories": [
+        "उर्वरक",
+        "नैनो-पोषण",
+        "भारतीय दृष्टिकोण"
+    ],
+    "brand": "नैनोहार्वेस्ट",
+    "weight": 5.6,
+    "features": [
+        "उन्नत नैनो-पोषण प्रौद्योगिकी",
+        "कुशल पोषण अवशोषण",
+        "भारतीय फसलों के लिए अनुकूलित",
+        "सूक्ष्म स्तर पर वृद्धि को बढ़ावा देता है"
+    ]
+}
