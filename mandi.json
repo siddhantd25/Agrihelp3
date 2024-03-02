@@ -1,0 +1,1184 @@
+{
+    "productId": "PROD-RC001",
+    "name": "Basmati Rice",
+    "description": "long grain aromatic rice grown for many centuries in a specific geographical area, in the Himalayan foothills of the Indian sub-continent",
+    "type": "Rice",
+    "price": 24000,
+    "originalPrice": 25000,
+    "rating": 4.5,
+    "remainingQuantity": 5000,
+    "OwnerName":"Mr. Bhupesh Kumar",
+    "inStock": true,
+    "images": [
+        "https://c8.alamy.com/comp/DWRAP7/white-uncooked-basmati-rice-in-burlap-bag-DWRAP7.jpg"
+    ],
+    "categories": [
+        "seeds",
+        "grains",
+        "maize"
+    ],
+    "brand": "Harvest Haven",
+    "weight": 10,
+    "features": [
+        "Non-GMO",
+        "High-yield",
+        "Suitable for diverse climates"
+    ]
+}
+
+{
+    "productId": "PROD-RC002",
+    "name": "Sona Masoori Rice",
+    "description": "short-grain, aromatic rice variety widely cultivated in the Indian states of Karnataka and Andhra Pradesh",
+    "type": "Rice",
+    "price": 18000,
+    "originalPrice": 19000,
+    "rating": 4.2,
+    "remainingQuantity": 8000,
+    "OwnerName": "Mrs. Ananya Sharma",
+    "inStock": true,
+    "images": [
+        "https://thumbs.dreamstime.com/z/rice-grain-22274736.jpg"
+    ],
+    "categories": [
+        "short-grain",
+        "aromatic",
+        "South Indian"
+    ],
+    "brand": "South Delight",
+    "weight": 5,
+    "features": [
+        "Ideal for daily cooking",
+        "Fragrant aroma",
+        "Rich in carbohydrates"
+    ]
+}
+
+{
+    "productId": "PROD-RC003",
+    "name": "Chawal Premium Basmati",
+    "description": "premium quality long-grain Basmati rice known for its exquisite aroma and taste",
+    "type": "Rice",
+    "price": 28000,
+    "originalPrice": 30000,
+    "rating": 4.8,
+    "remainingQuantity": 3500,
+    "OwnerName": "Mr. Rajeev Kapoor",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/153737841/photo/rice.webp?b=1&s=170667a&w=0&k=20&c=SF6Ks-8AYpbPTnZlGwNCbCFUh-0m3R5sM2hl-C5r_Xc="
+    ],
+    "categories": [
+        "premium",
+        "long-grain",
+        "Basmati"
+    ],
+    "brand": "Royal Grains",
+    "weight": 15,
+    "features": [
+        "Grown in the Himalayan foothills",
+        "Exceptional fragrance",
+        "Perfect for biryani"
+    ]
+}
+
+{
+    "productId": "PROD-RC004",
+    "name": "Jeera Samba Rice",
+    "description": "aromatic medium-grain rice with a unique cumin-like fragrance, popular in South Indian cuisine",
+    "type": "Rice",
+    "price": 22000,
+    "originalPrice": 23000,
+    "rating": 4.4,
+    "remainingQuantity": 6000,
+    "OwnerName": "Ms. Priya Patel",
+    "inStock": true,
+    "images": [
+        "https://img.freepik.com/premium-photo/stack-bags-rice-are-stacked-top-each-other_693425-1557.jpg"
+    ],
+    "categories": [
+        "medium-grain",
+        "aromatic",
+        "South Indian"
+    ],
+    "brand": "Spice Haven",
+    "weight": 8,
+    "features": [
+        "Distinct cumin-like aroma",
+        "Versatile for various dishes",
+        "Rich in fiber"
+    ]
+}
+
+{
+    "productId": "PROD-RC005",
+    "name": "Brown Basmati Rice",
+    "description": "nutrient-rich, long-grain Basmati rice with the outer bran layer intact, offering health benefits",
+    "type": "Rice",
+    "price": 26000,
+    "originalPrice": 27000,
+    "rating": 4.6,
+    "remainingQuantity": 4500,
+    "OwnerName": "Mr. Arjun Reddy",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwSkVU328IIjWlXS6a8wSvxhWsYQRcDlueOvymKu9kchRxoEMGlWTGIrONW8FXxzYC7c&usqp=CAU"
+    ],
+    "categories": [
+        "nutrient-rich",
+        "long-grain",
+        "Basmati"
+    ],
+    "brand": "Healthy Harvest",
+    "weight": 12,
+    "features": [
+        "High in fiber and minerals",
+        "Perfect for a healthy diet",
+        "Distinct nutty flavor"
+    ]
+}
+
+{
+    "productId": "PROD-RC006",
+    "name": "Joha Rice",
+    "description": "fragrant, short-grain rice variety native to the Assam region, known for its unique aroma and taste",
+    "type": "Rice",
+    "price": 20000,
+    "originalPrice": 21000,
+    "rating": 4.3,
+    "remainingQuantity": 7000,
+    "OwnerName": "Mrs. Aparna Das",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/1239196127/photo/rice-in-burlap-sack.jpg?s=612x612&w=0&k=20&c=fia__7tm0_BaQ8wTH3cwhwIL_NHyzL8Cz84PKb_nLT8="
+    ],
+    "categories": [
+        "fragrant",
+        "short-grain",
+        "Assam"
+    ],
+    "brand": "Assam Aroma",
+    "weight": 7,
+    "features": [
+        "Distinctive aroma",
+        "Culinary delight of Assam",
+        "Cooks to perfection"
+    ]
+}
+
+{
+    "productId": "PROD-RC007",
+    "name": "Kala Jeera Rice",
+    "description": "aromatic rice with small, black cumin seeds, offering a unique flavor and fragrance",
+    "type": "Rice",
+    "price": 24000,
+    "originalPrice": 25000,
+    "rating": 4.5,
+    "remainingQuantity": 5500,
+    "OwnerName": "Mr. Anand Verma",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQroOCbL31YiKtVDY7haCGl0UXB_hb6HcaXVvIisM9hinNMDYlvwxFDYxttOMV_B2UVk7g&usqp=CAU"
+    ],
+    "categories": [
+        "aromatic",
+        "black cumin",
+        "flavorful"
+    ],
+    "brand": "Spicy Delights",
+    "weight": 10,
+    "features": [
+        "Distinct black cumin flavor",
+        "Enhances the taste of dishes",
+        "Ideal for festive meals"
+    ]
+}
+
+{
+    "productId": "PROD-RC008",
+    "name": "Kohinoor Gold Rice",
+    "description": "premium quality, aged Basmati rice with a rich aroma and exceptional taste",
+    "type": "Rice",
+    "price": 30000,
+    "originalPrice": 32000,
+    "rating": 4.9,
+    "remainingQuantity": 3000,
+    "OwnerName": "Mrs. Nisha Gupta",
+    "inStock": true,
+    "images": [
+        "https://media.gettyimages.com/id/157476197/photo/thai-rice-for-sale-in-a-market.jpg?s=612x612&w=gi&k=20&c=KmRq4DYbAUZpVOxmLaDe-oFCYMF_l4yr7cWS6o6lyWw="
+    ],
+    "categories": [
+        "premium",
+        "aged",
+        "Basmati"
+    ],
+    "brand": "Golden Harvest",
+    "weight": 20,
+    "features": [
+        "Aged for optimum taste",
+        "Delicious aroma",
+        "Perfect for special occasions"
+    ]
+}
+
+{
+    "productId": "PROD-RC009",
+    "name": "Red Rice",
+    "description": "nutrient-dense, short-grain rice with a distinctive red color, known for its health benefits",
+    "type": "Rice",
+    "price": 21000,
+    "originalPrice": 22000,
+    "rating": 4.1,
+    "remainingQuantity": 6500,
+    "OwnerName": "Mr. Vikram Singh",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWUD6lrUGc6jUrqQ-gJ4tOpAnKpO_hHehRw&usqp=CAU"
+    ],
+    "categories": [
+        "nutrient-dense",
+        "short-grain",
+        "healthy"
+    ],
+    "brand": "NutriRich",
+    "weight": 8,
+    "features": [
+        "High in antioxidants",
+        "Promotes heart health",
+        "Distinctive nutty taste"
+    ]
+}
+
+{
+    "productId": "PROD-RC010",
+    "name": "Kolam Rice",
+    "description": "medium-grain rice variety popular in Southern India, known for its cooking versatility",
+    "type": "Rice",
+    "price": 19000,
+    "originalPrice": 20000,
+    "rating": 4.0,
+    "remainingQuantity": 7500,
+    "OwnerName": "Mr. Ravi Menon",
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/image-photo/landscape-inside-warehouse-white-color-260nw-1576133005.jpg"
+    ],
+    "categories": [
+        "medium-grain",
+        "Southern India",
+        "versatile"
+    ],
+    "brand": "Southern Delicacies",
+    "weight": 5,
+    "features": [
+        "Ideal for daily meals",
+        "Soft and fluffy texture",
+        "Suitable for various cuisines"
+    ]
+}
+
+{
+    "productId": "PROD-RC011",
+    "name": "Japonica Rice",
+    "description": "short-grain rice variety with a sticky texture, commonly used in Indian sushi and desserts",
+    "type": "Rice",
+    "price": 23000,
+    "originalPrice": 24000,
+    "rating": 4.7,
+    "remainingQuantity": 5000,
+    "OwnerName": "Ms. Sakura Patel",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/980705792/video/sacks-full-of-grains-in-burlap-bags.jpg?s=640x640&k=20&c=jhVTaVWIJNYbBnnp2nSpvOftJpVf7Kt76jD-BzYiEko="
+    ],
+    "categories": [
+        "short-grain",
+        "sticky",
+        "sushi"
+    ],
+    "brand": "Asian Flavors",
+    "weight": 7,
+    "features": [
+        "Perfect for sushi rolls",
+        "Great for desserts",
+        "Adds a unique texture to dishes"
+    ]
+}
+
+{
+    "productId": "PROD-WH001",
+    "name": "Whole Wheat",
+    "description": "Wheat is a grass that is widely grown for its seed, a cereal grain that is a common diet all over the world",
+    "type": "Wheat",
+    "price": 2500,
+    "originalPrice": 3000,
+    "rating": 4.5,
+    "remainingQuantity": 4000,
+    "OwnerName":"Mr. Yogesh Kumar",
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/image-photo/photo-wheat-grains-flour-on-260nw-340615100.jpg"
+    ],
+    "categories": [
+        "seeds",
+        "grains",
+        "maize"
+    ],
+    "brand": "Harvest Haven",
+    "weight": 10,
+    "features": [
+        "Non-GMO",
+        "High-yield",
+        "Suitable for diverse climates"
+    ]
+}
+
+{
+    "productId": "PROD-WH002",
+    "name": "Sharbati Wheat",
+    "description": "premium quality wheat with a fine texture, cultivated in the fertile plains of Haryana, known for its golden hue",
+    "type": "Wheat",
+    "price": 2800,
+    "originalPrice": 3200,
+    "rating": 4.7,
+    "remainingQuantity": 3500,
+    "OwnerName": "Mrs. Ritu Sharma",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGnc8ENV3aOTTWPJ8f4iQwbo3bGEvljDghoy7Lu2FP2-BMsX1HXh7L2eygxTKDl3b2Ro&usqp=CAU"
+    ],
+    "categories": [
+        "fine texture",
+        "premium",
+        "Haryana"
+    ],
+    "brand": "Golden Grains",
+    "weight": 5,
+    "features": [
+        "Soft and fluffy chapatis",
+        "Rich in fiber",
+        "Ideal for traditional Indian breads"
+    ]
+}
+
+
+{
+    "productId": "PROD-WH003",
+    "name": "Durum Wheat",
+    "description": "hard wheat variety with high protein content, perfect for making pasta and semolina-based dishes",
+    "type": "Wheat",
+    "price": 3200,
+    "originalPrice": 3500,
+    "rating": 4.4,
+    "remainingQuantity": 3000,
+    "OwnerName": "Mr. Sameer Kapoor",
+    "inStock": true,
+    "images": [
+        "https://t3.ftcdn.net/jpg/00/27/78/64/360_F_27786438_H7GXAHZLOs9qqVcCLLS17Es37AlagDan.jpg"
+    ],
+    "categories": [
+        "hard wheat",
+        "high protein",
+        "pasta"
+    ],
+    "brand": "Pasta Paradise",
+    "weight": 8,
+    "features": [
+        "Perfect for pasta making",
+        "High protein content",
+        "Versatile in the kitchen"
+    ]
+}
+
+
+{
+    "productId": "PROD-WH004",
+    "name": "Bansi Wheat",
+    "description": "medium-hard wheat variety commonly used in North Indian households, prized for its versatility",
+    "type": "Wheat",
+    "price": 2600,
+    "originalPrice": 2900,
+    "rating": 4.5,
+    "remainingQuantity": 4000,
+    "OwnerName": "Mrs. Preeti Verma",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNf92o_BvXwzspEhy9w3nsF8ubsBuDeHoNqWZlQUIlkIkHut7kjPK8GXT9_QaBtYNOfbE&usqp=CAU"
+    ],
+    "categories": [
+        "medium-hard",
+        "North Indian",
+        "versatile"
+    ],
+    "brand": "Kitchen King",
+    "weight": 10,
+    "features": [
+        "Perfect for chapatis",
+        "Balanced texture",
+        "A kitchen essential"
+    ]
+}
+
+{
+    "productId": "PROD-WH005",
+    "name": "Jau Wheat",
+    "description": "barley wheat blend, known for its nutty flavor and high fiber content, a healthy choice for conscious eaters",
+    "type": "Wheat",
+    "price": 3000,
+    "originalPrice": 3300,
+    "rating": 4.6,
+    "remainingQuantity": 3500,
+    "OwnerName": "Mr. Sunil Gupta",
+    "inStock": true,
+    "images": [
+        "https://media.gettyimages.com/id/184859692/photo/bag-with-wheat-xxxl.jpg?s=612x612&w=gi&k=20&c=7rr1nsMIqUXXoRo_bIa_nGM3ll7eiW4TPaQrCXT-ius="
+    ],
+    "categories": [
+        "barley blend",
+        "nutty flavor",
+        "high fiber"
+    ],
+    "brand": "Healthy Harvest",
+    "weight": 7,
+    "features": [
+        "Heart-healthy choice",
+        "Nutrient-rich",
+        "Balanced blend"
+    ]
+}
+
+{
+    "productId": "PROD-WH006",
+    "name": "Emmer Wheat",
+    "description": "ancient wheat variety with a rich history, known for its distinct flavor and nutritional benefits",
+    "type": "Wheat",
+    "price": 3400,
+    "originalPrice": 3600,
+    "rating": 4.8,
+    "remainingQuantity": 2500,
+    "OwnerName": "Mrs. Meera Joshi",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/165049808/photo/sack-of-grain-and-bread-on-the-background.jpg?s=612x612&w=0&k=20&c=J7-tT-xYZIenaIng5jtmvzUS9XioqtAUmep-JhqQzoQ="
+    ],
+    "categories": [
+        "ancient",
+        "distinct flavor",
+        "nutritional"
+    ],
+    "brand": "Heritage Grains",
+    "weight": 5,
+    "features": [
+        "Rich in antioxidants",
+        "Distinctive taste",
+        "Connect with ancient traditions"
+    ]
+}
+
+{
+    "productId": "PROD-WH007",
+    "name": "Arogya Wheat",
+    "description": "specially processed wheat with added health benefits, enriched with essential nutrients",
+    "type": "Wheat",
+    "price": 2800,
+    "originalPrice": 3100,
+    "rating": 4.3,
+    "remainingQuantity": 3000,
+    "OwnerName": "Mr. Sanjay Singh",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/518594513/photo/spelt-in-a-burlap-bag.jpg?s=612x612&w=0&k=20&c=P3lKcYvOIVqVrZ4LPMUAuA5-xM5or1a-P8ZY9QAnweQ="
+    ],
+    "categories": [
+        "processed",
+        "enriched",
+        "health"
+    ],
+    "brand": "Wellness Wheat",
+    "weight": 8,
+    "features": [
+        "Enriched with vitamins",
+        "Promotes overall well-being",
+        "A health-conscious choice"
+    ]
+}
+
+{
+    "productId": "PROD-WH008",
+    "name": "Lokwan Wheat",
+    "description": "indigenous wheat variety from Maharashtra, known for its robust flavor and excellent gluten content",
+    "type": "Wheat",
+    "price": 2500,
+    "originalPrice": 2800,
+    "rating": 4.6,
+    "remainingQuantity": 3500,
+    "OwnerName": "Mrs. Seema Desai",
+    "inStock": true,
+    "images": [
+        "https://thumbs.dreamstime.com/b/large-warehouse-wheat-bags-248450023.jpg?w=400"
+    ],
+    "categories": [
+        "indigenous",
+        "robust flavor",
+        "gluten-rich"
+    ],
+    "brand": "Maharashtra Delight",
+    "weight": 10,
+    "features": [
+        "Perfect for traditional dishes",
+        "Great gluten content",
+        "Maharashtrian culinary delight"
+    ]
+}
+
+{
+    "productId": "PROD-WH009",
+    "name": "Gehu Wheat",
+    "description": "common wheat variety grown in the fertile plains of Punjab, known for its high yield and quality",
+    "type": "Wheat",
+    "price": 2700,
+    "originalPrice": 2900,
+    "rating": 4.4,
+    "remainingQuantity": 4000,
+    "OwnerName": "Mr. Harinder Singh",
+    "inStock": true,
+    "images": [
+        "https://thumbs.dreamstime.com/b/stacking-wheat-bags-truck-move-to-warehouse-186880616.jpg"
+    ],
+    "categories": [
+        "common",
+        "Punjab",
+        "high yield"
+    ],
+    "brand": "Punjabi Harvest",
+    "weight": 12,
+    "features": [
+        "Rich in nutrients",
+        "High-yield crop",
+        "Versatile in the kitchen"
+    ]
+}
+
+{
+    "productId": "PROD-WH010",
+    "name": "Chapati Gold Wheat",
+    "description": "wheat variety specially crafted for making golden and fluffy chapatis, a staple in every Indian household",
+    "type": "Wheat",
+    "price": 2900,
+    "originalPrice": 3200,
+    "rating": 4.8,
+    "remainingQuantity": 3000,
+    "OwnerName": "Mrs. Anjali Malik",
+    "inStock": true,
+    "images": [
+        "https://thumbs.dreamstime.com/b/sack-stock-salt-shop-raw-leather-251522094.jpg"
+    ],
+    "categories": [
+        "chapati",
+        "fluffy",
+        "staple"
+    ],
+    "brand": "Golden Chapati",
+    "weight": 8,
+    "features": [
+        "Ideal for chapatis",
+        "Golden hue",
+        "Soft and fluffy texture"
+    ]
+}
+
+{
+    "productId": "PROD-WH011",
+    "name": "Surti Kolam Wheat",
+    "description": "medium-grain wheat variety from Gujarat, known for its aromatic qualities and versatile culinary uses",
+    "type": "Wheat",
+    "price": 2600,
+    "originalPrice": 2800,
+    "rating": 4.5,
+    "remainingQuantity": 3500,
+    "OwnerName": "Mr. Hitesh Patel",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8JVqwZALs1SqRaWb_dbxmo1-8b_1MHv7v4g&usqp=CAU"
+    ],
+    "categories": [
+        "medium-grain",
+        "Gujarat",
+        "aromatic"
+    ],
+    "brand": "Gujarati Aroma",
+    "weight": 10,
+    "features": [
+        "Versatile for various dishes",
+        "Distinct aroma",
+        "A culinary delight from Gujarat"
+    ]
+}
+
+{
+    "productId": "PROD-WH012",
+    "name": "Bhaliya Wheat",
+    "description": "hard wheat variety from Madhya Pradesh, known for its high gluten content and excellent baking properties",
+    "type": "Wheat",
+    "price": 2800,
+    "originalPrice": 3000,
+    "rating": 4.6,
+    "remainingQuantity": 3200,
+    "OwnerName": "Mr. Manoj Tiwari",
+    "inStock": true,
+    "images": [
+        "https://t3.ftcdn.net/jpg/01/03/78/80/360_F_103788027_P2p5CEbRTHJaG4ZD8oG47c8P34fCy5kE.jpg"
+    ],
+    "categories": [
+        "hard wheat",
+        "Madhya Pradesh",
+        "baking"
+    ],
+    "brand": "Madhya Magic",
+    "weight": 8,
+    "features": [
+        "Perfect for baking",
+        "High gluten content",
+        "Quality assurance from Madhya Pradesh"
+    ]
+}
+
+{
+    "productId": "PROD-WH013",
+    "name": "Rajasthani Gehun",
+    "description": "wheat variety from Rajasthan, known for its robust flavor and versatility in Rajasthani cuisine",
+    "type": "Wheat",
+    "price": 2700,
+    "originalPrice": 2900,
+    "rating": 4.5,
+    "remainingQuantity": 3400,
+    "OwnerName": "Mrs. Neha Jain",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/177008634/photo/wheat-and-hands-of-the-old-farmer.jpg?s=612x612&w=0&k=20&c=v71jJ6j4TzQHgulxeA8aLVlQ2q5Hx0YqD2IJJp8OVmE="
+    ],
+    "categories": [
+        "Rajasthan",
+        "robust flavor",
+        "versatile"
+    ],
+    "brand": "Royal Rajasthan",
+    "weight": 10,
+    "features": [
+        "Ideal for Rajasthani dishes",
+        "Versatile in the kitchen",
+        "Robust and full-bodied flavor"
+    ]
+}
+
+{
+    "productId": "PROD-WH014",
+    "name": "Kala Til Gehun",
+    "description": "wheat variety with black sesame seeds, known for its unique flavor and nutritional benefits",
+    "type": "Wheat",
+    "price": 2900,
+    "originalPrice": 3100,
+    "rating": 4.7,
+    "remainingQuantity": 3000,
+    "OwnerName": "Mr. Ajay Sharma",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/1297576677/photo/wheat-seeds-pouring-from-hands-on-agricultural-field.jpg?s=612x612&w=0&k=20&c=62qGzJCnBTODhwU1v_a-qSL4hc0bIeNQCmAnsj5lGSU="
+    ],
+    "categories": [
+        "black sesame seeds",
+        "unique flavor",
+        "nutritional"
+    ],
+    "brand": "Sesame Wheat",
+    "weight": 8,
+    "features": [
+        "Distinctive taste",
+        "Enriched with sesame seeds",
+        "Nutrient-packed choice"
+    ]
+}
+
+{
+    "productId": "PROD-MZ001",
+    "name": "Dry Maize",
+    "description": "one of the most versatile emerging crops shaving wider adaptability under varied agro-climatic conditions",
+    "type": "Maize",
+    "price": 4500,
+    "originalPrice": 4700,
+    "rating": 4.5,
+    "remainingQuantity": 6000,
+    "OwnerName":"Mr. Ganesh Chandra",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/541989982/photo/bags-of-feed.jpg?s=612x612&w=0&k=20&c=VTZ3pgIv6eZZwHZUlVzKce5D_fHebOiYck4KXyT3tRA="
+    ],
+    "categories": [
+        "seeds",
+        "grains",
+        "maize"
+    ],
+    "brand": "Harvest Haven",
+    "weight": 10,
+    "features": [
+        "Non-GMO",
+        "High-yield",
+        "Suitable for diverse climates"
+    ]
+}
+
+{
+    "productId": "PROD-MZ002",
+    "name": "Organic Corn",
+    "description": "naturally grown maize without synthetic pesticides or fertilizers, promoting sustainable farming practices",
+    "type": "Maize",
+    "price": 5000,
+    "originalPrice": 5200,
+    "rating": 4.8,
+    "remainingQuantity": 5500,
+    "OwnerName": "Mrs. Ananya Sharma",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/513108854/photo/corn-in-the-sack.jpg?s=612x612&w=0&k=20&c=nWntceHMuRrDdcysm030g9i3hP6_rFcGd3Vw42wKosQ="
+    ],
+    "categories": [
+        "organic",
+        "sustainable",
+        "corn"
+    ],
+    "brand": "EcoHarvest",
+    "weight": 5,
+    "features": [
+        "Certified organic",
+        "Promotes sustainable farming",
+        "Pure and natural"
+    ]
+}
+
+
+{
+    "productId": "PROD-MZ003",
+    "name": "Golden Maize",
+    "description": "special maize variety with a vibrant golden color, perfect for festive decorations and culinary uses",
+    "type": "Maize",
+    "price": 4800,
+    "originalPrice": 5000,
+    "rating": 4.6,
+    "remainingQuantity": 5800,
+    "OwnerName": "Mr. Rajeev Kapoor",
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/image-photo/bag-corn-seeds-isolated-on-260nw-531377626.jpg"
+    ],
+    "categories": [
+        "special variety",
+        "festive",
+        "decorative"
+    ],
+    "brand": "Golden Harvest",
+    "weight": 8,
+    "features": [
+        "Vibrant golden color",
+        "Perfect for festive occasions",
+        "Culinary versatility"
+    ]
+}
+
+
+{
+    "productId": "PROD-MZ004",
+    "name": "Masala Corn Kernels",
+    "description": "flavorful maize kernels seasoned with a blend of Indian spices, ready to be used in various dishes",
+    "type": "Maize",
+    "price": 5200,
+    "originalPrice": 5400,
+    "rating": 4.7,
+    "remainingQuantity": 5200,
+    "OwnerName": "Ms. Priya Patel",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/173193087/photo/maize-in-burlap-sack.jpg?s=612x612&w=0&k=20&c=0bFdAjAd953c80ik6Re_HQZYJaWJQbXW7N8yhYYiY7U="
+    ],
+    "categories": [
+        "flavorful",
+        "spiced",
+        "ready-to-use"
+    ],
+    "brand": "Spice Haven",
+    "weight": 5,
+    "features": [
+        "Convenient and ready-to-use",
+        "Infused with Indian spices",
+        "Versatile in cooking"
+    ]
+}
+
+
+{
+    "productId": "PROD-MZ005",
+    "name": "Baby Corn",
+    "description": "tender and young maize cobs, perfect for stir-fries, salads, and various culinary creations",
+    "type": "Maize",
+    "price": 5500,
+    "originalPrice": 5700,
+    "rating": 4.5,
+    "remainingQuantity": 5000,
+    "OwnerName": "Mr. Arjun Reddy",
+    "inStock": true,
+    "images": [
+        "https://media.istockphoto.com/id/1283828121/photo/sack-full-with-corn-seed.jpg?s=612x612&w=0&k=20&c=ktNH2qP0O2QxkQipHU-61OjC1T12AWGtfPRAO3Pc8EE="
+    ],
+    "categories": [
+        "tender",
+        "young",
+        "culinary"
+    ],
+    "brand": "Tiny Treats",
+    "weight": 3,
+    "features": [
+        "Tender and succulent",
+        "Perfect for various dishes",
+        "Adds a unique touch to recipes"
+    ]
+}
+
+
+{
+    "productId": "PROD-MZ006",
+    "name": "Popcorn Delight",
+    "description": "special maize variety specifically grown for making popcorn, offering a delightful snacking experience",
+    "type": "Maize",
+    "price": 4900,
+    "originalPrice": 5100,
+    "rating": 4.6,
+    "remainingQuantity": 5300,
+    "OwnerName": "Mrs. Aparna Das",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Fl0i8eiCiH6MGtnMw8pdmfBo693U8k2yKbVxbSLwaqnRSTkJJW95GGR7pJC2A8d-3R4&usqp=CAU"
+    ],
+    "categories": [
+        "popcorn",
+        "snacking",
+        "delightful"
+    ],
+    "brand": "Snack Haven",
+    "weight": 2,
+    "features": [
+        "Perfect for movie nights",
+        "Grown for popcorn",
+        "Crunchy and delicious"
+    ]
+}
+
+
+{
+    "productId": "PROD-MZ007",
+    "name": "Spicy Corn Flour",
+    "description": "maize flour infused with a blend of spices, ideal for making spicy and flavorful dishes",
+    "type": "Maize",
+    "price": 5300,
+    "originalPrice": 5500,
+    "rating": 4.7,
+    "remainingQuantity": 5100,
+    "OwnerName": "Mr. Anand Verma",
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/image-photo/raw-corn-seed-sack-local-260nw-718829212.jpg"
+    ],
+    "categories": [
+        "flour",
+        "spicy",
+        "flavorful"
+    ],
+    "brand": "Flavor Fusion",
+    "weight": 5,
+    "features": [
+        "Infused with aromatic spices",
+        "Perfect for Indian recipes",
+        "Adds a kick to your dishes"
+    ]
+}
+
+
+{
+    "productId": "PROD-MZ008",
+    "name": "Gujarati Makai",
+    "description": "maize variety popular in Gujarat, known for its sweet taste and suitability for traditional dishes",
+    "type": "Maize",
+    "price": 5100,
+    "originalPrice": 5300,
+    "rating": 4.5,
+    "remainingQuantity": 5200,
+    "OwnerName": "Mrs. Nisha Gupta",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqotH2cIsE4xaLrxPYID7awt9eueW2p6wQSw&usqp=CAU"
+    ],
+    "categories": [
+        "Gujarat",
+        "sweet",
+        "traditional"
+    ],
+    "brand": "Gujarati Delicacies",
+    "weight": 8,
+    "features": [
+        "Sweet and flavorful",
+        "Ideal for traditional Gujarati dishes",
+        "Culinary delight from Gujarat"
+    ]
+}
+
+
+{
+    "productId": "PROD-MZ009",
+    "name": "Maize Crunchies",
+    "description": "crispy and crunchy maize snacks, seasoned with a blend of Indian spices, perfect for snacking",
+    "type": "Maize",
+    "price": 5200,
+    "originalPrice": 5400,
+    "rating": 4.6,
+    "remainingQuantity": 5000,
+    "OwnerName": "Mr. Vikrant Joshi",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJC4yaQNm7KfdJeHDtZYwlp0LhoHkCgBX0KJ6Sj9z5QphFek2FAiKUZrVI7DgwLMe_bE&usqp=CAU"
+    ],
+    "categories": [
+        "snacks",
+        "crispy",
+        "spicy"
+    ],
+    "brand": "Crunchy Bites",
+    "weight": 3,
+    "features": [
+        "Irresistibly crispy",
+        "Spiced to perfection",
+        "Perfect for snacking"
+    ]
+}
+
+{
+    "productId": "PROD-ML001",
+    "name": "Jowar",
+    "description": "Millets are a whole grain that's packed with protein, antioxidants, and nutrients",
+    "type": "Millet",
+    "price": 2000,
+    "originalPrice": 2200,
+    "rating": 4.5,
+    "remainingQuantity": 3000,
+    "OwnerName":"Mr. Ramesh Kumar",
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/image-photo/millet-bag-green-spikelets-isolated-260nw-701757334.jpg"
+    ],
+    "categories": [
+        "seeds",
+        "grains",
+        "maize"
+    ],
+    "brand": "Harvest Haven",
+    "weight": 10,
+    "features": [
+        "Non-GMO",
+        "High-yield",
+        "Suitable for diverse climates"
+    ]
+}
+
+{
+    "productId": "PROD-ML002",
+    "name": "Bajra Pearl Millet",
+    "description": "nutrient-rich millet known for its pearl-like grains, a staple in Indian cuisine for centuries",
+    "type": "Millet",
+    "price": 2200,
+    "originalPrice": 2400,
+    "rating": 4.6,
+    "remainingQuantity": 2800,
+    "OwnerName": "Mrs. Kavita Singh",
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/image-photo/finger-millet-sack-bag-260nw-646498984.jpg"
+    ],
+    "categories": [
+        "nutrient-rich",
+        "staple",
+        "pearl-like grains"
+    ],
+    "brand": "Pearl Delights",
+    "weight": 5,
+    "features": [
+        "Rich in essential nutrients",
+        "Traditional Indian staple",
+        "Versatile in cooking"
+    ]
+}
+
+{
+    "productId": "PROD-ML003",
+    "name": "Foxtail Millet",
+    "description": "small-grain millet with a nutty flavor, commonly used in South Indian dishes like idlis and dosas",
+    "type": "Millet",
+    "price": 2300,
+    "originalPrice": 2500,
+    "rating": 4.7,
+    "remainingQuantity": 2600,
+    "OwnerName": "Mr. Arvind Patel",
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7XDFxMQjw8VOQieTIqRR0i9DU3iCfxiKSMz9CH0y8BLuM-XveHiosKDrqstqpMmZ3BQ&usqp=CAU"
+    ],
+    "categories": [
+        "small-grain",
+        "South Indian",
+        "nutty flavor"
+    ],
+    "brand": "Southern Grains",
+    "weight": 8,
+    "features": [
+        "Nutty and delicious",
+        "Perfect for idlis and dosas",
+        "South Indian culinary delight"
+    ]
+}
+
+{
+    "productId": "PROD-ML004",
+    "name": "Little Millet",
+    "description": "small-sized millet with a mild flavor, suitable for a variety of dishes and often used in diet-conscious meals",
+    "type": "Millet",
+    "price": 2100,
+    "originalPrice": 2300,
+    "rating": 4.5,
+    "remainingQuantity": 2900,
+    "OwnerName": "Mrs. Meenakshi Rao",
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/image-photo/finger-millet-sack-bag-260nw-646498984.jpg"
+    ],
+    "categories": [
+        "small-sized",
+        "mild flavor",
+        "diet-conscious"
+    ],
+    "brand": "Lite Bites",
+    "weight": 5,
+    "features": [
+        "Mild and versatile",
+        "Perfect for diet-conscious meals",
+        "Healthy addition to various dishes"
+    ]
+}
+
+{
+    "productId": "PROD-ML005",
+    "name": "Kodo Millet",
+    "description": "ancient millet variety with a unique taste, commonly used in traditional Indian recipes",
+    "type": "Millet",
+    "price": 2400,
+    "originalPrice": 2600,
+    "rating": 4.6,
+    "remainingQuantity": 2700,
+    "OwnerName": "Mr. Ashok Verma",
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/ANDROID/Default/2021/3/DG/TT/UP/110221621/product-jpeg.png"
+    ],
+    "categories": [
+        "ancient variety",
+        "unique taste",
+        "traditional recipes"
+    ],
+    "brand": "Heritage Millets",
+    "weight": 7,
+    "features": [
+        "Rich in history",
+        "Unique taste profile",
+        "Versatile in traditional cooking"
+    ]
+}
+
+{
+    "productId": "PROD-ML006",
+    "name": "Finger Millet (Ragi)",
+    "description": "nutrient-dense millet with a deep earthy flavor, a popular choice for its health benefits",
+    "type": "Millet",
+    "price": 2500,
+    "originalPrice": 2700,
+    "rating": 4.7,
+    "remainingQuantity": 2500,
+    "OwnerName": "Mrs. Deepa Sharma",
+    "inStock": true,
+    "images": [
+        "https://www.shutterstock.com/image-photo/millet-groats-on-table-bag-260nw-2300417593.jpg"
+    ],
+    "categories": [
+        "nutrient-dense",
+        "earthy flavor",
+        "health benefits"
+    ],
+    "brand": "Healthy Harvest",
+    "weight": 5,
+    "features": [
+        "Rich in nutrients",
+        "Deep earthy flavor",
+        "Promotes overall well-being"
+    ]
+}
+
+{
+    "productId": "PROD-ML007",
+    "name": "Proso Millet",
+    "description": "light and mild millet variety, suitable for a range of dishes from savory to sweet",
+    "type": "Millet",
+    "price": 2200,
+    "originalPrice": 2400,
+    "rating": 4.5,
+    "remainingQuantity": 2800,
+    "OwnerName": "Mr. Vikas Kumar",
+    "inStock": true,
+    "images": [
+        "https://thumbs.dreamstime.com/b/millet-wooden-bowl-burlap-bag-green-spikelets-isolated-white-background-millet-wooden-bowl-burlap-bag-green-99139592.jpg"
+    ],
+    "categories": [
+        "light and mild",
+        "versatile",
+        "sweet and savory"
+    ],
+    "brand": "Light Delicacies",
+    "weight": 6,
+    "features": [
+        "Mild and versatile",
+        "Perfect for sweet and savory dishes",
+        "Light and easy to digest"
+    ]
+}
+
+{
+    "productId": "PROD-ML008",
+    "name": "Barnyard Millet",
+    "description": "fast-cooking millet with a nutty flavor, suitable for quick and healthy meals",
+    "type": "Millet",
+    "price": 2300,
+    "originalPrice": 2500,
+    "rating": 4.6,
+    "remainingQuantity": 2700,
+    "OwnerName": "Mrs. Anjali Gupta",
+    "inStock": true,
+    "images": [
+        "https://thumbs.dreamstime.com/b/bag-millet-white-background-39462170.jpg"
+    ],
+    "categories": [
+        "fast-cooking",
+        "nutty flavor",
+        "quick meals"
+    ],
+    "brand": "Quick Bites",
+    "weight": 4,
+    "features": [
+        "Fast-cooking option",
+        "Nutty and delicious",
+        "Perfect for quick and healthy meals"
+    ]
+}
