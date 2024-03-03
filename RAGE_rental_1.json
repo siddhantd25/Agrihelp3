@@ -1,0 +1,184 @@
+{
+  "createTime": 1709442012332,
+  "updateTime": 1709442012337,
+  "name": "RAGE_rental",
+  "description": "test",
+  "version": 1,
+  "tasks": [
+    {
+      "name": "book_machine",
+      "taskReferenceName": "book_machine_ref",
+      "inputParameters": {
+        "customer_name": "${workflow.input.customer_name}",
+        "ownerlocation": "${workflow.input.ownerlocation}",
+        "customerlocation": "${workflow.input.customerlocation}"
+      },
+      "type": "SIMPLE",
+      "decisionCases": {},
+      "defaultCase": [],
+      "forkTasks": [],
+      "startDelay": 0,
+      "joinOn": [],
+      "optional": false,
+      "defaultExclusiveJoinTask": [],
+      "asyncComplete": false,
+      "loopOver": [],
+      "onStateChange": {}
+    },
+    {
+      "name": "inform_owner",
+      "taskReferenceName": "inform_owner_ref",
+      "inputParameters": {
+        "bookingId": "${book_machine_ref.output.bookingId}"
+      },
+      "type": "SIMPLE",
+      "decisionCases": {},
+      "defaultCase": [],
+      "forkTasks": [],
+      "startDelay": 0,
+      "joinOn": [],
+      "optional": false,
+      "defaultExclusiveJoinTask": [],
+      "asyncComplete": false,
+      "loopOver": [],
+      "onStateChange": {}
+    },
+    {
+      "name": "payment",
+      "taskReferenceName": "payment_ref",
+      "inputParameters": {
+        "bookingId": "${inform_owner_ref.output.bookingId}",
+        "customer_name": "${workflow.input.customer_name}"
+      },
+      "type": "SIMPLE",
+      "decisionCases": {},
+      "defaultCase": [],
+      "forkTasks": [],
+      "startDelay": 0,
+      "joinOn": [],
+      "optional": false,
+      "defaultExclusiveJoinTask": [],
+      "asyncComplete": false,
+      "loopOver": [],
+      "onStateChange": {}
+    },
+    {
+      "name": "confirm_machine_booking",
+      "taskReferenceName": "confirm_machine_booking_ref",
+      "inputParameters": {
+        "bookingId": "${inform_owner_ref.output.bookingId}"
+      },
+      "type": "SIMPLE",
+      "decisionCases": {},
+      "defaultCase": [],
+      "forkTasks": [],
+      "startDelay": 0,
+      "joinOn": [],
+      "optional": false,
+      "defaultExclusiveJoinTask": [],
+      "asyncComplete": false,
+      "loopOver": [],
+      "onStateChange": {}
+    },
+    {
+      "name": "fork_notify",
+      "taskReferenceName": "fork_notify_ref",
+      "inputParameters": {},
+      "type": "FORK_JOIN",
+      "decisionCases": {},
+      "defaultCase": [],
+      "forkTasks": [
+        [
+          {
+            "name": "notify_customer",
+            "taskReferenceName": "notify_customer_ref",
+            "inputParameters": {
+              "customer_name": "${workflow.input.customer_name}",
+              "owner_name": "${inform_owner_ref.output.owner_name}",
+              "bookingId": "${book_machine_ref.output.bookingId}",
+              "ownerlocation": "${workflow.input.ownerlocation}",
+              "customerlocation": "${workflow.input.customerlocation}"
+            },
+            "type": "SIMPLE",
+            "decisionCases": {},
+            "defaultCase": [],
+            "forkTasks": [],
+            "startDelay": 0,
+            "joinOn": [],
+            "optional": false,
+            "defaultExclusiveJoinTask": [],
+            "asyncComplete": false,
+            "loopOver": [],
+            "onStateChange": {}
+          }
+        ],
+        [
+          {
+            "name": "notify_owner",
+            "taskReferenceName": "notify_owner_ref",
+            "inputParameters": {
+              "bookingId": "${book_machine_ref.output.bookingId}",
+              "customer_name": "${workflow.output.customer_name}",
+              "ownerlocation": "${workflow.input.ownerlocation}",
+              "customerlocation": "${workflow.input.customerlocation}"
+            },
+            "type": "SIMPLE",
+            "decisionCases": {},
+            "defaultCase": [],
+            "forkTasks": [],
+            "startDelay": 0,
+            "joinOn": [],
+            "optional": false,
+            "defaultExclusiveJoinTask": [],
+            "asyncComplete": false,
+            "loopOver": [],
+            "onStateChange": {}
+          }
+        ]
+      ],
+      "startDelay": 0,
+      "joinOn": [],
+      "optional": false,
+      "defaultExclusiveJoinTask": [],
+      "asyncComplete": false,
+      "loopOver": [],
+      "onStateChange": {}
+    },
+    {
+      "name": "join_task_notification",
+      "taskReferenceName": "join_task_notification_ref",
+      "inputParameters": {},
+      "type": "JOIN",
+      "decisionCases": {},
+      "defaultCase": [],
+      "forkTasks": [],
+      "startDelay": 0,
+      "joinOn": [
+        "notify_customer_ref",
+        "notify_owner_ref"
+      ],
+      "optional": false,
+      "defaultExclusiveJoinTask": [],
+      "asyncComplete": false,
+      "loopOver": [],
+      "onStateChange": {}
+    }
+  ],
+  "inputParameters": [
+    "customer_name",
+    "ownerlocation",
+    "customerlocation"
+  ],
+  "outputParameters": {
+    "bookingId": "${book_machine_ref.output.bookingId}"
+  },
+  "failureWorkflow": "RAGE_rental_fail",
+  "schemaVersion": 2,
+  "restartable": true,
+  "workflowStatusListenerEnabled": false,
+  "ownerEmail": "siddhantd37@gmail.com",
+  "timeoutPolicy": "ALERT_ONLY",
+  "timeoutSeconds": 0,
+  "variables": {},
+  "inputTemplate": {}
+}
